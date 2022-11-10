@@ -18,8 +18,8 @@ from scipy.stats import mannwhitneyu
 
 workdir = join(os.path.realpath(os.path.dirname(__file__)))
 #print(workdir)
-comparison = [(1840,1859), (1900,1919)]
-samplesize = 10
+comparison = [(1840,1869), (1889,1919)]
+samplesize = 20
 
 
 # === Functions === 
@@ -52,7 +52,7 @@ def visualize_data(data, corpus):
     plot.set(xlabel=xlabel, ylabel=ylabel, title=title)
     fig = plot.get_figure()
     boxplotname = join(workdir, "results", corpus + "-boxplot-decades.png")
-    fig.savefig(join(workdir, boxplotname))
+    fig.savefig(join(workdir, boxplotname), dpi=300)
     #== Create a scatterplot with regression line
     plt.figure() 
     title="Verbs of inner life in ELTeC-" + corpus
@@ -108,7 +108,7 @@ def plot_seaborn(corpus, comparison, vals1, vals2, med1, med2, samplesize, p):
     xlabel="Relative frequency\n(samplesize="+str(samplesize)+", p="+pval+")"
     ylabel="Density (KDE)"
     #== Plotting
-    plot = sns.displot([vals1, vals2], kind="kde", fill=True, rug=True)
+    plot = sns.displot([vals1, vals2], kind="kde", fill=True, rug=False, linewidth=2)
     plot.set(xlabel=xlabel, ylabel=ylabel, title=title)
     complotname = join(workdir, "results", corpus + "-comparison.png")
     plot.savefig(join(workdir, complotname), dpi=300)
@@ -117,7 +117,7 @@ def plot_seaborn(corpus, comparison, vals1, vals2, med1, med2, samplesize, p):
 # === Main === 
 
 def main(): 
-    corpora = ["deu", "eng", "fra", "hun", "por", "spa", "slv", "por"]
+    corpora = ["rom", "deu", "eng", "fra", "hun", "por", "spa", "slv", "por"]
     for corpus in corpora: 
         #== Prepare the data
         dataset = join(workdir, "data", corpus, "innerVerbCounts.dat")
