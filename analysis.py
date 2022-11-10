@@ -1,5 +1,9 @@
 """
 Script to analyze and visualize the "inner life" data from ELTeC. 
+For each language represented in the dataset, produces 
+- boxplots summarizing the data per decade, 
+- scatterplots with a regression line
+- comparison plots for the earlier vs. the later part of the data.
 """
 
 # === Imports ===
@@ -12,11 +16,12 @@ import random
 from matplotlib import pyplot as plt
 import seaborn as sns
 from scipy.stats import mannwhitneyu
-
+import re
 
 # === Global variables ===
 
 workdir = join(os.path.realpath(os.path.dirname(__file__)))
+categoryfile = join(workdir, "data", "innerVerbs_clean.xml")
 corpora = ["rom", "deu", "eng", "fra", "hun", "por", "spa", "slv", "por"]
 comparison = [(1840,1869), (1889,1919)]
 samplesize = 20
@@ -123,7 +128,21 @@ def plot_seaborn(corpus, comparison, vals1, vals2, med1, med2, samplesize, p):
     complotname = join(workdir, "results", corpus + "-comparison.png")
     plot.savefig(join(workdir, complotname), dpi=300)
     plt.close()
-    
+
+
+def get_categories(): 
+    with open(categoryfile, "r", encoding="utf8") as infile: 
+        data = infile.read()
+    categorydata = {}
+    lemmas = re.findall("<lemma (.*?)/>", data)
+    for item in lemmas: 
+        form = re.findall("form=\"(.*?)\"", item)[0]
+        cat = re.findall("cat=\"(.*?)\"", item)[0]
+        categorydata[form] = cat
+    #print(categorydata)
+    return categorydata
+
+
 
 # === Main === 
 
@@ -140,7 +159,8 @@ def main():
             vals1, vals2, med1, med2 = filter_data(data, comparison, samplesize)
             stat, p = test_significance(vals1, vals2)
             plot_seaborn(corpus, comparison, vals1, vals2, med1, med2, samplesize, p) 
-        #== Finish.
+        #== Create the per-category data
+        categorydata = get_categories()
         print("Done:", corpus)
 
 main()
