@@ -103,6 +103,7 @@ def plot_seaborn(corpus, comparison, vals1, vals2, med1, med2, samplesize, p):
         pval = "<0.00001"
     else: 
         pval = '{0:.5f}'.format(p)
+    plt.figure() 
     title="Comparison of verbs of inner life in ELTeC-" + corpus
     xlabel="Relative frequency\n(samplesize="+str(samplesize)+", p="+pval+")"
     ylabel="Density (KDE)"
