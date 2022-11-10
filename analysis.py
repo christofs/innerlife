@@ -17,7 +17,7 @@ from scipy.stats import mannwhitneyu
 # === Global variables ===
 
 workdir = join(os.path.realpath(os.path.dirname(__file__)))
-#print(workdir)
+corpora = ["rom", "deu", "eng", "fra", "hun", "por", "spa", "slv", "por"]
 comparison = [(1840,1869), (1889,1919)]
 samplesize = 20
 
@@ -33,10 +33,14 @@ def read_data(dataset):
 
 def prepare_data(data):
     #== Calculate the relative frequency of the inner verbs as a proportion of all verbs.
+    # This is done at the level of all verbs of inner life as a whole 
+    # and at the level of each individual novel, which each has a year of publication.
     data["innerVerbsRel"] = data["innerVerbs"] / data["verbs"] 
     #== Create bins per decade
+    # This will be used for the boxplots per decade. 
     data["decade"] = (data["year"]//10)*10
     #== Select only the relevant columns for the visualization
+    # We only need year, decade and the relative frequency of the verbs of inner life. 
     data = data[["year", "decade", "innerVerbsRel"]]
     #print(data.head())
     return data
@@ -53,7 +57,9 @@ def visualize_data(data, corpus):
     fig = plot.get_figure()
     boxplotname = join(workdir, "results", corpus + "-boxplot-decades.png")
     fig.savefig(join(workdir, boxplotname), dpi=300)
+    plt.close()
     #== Create a scatterplot with regression line
+    # Here, each point is the joint frequency of all verbs of inner life in one novel.
     plt.figure() 
     title="Verbs of inner life in ELTeC-" + corpus
     xlabel="Relative frequency"
@@ -63,6 +69,7 @@ def visualize_data(data, corpus):
     fig = plot.get_figure()
     regplotname = join(workdir, "results", corpus + "-scatter+regression.png")
     fig.savefig(join(workdir, regplotname), dpi=300)
+    plt.close()
 
 
 def filter_data(data, comparison, samplesize): 
@@ -98,6 +105,9 @@ def test_significance(vals1, vals2):
 
 
 def plot_seaborn(corpus, comparison, vals1, vals2, med1, med2, samplesize, p): 
+    """
+    Creates a plot that compares the distributions 
+    """
     #== Labels
     if p < 0.00001: 
         pval = "<0.00001"
@@ -112,12 +122,12 @@ def plot_seaborn(corpus, comparison, vals1, vals2, med1, med2, samplesize, p):
     plot.set(xlabel=xlabel, ylabel=ylabel, title=title)
     complotname = join(workdir, "results", corpus + "-comparison.png")
     plot.savefig(join(workdir, complotname), dpi=300)
+    plt.close()
     
 
 # === Main === 
 
 def main(): 
-    corpora = ["rom", "deu", "eng", "fra", "hun", "por", "spa", "slv", "por"]
     for corpus in corpora: 
         #== Prepare the data
         dataset = join(workdir, "data", corpus, "innerVerbCounts.dat")
