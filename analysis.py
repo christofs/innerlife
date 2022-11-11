@@ -5,6 +5,8 @@ For each language represented in the dataset, produces
 - a boxplot, for all verbs jointly, summarized per decade 
 - a comparison plot for the earlier vs. the later part of the data.
 - the same series of plots for each category of verbs separately.
+
+Script by Christof Schöch (Trier), November 2022. 
 """
 
 
@@ -24,10 +26,12 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 from scipy.stats import mannwhitneyu
 
+
 # === Global variables ===
 
 workdir = join(os.path.realpath(os.path.dirname(__file__)))
-corpora = ["rom", "deu", "eng", "fra", "hun", "por", "spa", "slv", "por"]
+corpora = ["rom", "eng", "fra", "hun", "por", "spa", "slv"]
+#== .dat-file missing for deu, srp, pol, nor ==
 categories = ["perception", "cognition", "volition", "affect", "physiology", "moral"]
 comparison = [(1840,1869), (1889,1919)]
 samplesize = 20
@@ -66,6 +70,7 @@ def make_boxplot(corpus, data, category):
     If a specific category of verb is indicated, only this is shown. 
     """
     #== Select only the relevant columns for the visualization
+    #== Either the relative frequency over all verbs, or over all verbs of one category.
     if category == "all": 
         selection = "innerVerbsRel"
     else: 
@@ -76,11 +81,10 @@ def make_boxplot(corpus, data, category):
     title = "Verbs of inner life (" + category + ") in ELTeC-" + corpus
     ylabel = "Relative frequency"
     xlabel = "Decades"
+    boxplotname = join(workdir, "results", corpus + "_" + category + "-byDecade.png")
     plot = sns.boxplot(data = selected, x = "decade", y = selection, palette = "Blues")
     plot.set(xlabel = xlabel, ylabel = ylabel, title = title)
-    fig = plot.get_figure()
-    boxplotname = join(workdir, "results", corpus + "_" + category + "-byDecade.png")
-    fig.savefig(join(workdir, boxplotname), dpi=300)
+    plot.get_figure().savefig(join(workdir, boxplotname), dpi=300)
     plt.close()
 
 
@@ -99,11 +103,10 @@ def make_regplot(corpus, data, category):
     title = "Verbs of inner life (" + category + ") in ELTeC-" + corpus
     ylabel = "Relative frequency"
     xlabel = "Years"
+    regplotname = join(workdir, "results", corpus + "_" + category + "-perNovel.png")
     plot = sns.regplot(data = data, x = "year", y = selection, order = 2)
     plot.set(xlabel = xlabel, ylabel = ylabel, title = title)
-    fig = plot.get_figure()
-    regplotname = join(workdir, "results", corpus + "_" + category + "-perNovel.png")
-    fig.savefig(join(workdir, regplotname), dpi=300)
+    plot.get_figure().savefig(join(workdir, regplotname), dpi=300)
     plt.close()
 
 
@@ -151,10 +154,10 @@ def make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, ca
     title = "Comparison of verbs of inner life (" + category + ") in ELTeC-" + corpus
     xlabel = "Relative frequency\n(samplesize=" + str(samplesize) + ", p=" + pval + ")"
     ylabel = "Density (KDE)"
+    complotname = join(workdir, "results", corpus + "_" + category + "-comparison.png")
     #== Plotting
     plot = sns.displot([vals1, vals2], kind="kde", fill=True, rug=False, linewidth=2)
-    plot.set(xlabel=xlabel, ylabel=ylabel, title=title)
-    complotname = join(workdir, "results", corpus + "_" + category + "-comparison.png")
+    plot.set(xlabel = xlabel, ylabel = ylabel, title = title)
     plot.savefig(join(workdir, complotname), dpi=300)
     plt.close()
 
@@ -164,15 +167,13 @@ def make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, ca
 
 def main(): 
     for corpus in corpora: 
-        if corpus in ["rom", "eng", "fra", "hun", "por", "spa", "slv", "por"]: # "deu" missing data!
-            #== Prepare the data
-            dataset = join(workdir, "data", corpus, "innerVerbCounts.dat")
-            data = prepare_data(dataset)
-        if corpus in ["rom", "eng", "fra", "hun", "por", "spa", "slv", "por"]: # "deu" missing data!
-            #== Create some plots (boxplot, regplot)
-            make_boxplot(corpus, data, category="all")
-            make_regplot(corpus, data, category="all")
-        if corpus in ["eng", "fra", "hun", "por", "spa"]:
+        #== Prepare the data
+        dataset = join(workdir, "data", corpus, "innerVerbCounts.dat")
+        data = prepare_data(dataset)
+        #== Create some plots (boxplot, regplot)
+        make_boxplot(corpus, data, category="all")
+        make_regplot(corpus, data, category="all")
+        if corpus in ["eng", "fra", "hun", "por", "spa"]: # sufficient data in early and late period.
             #== Create a comparison plot
             vals1, vals2, med1, med2, stat, p = create_comparisondata(data, comparison, samplesize, category="all")
             make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, category="all") 
