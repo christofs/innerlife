@@ -31,8 +31,7 @@ from scipy.stats import mannwhitneyu
 # === Global variables ===
 
 workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
-corpora = ["deu", "eng", "fra", "hun", "nor", "por", "rom", "slv", "spa"]
-#== .dat-file missing for pol and srp ==
+corpora = ["deu", "eng", "fra", "hun", "nor", "por", "rom", "slv", "spa"] # no data: pol, srp
 categories = ["perception", "cognition", "volition", "affect", "physiology", "moral"]
 comparison = [(1840,1869), (1889,1919)]
 samplesize = 20
@@ -82,14 +81,14 @@ def make_boxplot(corpus, data, category):
     title = "Verbs of inner life (" + category + ") in ELTeC-" + corpus
     ylabel = "Relative frequency"
     xlabel = "Decades"
-    boxplotname = join(workdir, "results", corpus + "_" + category + "-byDecade.png")
+    boxplotname = join(corpus + "_" + category + "-byDecade.png")
     plot = sns.boxplot(
         data = selected,
         x = "decade",
         y = selection,
         palette = "Blues")
     plot.set(xlabel = xlabel, ylabel = ylabel, title = title)
-    plot.get_figure().savefig(join(workdir, boxplotname), dpi=300)
+    plot.get_figure().savefig(join(workdir, "results", corpus, boxplotname), dpi=300)
     plt.close("all")
 
 
@@ -108,14 +107,14 @@ def make_regplot(corpus, data, category):
     title = "Verbs of inner life (" + category + ") in ELTeC-" + corpus
     ylabel = "Relative frequency"
     xlabel = "Years"
-    regplotname = join(workdir, "results", corpus + "_" + category + "-perNovel.png")
+    regplotname = join(corpus + "_" + category + "-perNovel.png")
     plot = sns.regplot(
         data = data,
         x = "year",
         y = selection,
         order = 2)
     plot.set(xlabel = xlabel, ylabel = ylabel, title = title)
-    plot.get_figure().savefig(join(workdir, regplotname), dpi=300)
+    plot.get_figure().savefig(join(workdir, "results", corpus, regplotname), dpi=300)
     plt.close("all")
 
 
@@ -153,6 +152,11 @@ def create_comparisondata(data, comparison, samplesize, category):
 def make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, category): 
     """
     Creates a plot that compares the two selected distributions.
+    =================================================================================
+    WARNING! Due to the random sampling involved here, results can vary considerably
+    between different runs (see the "fra-all-comparison" plots in "results/fra"). 
+    Until this issue is resolved, skepticism is in order. 
+    =================================================================================
     """
     #== Labels
     if p < 0.00001: 
@@ -163,7 +167,7 @@ def make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, ca
     title = "Comparison of verbs of inner life (" + category + ") in ELTeC-" + corpus
     xlabel = "Relative frequency\n(samplesize=" + str(samplesize) + ", p=" + pval + ")"
     ylabel = "Density (KDE)"
-    complotname = join(workdir, "results", corpus + "_" + category + "-comparison.png")
+    complotname = join(corpus + "_" + category + "-comparison.png")
     #== Plotting
     plot = sns.displot(
         [vals1, vals2],
@@ -173,7 +177,7 @@ def make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, ca
         linewidth=2,
         warn_singular=False)
     plot.set(xlabel = xlabel, ylabel = ylabel, title = title)
-    plot.savefig(join(workdir, complotname), dpi=300)
+    plot.savefig(join(workdir, "results", corpus, complotname), dpi=300)
     plt.close("all")
 
 
@@ -182,28 +186,45 @@ def make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, ca
 
 def main(): 
     for corpus in corpora: 
-        print("\nNow working on", corpus)
+        print("\nNow working on corpus:", corpus)
+        # Create results directory if necessary
+        if not os.path.exists(join(workdir, "results", corpus)): 
+            os.makedirs(join(workdir, "results", corpus))
         #== Prepare the data
         dataset = join(workdir, "data", corpus, "manualCounts.dat")
         data = prepare_data(dataset)
         #== Create some plots (boxplot, regplot)
-        print("--", "all")
+        print("--", "all verbs:", end='')
         make_boxplot(corpus, data, category="all")
+        print(" boxplot✓", end='')
         make_regplot(corpus, data, category="all")
-        if corpus in ["deu", "eng", "fra", "hun", "por", "rom", "spa"]: 
-            #== !! (Insufficiently broad spread of the data for "nor" and "slv" !!
-            #== Create a comparison plot
+        print(" regplot✓", end='')
+        #== Create a comparison plot
+        try: 
             vals1, vals2, med1, med2, stat, p = create_comparisondata(data, comparison, samplesize, category="all")
             make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, category="all") 
-        if corpus in ["deu", "eng", "fra", "hun", "nor", "por", "rom", "slv", "spa"]: 
-            #== Create the per-category data visualizations
-            for category in categories: 
-                print("--", category)
-                make_boxplot(corpus, data, category)
-                make_regplot(corpus, data, category)
-                if corpus in ["deu", "eng", "fra", "hun", "por", "rom", "spa"]: 
-                    vals1, vals2, med1, med2, stat, p = create_comparisondata(data, comparison, samplesize, category)
-                    make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, category) 
-        print("Done.")
+            print(" kdeplot✓", end="")
+        except ValueError: 
+            print(" ERROR")
+            print("   The selected sample size is larger than the available data.")
+            print("   The comparison plot is skipped for " + corpus + " / " + category + ".", end="")
+        #== Create the per-category data visualizations
+        for category in categories: 
+            print("\n-- " + category + ":",  end="")
+            make_boxplot(corpus, data, category)
+            print(" boxplot✓", end="")
+            make_regplot(corpus, data, category)
+            print(" regplot✓", end="")
+            try: 
+                vals1, vals2, med1, med2, stat, p = create_comparisondata(data, comparison, samplesize, category)
+                make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, category) 
+                print(" kdeplot✓", end="")
+            except ValueError: 
+                print(" ERROR")
+                print("   The selected sample size is larger than the available data.")
+                print("   The comparison plot is skipped for " + corpus + " / " + category + ".", end="")
+
+        print("\nDone.")
+    print("\nAll done.\n")
 
 main()
