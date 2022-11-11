@@ -112,7 +112,7 @@ def make_regplot(corpus, data, category):
 
 def create_comparisondata(data, comparison, samplesize, category): 
     """
-    Selects the average sentence length values for all texts that fall 
+    Selects the values for all texts that fall 
     into the two periods specified by the comparison parameter. 
     Returns two Series with values for each of the two periods. 
     """
