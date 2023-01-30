@@ -29,11 +29,12 @@ import fr_dep_news_trf
 # === Global variables ===
 
 # Files outside the innerlife repository
-textfolder = join("/", "media", "christof", "Data", "Github", "mimotext", "roman18", "plain", "files", "*.txt")
+#textfolder = join("/", "media", "christof", "Data", "Github", "mimotext", "roman18", "plain", "files", "*.txt") #roman18
+textfolder = join("/", "media", "christof", "Data", "Github", "eltec", "ELTeC-fra", "plain1", "*.txt") #ELTeC-fra
 
 # Local data
 workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
-annotatedfolder = join(workdir, "data", "fra18", "annotated", "")
+annotatedfolder = join(workdir, "data", "fra19", "annotated", "")
 
 
 # === Functions === 
@@ -59,6 +60,7 @@ def annotate_text(text, nlp):
     Returns: list (list of tokens with annotation according to spacy data model)
     """
     nlp.max_length = len(text) + 1000
+    spacy.prefer_gpu()
     annotated = nlp(text, disable = ['ner', 'parser'])
     #print([(w.text, w.pos_) for w in annotated[0:5]])
     return annotated
@@ -76,12 +78,13 @@ def save_annotated(basename, annotated):
 
 def main():
     """
-    Coordindates the entire process. 
+    Coordinates the process. 
+    Loads nlp model from spacy. 
     Then loops over each text to annotate, and saves annotation to disk. 
     """
     nlp = spacy.load("fr_dep_news_trf")
     progress = 0
-    for file in glob.glob(textfolder)[40:]: 
+    for file in glob.glob(textfolder)[8:40]: 
         basename, ext = os.path.basename(file).split(".")
         text = read_textfile(file)
         annotated = annotate_text(text, nlp)

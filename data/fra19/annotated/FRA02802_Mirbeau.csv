@@ -1,0 +1,8393 @@
+ 
+	SPACE	 
+
+I	NOUN	i
+--	PUNCT	--
+Un	DET	un
+mardi	NOUN	mardi
+aux	ADP	à
+Français	NOUN	français
+
+	SPACE	
+
+...	PUNCT	...
+On	PRON	on
+claqua	VERB	claquer
+des	DET	un
+mains	NOUN	main
+ 	SPACE	 
+:	PUNCT	:
+le	DET	le
+rideau	NOUN	rideau
+tombait	VERB	tomber
+,	PUNCT	,
+prenant	VERB	prendre
+des	DET	un
+temps	NOUN	temps
+,	PUNCT	,
+comme	ADP	comme
+si	SCONJ	si
+,	PUNCT	,
+lui	PRON	lui
+aussi	ADV	aussi
+,	PUNCT	,
+il	PRON	il
+eût	AUX	avoir
+été	AUX	être
+sociétaire	NOUN	sociétaire
+.	PUNCT	.
+Et	CCONJ	et
+l'	DET	le
+orchestre	NOUN	orchestre
+se	PRON	se
+rua	VERB	ruer
+à	ADP	à
+la	DET	le
+queue	NOUN	queue
+leu	ADJ	leu
+leu	ADJ	leu
+des	ADP	de
+couloirs	NOUN	couloir
+.	PUNCT	.
+Seuls	ADJ	seul
+,	PUNCT	,
+des	DET	un
+vieux	NOUN	vieux
+à	ADP	à
+calottes	NOUN	calotte
+demeuraient	VERB	demeurer
+,	PUNCT	,
+des	DET	un
+étrangers	NOUN	étranger
+,	PUNCT	,
+en	ADP	en
+costumes	NOUN	costume
+de	ADP	de
+voyage	NOUN	voyage
+,	PUNCT	,
+qui	PRON	qui
+,	PUNCT	,
+debout	ADV	debout
+,	PUNCT	,
+le	DET	le
+nez	NOUN	nez
+en	ADP	en
+l'	DET	le
+air	NOUN	air
+,	PUNCT	,
+lorgnaient	VERB	lorgner
+les	DET	le
+allégories	NOUN	allégorie
+peintes	VERB	peindre
+du	ADP	de
+plafond	NOUN	plafond
+.	PUNCT	.
+Les	DET	le
+beaux	ADJ	beal
+,	PUNCT	,
+les	DET	le
+belles	NOUN	beau
+au	ADP	au
+théâtre	NOUN	théâtre
+dormant	VERB	dormir
+,	PUNCT	,
+se	PRON	se
+secouaient	VERB	secouer
+,	PUNCT	,
+cherchaient	VERB	chercher
+leur	DET	leur
+monde	NOUN	monde
+,	PUNCT	,
+puis	CCONJ	puis
+,	PUNCT	,
+après	ADP	après
+un	DET	un
+petit	ADJ	petit
+signe	NOUN	signe
+aux	ADP	à
+intimes	NOUN	intime
+,	PUNCT	,
+une	DET	un
+œillade	NOUN	œillade
+à	ADP	à
+l'	DET	le
+unique	ADJ	unique
+loge	NOUN	loge
+vide	ADJ	vide
+aux	ADP	à
+premières	ADJ	premier
+,	PUNCT	,
+presque	ADV	presque
+vis-à-vis	ADV	vis-à-vis
+l'	DET	le
+avant-scène	NOUN	avant-scène
+d'	ADP	de
+Andilly	PROPN	Andilly
+,	PUNCT	,
+se	PRON	se
+remettaient	VERB	remettre
+à	ADP	à
+caqueter	VERB	caqueter
+,	PUNCT	,
+même	ADV	même
+à	ADP	à
+coqueter	VERB	coqueter
+quelquefois	ADV	quelquefois
+.	PUNCT	.
+
+	SPACE	
+
+Aux	ADP	à
+passages	NOUN	passage
+du	ADP	de
+balcon	NOUN	balcon
+,	PUNCT	,
+pris	VERB	prendre
+d'	ADP	de
+assaut	NOUN	assaut
+,	PUNCT	,
+les	DET	le
+jumelles	NOUN	jumelle
+braquées	VERB	braquer
+tiraient	VERB	tirer
+à	ADP	à
+feux	NOUN	feu
+plongeants	ADJ	plongeant
+dans	ADP	dans
+les	DET	le
+baignoires	NOUN	baignoire
+ 	SPACE	 
+:	PUNCT	:
+des	DET	un
+portes	NOUN	porte
+battaient	VERB	battre
+dans	ADP	dans
+le	DET	le
+pronenoir	NOUN	pronenoir
+,	PUNCT	,
+plein	ADJ	plein
+d'	ADP	de
+allées	NOUN	allée
+,	PUNCT	,
+de	ADP	de
+venues	NOUN	venue
+,	PUNCT	,
+d'	ADP	de
+hommes	NOUN	homme
+en	ADP	en
+fracs	NOUN	frac
+,	PUNCT	,
+les	DET	le
+mains	NOUN	main
+aux	ADP	à
+poches	NOUN	poche
+,	PUNCT	,
+les	DET	le
+coudes	NOUN	coude
+en	ADP	en
+dehors	ADV	dehors
+comme	ADP	comme
+des	DET	un
+anses	NOUN	anse
+.	PUNCT	.
+Et	CCONJ	et
+,	PUNCT	,
+parmi	ADP	parmi
+la	DET	le
+bourdonnante	ADJ	bourdonnant
+symphonie	NOUN	symphonie
+des	ADP	de
+parlottes	NOUN	parlotte
+,	PUNCT	,
+le	DET	le
+cri	NOUN	cri
+des	ADP	de
+marchands	NOUN	marchand
+de	ADP	de
+programmes	NOUN	programme
+détonnait	VERB	détonner
+.	PUNCT	.
+
+	SPACE	
+
+L'	DET	le
+air	NOUN	air
+sévère	ADJ	sévère
+,	PUNCT	,
+l'	DET	le
+huissier	NOUN	huissier
+du	ADP	de
+foyer	NOUN	foyer
+des	ADP	de
+artistes	NOUN	artiste
+venait	VERB	venir
+de	ADP	de
+se	PRON	se
+rasseoir	VERB	rasseoir
+,	PUNCT	,
+après	ADP	après
+une	DET	un
+courbette	NOUN	courbette
+,	PUNCT	,
+lorsque	SCONJ	lorsque
+quelqu'	PRON	quelqu'
+un	PRON	un
+,	PUNCT	,
+qui	PRON	qui
+s'	PRON	se
+approchait	VERB	approcher
+,	PUNCT	,
+le	PRON	le
+jeta	VERB	jeter
+debout	ADV	debout
+,	PUNCT	,
+très	ADV	très
+humble	ADJ	humble
+,	PUNCT	,
+l'	DET	le
+échine	NOUN	échine
+ployée	VERB	ployer
+,	PUNCT	,
+et	CCONJ	et
+un	DET	un
+petit	ADJ	petit
+jeune	ADJ	jeune
+homme	NOUN	homme
+,	PUNCT	,
+blond	ADJ	blond
+fade	ADJ	fade
+,	PUNCT	,
+prétentieusement	ADV	prétentieusement
+étriqué	VERB	étriquer
+dans	ADP	dans
+sa	DET	son
+mise	NOUN	mise
+,	PUNCT	,
+la	DET	le
+moustache	NOUN	moustache
+poisseuse	ADJ	poisseux
+troussée	VERB	trousser
+brin	NOUN	brin
+par	ADP	par
+brin	NOUN	brin
+à	ADP	à
+l'	DET	le
+antique	NOUN	antique
+,	PUNCT	,
+demanda	VERB	demander
+de	ADP	de
+son	DET	son
+peu	NOUN	peu
+de	ADP	de
+voix	NOUN	voix
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Le	DET	le
+duc	NOUN	duc
+est	VERB	être
+là	ADV	là
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Monsieur	NOUN	Monsieur
+le	DET	le
+général	NOUN	général
+Jarry	PROPN	Jarry
+,	PUNCT	,
+duc	NOUN	duc
+de	ADP	de
+Varèse	PROPN	Varèse
+ 	SPACE	 
+?	PUNCT	?
+fit	VERB	faire
+l'	DET	le
+huissier	NOUN	huissier
+,	PUNCT	,
+détachant	VERB	détacher
+ses	DET	son
+mots	NOUN	mot
+.	PUNCT	.
+Non	ADV	non
+,	PUNCT	,
+monsieur	NOUN	Monsieur
+le	DET	le
+vicomte	NOUN	vicomte
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+monsieur	NOUN	Monsieur
+de	ADP	de
+Ronserolles	PROPN	Ronserolles
+,	PUNCT	,
+vous	PRON	vous
+allez	VERB	aller
+pouvoir	VERB	pouvoir
+me	PRON	me
+dire	VERB	dire
+...	PUNCT	...
+
+	SPACE	
+
+Le	DET	le
+blondin	NOUN	blondin
+se	PRON	se
+retourna	VERB	retourner
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Tiens	ADV	tiens
+ 	SPACE	 
+!	PUNCT	!
+cher	ADJ	cher
+,	PUNCT	,
+bonsoir	NOUN	bonsoir
+ 	SPACE	 
+!	PUNCT	!
+--	PUNCT	--
+Puis	ADV	puis
+,	PUNCT	,
+ayant	AUX	avoir
+chaussé	VERB	chausser
+son	DET	son
+binocle	NOUN	binocle
+ 	SPACE	 
+:	PUNCT	:
+«	PUNCT	«
+ 	SPACE	 
+Pardon	NOUN	pardon
+,	PUNCT	,
+ah	INTJ	ah
+ 	SPACE	 
+!	PUNCT	!
+pardon	NOUN	pardon
+,	PUNCT	,
+amiral	NOUN	amiral
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+prenais	VERB	prendre
+pour	ADP	pour
+...	PUNCT	...
+ 	SPACE	 
+»	PUNCT	»
+
+	SPACE	
+
+Et	CCONJ	et
+il	PRON	il
+aventura	VERB	aventurer
+sa	DET	son
+main	NOUN	main
+nue	ADJ	nu
+comme	ADP	comme
+à	ADP	à
+regret	NOUN	regret
+entre	ADP	entre
+les	DET	le
+larges	ADJ	large
+doigts	NOUN	doigt
+spatulés	ADJ	spatulé
+d'	ADP	de
+un	DET	un
+grand	ADJ	grand
+homme	NOUN	homme
+solennel	ADJ	solennel
+et	CCONJ	et
+grisonnant	ADJ	grisonnant
+,	PUNCT	,
+sans	ADP	sans
+moustache	NOUN	moustache
+,	PUNCT	,
+les	DET	le
+favoris	NOUN	favori
+en	ADP	en
+brosse	NOUN	brosse
+,	PUNCT	,
+une	DET	un
+rosette	NOUN	rosette
+rouge	ADJ	rouge
+au	ADP	au
+revers	NOUN	revers
+de	ADP	de
+l'	DET	le
+habit	NOUN	habit
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Madame	NOUN	monsieur
+de	ADP	de
+Quéroignes	PROPN	Quéroignes
+va	VERB	aller
+bien	ADV	bien
+ 	SPACE	 
+?	PUNCT	?
+ajouta	VERB	ajouter
+le	DET	le
+vicomte	NOUN	vicomte
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Mais	CCONJ	mais
+oui	ADV	oui
+,	PUNCT	,
+merci	NOUN	merci
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+C'	ADV	c'
+est	ADV	est
+-	ADV	-
+à	ADV	à
+-	ADV	-
+dire	ADV	dire
+non	ADV	non
+ 	SPACE	 
+:	PUNCT	:
+toujours	ADV	toujours
+bien	ADV	bien
+souffrante	ADJ	souffrant
+,	PUNCT	,
+vous	PRON	vous
+savez	VERB	savoir
+ 	SPACE	 
+?	PUNCT	?
+Cette	DET	ce
+année	NOUN	année
+,	PUNCT	,
+on	PRON	on
+l'	PRON	l'
+a	AUX	avoir
+envoyée	VERB	envoyer
+à	ADP	à
+Cannes	PROPN	Cannes
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+pénible	ADJ	pénible
+...	PUNCT	...
+très	ADV	très
+pénible	ADJ	pénible
+...	PUNCT	...
+Je	PRON	je
+ne	ADV	ne
+puis	VERB	pouvoir
+pas	ADV	pas
+l'	PRON	l'
+accompagner	VERB	accompagner
+,	PUNCT	,
+moi	PRON	moi
+,	PUNCT	,
+avec	ADP	avec
+mes	DET	mon
+travaux	NOUN	travail
+,	PUNCT	,
+mon	DET	mon
+Institut	NOUN	institut
+.	PUNCT	.
+Et	CCONJ	et
+ce	DET	ce
+cher	ADJ	cher
+duc	NOUN	duc
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Avez	VERB	avoir
+-vous	PRON	vous
+des	DET	un
+nouvelles	NOUN	nouvelle
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Des	DET	un
+nouvelles	NOUN	nouvelle
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Mais	CCONJ	mais
+,	PUNCT	,
+j'	PRON	je
+allais	VERB	aller
+vous	PRON	vous
+en	PRON	en
+demander	VERB	demander
+,	PUNCT	,
+des	DET	un
+nouvelles	NOUN	nouvelle
+.	PUNCT	.
+Hein	INTJ	Hein
+ 	SPACE	 
+?	PUNCT	?
+quel	DET	quel
+potin	NOUN	potin
+ 	SPACE	 
+!	PUNCT	!
+Vous	PRON	vous
+avez	AUX	avoir
+lu	VERB	lire
+,	PUNCT	,
+ce	DET	ce
+matin	NOUN	matin
+,	PUNCT	,
+dans	ADP	dans
+Le	DET	le
+Moustique	PROPN	Moustique
+ 	SPACE	 
+?	PUNCT	?
+«	PUNCT	«
+ 	SPACE	 
+La	DET	le
+main	NOUN	main
+droite	ADJ	droit
+et	CCONJ	et
+la	DET	le
+main	NOUN	main
+gauche	ADJ	gauche
+d'	ADP	de
+un	PRON	un
+de	ADP	de
+nos	DET	notre
+plus	ADV	plus
+jeunes	ADJ	jeune
+et	CCONJ	et
+plus	ADV	plus
+brillants	ADJ	brillant
+stratèges	NOUN	stratège
+(	PUNCT	(
+stratêgos	NOUN	stratêgo
+)	PUNCT	)
+...	PUNCT	...
+etc.	ADV	etc.
+,	PUNCT	,
+etc.	ADV	etc.
+ 	SPACE	 
+»	PUNCT	»
+--	PUNCT	--
+C'	PRON	ce
+est	AUX	être
+limpide	ADJ	limpide
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Mais	CCONJ	mais
+oui	ADV	oui
+,	PUNCT	,
+il	PRON	il
+paraîtrait	VERB	paraître
+que	SCONJ	que
+...	PUNCT	...
+quoique	ADV	quoique
+...	PUNCT	...
+cependant	ADV	cependant
+...	PUNCT	...
+Et	CCONJ	et
+qui	PRON	qui
+est	AUX	être
+-ce	PRON	-ce
+,	PUNCT	,
+la	DET	le
+...	PUNCT	...
+«	PUNCT	«
+ 	SPACE	 
+main	NOUN	main
+gauche	ADJ	gauche
+ 	SPACE	 
+»	PUNCT	»
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Comment	ADV	comment
+ 	SPACE	 
+!	PUNCT	!
+Qui	PRON	qui
+est	VERB	être
+-ce	PRON	-ce
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Vous	PRON	vous
+voulez	VERB	vouloir
+me	PRON	me
+faire	AUX	faire
+poser	VERB	poser
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Non	ADV	non
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Votre	DET	votre
+parole	NOUN	parole
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+beau	ADJ	beau
+,	PUNCT	,
+l'	DET	le
+innocence	NOUN	innocence
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Hé	INTJ	Hé
+ 	SPACE	 
+!	PUNCT	!
+Tout	ADJ	tout
+Paris	PROPN	Paris
+connaît	VERB	connaître
+la	DET	le
+baronne	NOUN	baronne
+Simier	PROPN	Simier
+,	PUNCT	,
+amiral	NOUN	amiral
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+—	PUNCT	—
+En	ADP	en
+vérité	NOUN	vérité
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Madame	NOUN	monsieur
+la	DET	le
+baronne	NOUN	baronne
+Simier	PROPN	Simier
+ 	SPACE	 
+?	PUNCT	?
+Celle	PRON	celui
+...	PUNCT	...
+qui	PRON	qui
+s'	PRON	se
+occupe	VERB	occupe
+de	ADP	de
+bonnes	ADJ	bon
+œuvres	NOUN	œuvre
+ 	SPACE	 
+?	PUNCT	?
+Une	DET	un
+blonde	NOUN	blonde
+...	PUNCT	...
+superbe	ADJ	superbe
+,	PUNCT	,
+n'	ADV	n'
+est	AUX	être
+-il	PRON	il
+pas	ADV	pas
+vrai	ADJ	vrai
+,	PUNCT	,
+que	PRON	que
+j'	PRON	je
+ai	AUX	avoir
+eu	VERB	avoir
+l'	DET	le
+honneur	NOUN	honneur
+de	ADP	de
+rencontrer	VERB	rencontrer
+chez	ADP	chez
+madame	NOUN	monsieur
+la	DET	le
+duchesse	NOUN	duchesse
+de	ADP	de
+Varèse	PROPN	Varèse
+...	PUNCT	...
+son	DET	son
+amie	NOUN	amie
+...	PUNCT	...
+je	PRON	je
+crois	VERB	croire
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Amie	NOUN	amie
+de	ADP	de
+pension	NOUN	pension
+,	PUNCT	,
+parfaitement	ADV	parfaitement
+...	PUNCT	...
+à	ADP	à
+tu	PRON	tu
+,	PUNCT	,
+à	ADP	à
+toi	PRON	toi
+ 	SPACE	 
+!	PUNCT	!
+Et	CCONJ	et
+il	PRON	il
+faut	VERB	falloir
+que	SCONJ	que
+la	DET	le
+duchesse	NOUN	duchesse
+soit	AUX	être
+myope	ADJ	myope
+comme	ADP	comme
+...	PUNCT	...
+elle	PRON	lui
+est	AUX	être
+...	PUNCT	...
+pour	ADP	pour
+n'	ADV	n'
+avoir	AUX	avoir
+rien	PRON	rien
+vu	VERB	voir
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+le	DET	le
+secret	NOUN	secret
+de	ADP	de
+polichinelle	NOUN	polichinelle
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+bah	PRON	bah
+ 	SPACE	 
+!	PUNCT	!
+vraiment	ADV	vraiment
+ 	SPACE	 
+?	PUNCT	?
+de	ADP	de
+...	PUNCT	...
+polichinelle	NOUN	polichinelle
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Mais	CCONJ	mais
+cette	DET	ce
+scène	NOUN	scène
+,	PUNCT	,
+dont	PRON	dont
+parle	VERB	parle
+le	DET	le
+journal	NOUN	journal
+,	PUNCT	,
+ces	DET	ce
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Ces	DET	ce
+calottes	NOUN	calotte
+de	ADP	de
+main	NOUN	main
+droite	ADJ	droit
+à	ADP	à
+main	NOUN	main
+gauche	ADJ	gauche
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Dame	NOUN	dame
+ 	SPACE	 
+!	PUNCT	!
+Je	PRON	je
+...	PUNCT	...
+ne	ADV	ne
+les	PRON	le
+ai	AUX	avoir
+pas	ADV	pas
+reçues	VERB	recevoir
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+J'	PRON	je
+ai	VERB	avoir
+peine	NOUN	peine
+à	ADP	à
+admettre	VERB	admettre
+,	PUNCT	,
+pour	ADP	pour
+ma	DET	mon
+part	NOUN	part
+,	PUNCT	,
+qu'	SCONJ	que
+une	DET	un
+personne	NOUN	personne
+aussi	ADV	aussi
+comme	SCONJ	comme
+il	PRON	il
+faut	VERB	falloir
+que	SCONJ	que
+la	DET	le
+duchesse	NOUN	duchesse
+ait	AUX	avoir
+pu	VERB	pouvoir
+se	PRON	se
+laisser	VERB	laisser
+emporter	VERB	emporter
+à	ADP	à
+...	PUNCT	...
+de	DET	de
+pareilles	ADJ	pareil
+extrémités	NOUN	extrémité
+.	PUNCT	.
+Alors	ADV	alors
+ce	PRON	ce
+serait	AUX	être
+à	ADP	à
+la	DET	le
+suite	NOUN	suite
+de	ADP	de
+ce	DET	ce
+...	PUNCT	...
+drame	NOUN	drame
+domestique	ADJ	domestique
+,	PUNCT	,
+que	SCONJ	que
+la	DET	le
+duchesse	NOUN	duchesse
+aurait	AUX	avoir
+déposé	VERB	déposer
+une	DET	un
+demande	NOUN	demande
+en	ADP	en
+séparation	NOUN	séparation
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+D'	ADP	de
+après	ADP	après
+Le	DET	le
+Moustique	PROPN	Moustique
+,	PUNCT	,
+oui	ADV	oui
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Moi	PRON	moi
+,	PUNCT	,
+je	PRON	je
+ne	ADV	ne
+sais	VERB	savoir
+rien	PRON	rien
+,	PUNCT	,
+dit	VERB	dire
+Ronserolles	PROPN	Ronserolles
+.	PUNCT	.
+Pas	ADV	pas
+faute	NOUN	faute
+d'	ADP	de
+avoir	AUX	avoir
+couru	VERB	courir
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Tel	ADJ	tel
+que	SCONJ	que
+vous	PRON	vous
+me	PRON	me
+voyez	VERB	voir
+,	PUNCT	,
+amiral	NOUN	amiral
+,	PUNCT	,
+j'	PRON	je
+ai	AUX	avoir
+fait	VERB	faire
+mes	DET	mon
+quatre	NUM	quatre
+cercles	NOUN	cercle
+avant	ADP	avant
+de	ADP	de
+venir	VERB	venir
+,	PUNCT	,
+ce	DET	ce
+soir	NOUN	soir
+...	PUNCT	...
+Inutile	ADJ	inutile
+de	ADP	de
+chercher	VERB	chercher
+la	DET	le
+quadrature	NOUN	quadrature
+.	PUNCT	.
+La	PRON	le
+voilà	VERB	voilà
+,	PUNCT	,
+la	DET	le
+quadrature	NOUN	quadrature
+ 	SPACE	 
+!	PUNCT	!
+Eurêka	PROPN	Eurêka
+ 	SPACE	 
+!	PUNCT	!
+Je	PRON	je
+vous	PRON	vous
+autorise	VERB	autorise
+à	ADP	à
+en	PRON	en
+instruire	VERB	instruire
+l'	DET	le
+Académie	NOUN	académie
+des	ADP	de
+Sciences	NOUN	science
+...	PUNCT	...
+Savez	VERB	savoir
+-vous	PRON	vous
+ce	PRON	ce
+qu'	PRON	qu'
+ils	PRON	il
+m'	PRON	me
+ont	AUX	avoir
+répondu	VERB	répondre
+au	ADP	au
+cercle	NOUN	cercle
+ 	SPACE	 
+?	PUNCT	?
+«	PUNCT	«
+ 	SPACE	 
+Tiens	VERB	tenir
+ 	SPACE	 
+!	PUNCT	!
+à	ADP	à
+propos	NOUN	propos
+ 	SPACE	 
+!	PUNCT	!
+le	DET	le
+duc	NOUN	duc
+ 	SPACE	 
+!	PUNCT	!
+C'	PRON	ce
+est	AUX	être
+vrai	ADJ	vrai
+qu'	SCONJ	que
+il	PRON	il
+plaide	VERB	plaide
+en	ADP	en
+séparation	NOUN	séparation
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+ 	SPACE	 
+»	PUNCT	»
+Voilà	VERB	voilà
+pourtant	ADV	pourtant
+comme	SCONJ	comme
+ils	PRON	il
+sont	AUX	être
+renseignés	VERB	renseigner
+,	PUNCT	,
+ces	DET	ce
+crétins	NOUN	crétin
+-là	NOUN	-là
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+J'	PRON	je
+entrais	VERB	entrer
+au	ADP	au
+foyer	NOUN	foyer
+...	PUNCT	...
+Mais	CCONJ	mais
+zut	PRON	zut
+ 	SPACE	 
+!	PUNCT	!
+Du	ADP	de
+moment	NOUN	moment
+que	SCONJ	que
+le	DET	le
+duc	NOUN	duc
+n'	ADV	n'
+y	PRON	y
+est	VERB	être
+pas	ADV	pas
+ 	SPACE	 
+!	PUNCT	!
+Pour	ADP	pour
+me	PRON	me
+trouver	VERB	trouver
+avec	ADP	avec
+son	DET	son
+hippopotame	NOUN	hippopotame
+de	ADP	de
+Préville	PROPN	Préville
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+est	AUX	être
+-ce	PRON	-ce
+que	SCONJ	que
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Oui	ADV	oui
+ 	SPACE	 
+!	PUNCT	!
+il	PRON	il
+n'	ADV	n'
+a	VERB	avoir
+pas	ADV	pas
+encore	ADV	encore
+assez	ADV	assez
+de	ADP	de
+la	DET	le
+baronne	NOUN	baronne
+...	PUNCT	...
+sans	ADP	sans
+compter	VERB	compter
+les	DET	le
+passades	NOUN	passade
+ 	SPACE	 
+:	PUNCT	:
+il	PRON	il
+vient	VERB	venir
+de	ADP	de
+se	PRON	se
+recoller	VERB	recoller
+avec	ADP	avec
+Préville	PROPN	Préville
+,	PUNCT	,
+retour	NOUN	retour
+de	ADP	de
+Russie	PROPN	Russie
+...	PUNCT	...
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+pour	ADP	pour
+la	DET	le
+pose	NOUN	pose
+seulement	ADV	seulement
+ 	SPACE	 
+;	PUNCT	;
+il	PRON	il
+casque	VERB	casque
+,	PUNCT	,
+mais	CCONJ	mais
+il	PRON	il
+ne	ADV	ne
+couche	VERB	couche
+pas	ADV	pas
+...	PUNCT	...
+D'	ADP	de
+abord	NOUN	abord
+il	PRON	il
+n'	ADV	n'
+y	PRON	y
+aurait	VERB	avoir
+pas	ADV	pas
+la	DET	le
+place	NOUN	place
+ 	SPACE	 
+:	PUNCT	:
+avec	ADP	avec
+une	DET	un
+poitrine	NOUN	poitrine
+pareille	ADJ	pareil
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Une	DET	un
+poitrine	NOUN	poitrine
+pour	ADP	pour
+six	PRON	six
+,	PUNCT	,
+boum	NOUN	boum
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+la	DET	le
+rédaction	NOUN	rédaction
+du	ADP	de
+Moustique	PROPN	Moustique
+*	PUNCT	*
+qui	PRON	qui
+couche	VERB	couche
+...	PUNCT	...
+en	ADP	en
+se	PRON	se
+fractionnant	VERB	fractionner
+...	PUNCT	...
+à	ADP	à
+tour	NOUN	tour
+de	ADP	de
+rôle	NOUN	rôle
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Tiens	VERB	tenir
+ 	SPACE	 
+!	PUNCT	!
+Mais	CCONJ	mais
+j'	PRON	je
+y	PRON	y
+pense	VERB	pense
+ 	SPACE	 
+!	PUNCT	!
+Est	AUX	être
+-ce	PRON	-ce
+que	SCONJ	que
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+--	PUNCT	--
+Voulez	VERB	vouloir
+-vous	PRON	vous
+venir	VERB	venir
+par	ADP	par
+là	ADV	là
+,	PUNCT	,
+amiral	NOUN	amiral
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Nous	PRON	nous
+serons	AUX	être
+peut-être	ADV	peut-être
+moins	ADV	moins
+carambolés	VERB	caramboler
+qu'	SCONJ	que
+ici	ADV	ici
+.	PUNCT	.
+
+	SPACE	
+
+Le	DET	le
+vicomte	NOUN	vicomte
+Ubald	PROPN	Ubald
+de	ADP	de
+Ronserolles	PROPN	Ronserolles
+passa	VERB	passer
+son	DET	son
+bras	NOUN	bras
+sous	ADP	sous
+celui	PRON	celui
+de	ADP	de
+M.	NOUN	m.
+de	ADP	de
+Quéroignes	PROPN	Quéroignes
+,	PUNCT	,
+et	CCONJ	et
+l'	PRON	l'
+entraîna	VERB	entraîner
+dans	ADP	dans
+la	DET	le
+galerie	NOUN	galerie
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Merci	NOUN	merci
+,	PUNCT	,
+non	ADV	non
+ 	SPACE	 
+!	PUNCT	!
+dit	VERB	dire
+-il	PRON	il
+à	ADP	à
+l'	DET	le
+amiral	NOUN	amiral
+,	PUNCT	,
+qui	PRON	qui
+lui	PRON	lui
+tendait	VERB	tendre
+son	DET	son
+étui	NOUN	étui
+à	ADP	à
+cigarettes	NOUN	cigarette
+.	PUNCT	.
+Cristi	PROPN	Cristi
+ 	SPACE	 
+!	PUNCT	!
+Vous	PRON	vous
+voulez	VERB	vouloir
+sortir	VERB	sortir
+sur	ADP	sur
+le	DET	le
+balcon	NOUN	balcon
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Il	PRON	il
+fait	VERB	faire
+un	DET	un
+froid	NOUN	froid
+de	ADP	de
+chien	NOUN	chien
+,	PUNCT	,
+vous	PRON	vous
+savez	VERB	savoir
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+—	PUNCT	—
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+dans	ADP	dans
+le	DET	le
+cas	NOUN	cas
+où	PRON	où
+vous	PRON	vous
+craignez	VERB	craindre
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+Vraiment	ADV	vraiment
+,	PUNCT	,
+vous	PRON	vous
+ne	ADV	ne
+fumez	VERB	fumer
+pas	ADV	pas
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Est	AUX	être
+-ce	PRON	-ce
+que	SCONJ	que
+vous	PRON	vous
+auriez	VERB	avoir
+les	DET	le
+bronches	NOUN	bronche
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Oui	ADV	oui
+,	PUNCT	,
+les	DET	le
+bronches	NOUN	bronche
+,	PUNCT	,
+un	DET	un
+peu	ADV	peu
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Comme	ADP	comme
+madame	NOUN	monsieur
+de	ADP	de
+Quéroignes	PROPN	Quéroignes
+.	PUNCT	.
+Elle	PRON	lui
+aussi	ADV	aussi
+,	PUNCT	,
+ce	PRON	ce
+sont	AUX	être
+les	DET	le
+bronches	NOUN	bronche
+ 	SPACE	 
+!	PUNCT	!
+soupira	VERB	soupirer
+l'	DET	le
+amiral	NOUN	amiral
+.	PUNCT	.
+Vous	PRON	vous
+n'	ADV	n'
+avez	AUX	avoir
+jamais	ADV	jamais
+essayé	VERB	essayer
+de	ADP	de
+Cannes	PROPN	Cannes
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+très	ADV	très
+bon	ADJ	bon
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+assure	VERB	assure
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Vous	PRON	vous
+devriez	VERB	devoir
+essayer	VERB	essayer
+...	PUNCT	...
+Madame	NOUN	monsieur
+de	ADP	de
+Quéroignes	PROPN	Quéroignes
+serait	AUX	être
+ravie	ADJ	ravir
+de	ADP	de
+...	PUNCT	...
+Pour	ADP	pour
+en	PRON	en
+revenir	VERB	revenir
+au	ADP	au
+duc	NOUN	duc
+,	PUNCT	,
+on	PRON	on
+assure	VERB	assure
+qu'	SCONJ	que
+il	PRON	il
+est	AUX	être
+très	ADV	très
+...	PUNCT	...
+gêné	VERB	gêner
+...	PUNCT	...
+depuis	ADP	depuis
+le	DET	le
+krach	NOUN	krach
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Gêné	PROPN	Gêné
+,	PUNCT	,
+le	DET	le
+duc	NOUN	duc
+ 	SPACE	 
+?	PUNCT	?
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+non	ADV	non
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+ratissé	VERB	ratisser
+qu'	SCONJ	que
+il	PRON	il
+est	VERB	être
+,	PUNCT	,
+et	CCONJ	et
+raide	ADJ	raide
+ 	SPACE	 
+!	PUNCT	!
+repartit	VERB	repartir
+Ronserolles	PROPN	Ronserolles
+,	PUNCT	,
+en	ADP	en
+se	PRON	se
+rapprochant	VERB	rapprocher
+de	ADP	de
+la	DET	le
+grande	ADJ	grand
+cheminée	NOUN	cheminée
+,	PUNCT	,
+où	PRON	où
+des	DET	un
+charbons	NOUN	charbon
+s'	PRON	se
+écroulaient	VERB	écrouler
+dans	ADP	dans
+un	DET	un
+poudroiement	NOUN	poudroiement
+d'	ADP	de
+étincelles	NOUN	étincelle
+.	PUNCT	.
+Mais	CCONJ	mais
+pas	ADV	pas
+la	DET	le
+faute	NOUN	faute
+du	ADP	de
+krach	NOUN	krach
+ 	SPACE	 
+!	PUNCT	!
+La	DET	le
+baronne	NOUN	baronne
+avait	VERB	avoir
+de	ADP	de
+l'	DET	le
+Union	PROPN	Union
+,	PUNCT	,
+elle	PRON	lui
+ 	SPACE	 
+;	PUNCT	;
+lui	PRON	lui
+pas	ADV	pas
+,	PUNCT	,
+allez	VERB	aller
+ 	SPACE	 
+!	PUNCT	!
+Il	PRON	il
+n'	ADV	n'
+a	VERB	avoir
+même	ADV	même
+plus	ADV	plus
+d	DET	d
+'	DET	'
+Union	PROPN	Union
+,	PUNCT	,
+le	DET	le
+beau	ADJ	beau
+duc	NOUN	duc
+.	PUNCT	.
+Dame	NOUN	dame
+ 	SPACE	 
+!	PUNCT	!
+au	ADP	au
+train	NOUN	train
+dont	PRON	dont
+il	PRON	il
+va	VERB	aller
+ 	SPACE	 
+!	PUNCT	!
+En	ADP	en
+couvrant	VERB	couvrir
+d'	ADP	de
+or	NOUN	or
+...	PUNCT	...
+Cristi	PROPN	Cristi
+ 	SPACE	 
+!	PUNCT	!
+Que	SCONJ	que
+ce	DET	ce
+feu	NOUN	feu
+est	AUX	être
+chaud	ADJ	chaud
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+En	ADP	en
+couvrant	VERB	couvrir
+d'	ADP	de
+or	NOUN	or
+les	DET	le
+femmes	NOUN	femme
+ 	SPACE	 
+!	PUNCT	!
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+j'	PRON	je
+en	PRON	en
+sais	VERB	savoir
+long	ADJ	long
+...	PUNCT	...
+Mais	CCONJ	mais
+vous	PRON	vous
+,	PUNCT	,
+amiral	NOUN	amiral
+,	PUNCT	,
+vos	DET	votre
+travaux	NOUN	travail
+ 	SPACE	 
+?	PUNCT	?
+Ça	PRON	cela
+va	VERB	aller
+toujours	ADV	toujours
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+J'	PRON	je
+ai	AUX	avoir
+aperçu	VERB	apercevoir
+quelque	DET	quelque
+chose	NOUN	chose
+de	ADP	de
+vous	PRON	vous
+dans	ADP	dans
+la	DET	le
+Revue	NOUN	revue
+...	PUNCT	...
+Je	PRON	je
+n'	ADV	n'
+ai	AUX	avoir
+pas	ADV	pas
+lu	VERB	lire
+,	PUNCT	,
+parce	SCONJ	parce
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+lis	VERB	lire
+jamais	ADV	jamais
+ces	DET	ce
+choses	NOUN	chose
+-là	NOUN	-là
+...	PUNCT	...
+c'	PRON	ce
+est	AUX	être
+trop	ADV	trop
+fort	ADJ	fort
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+La	DET	le
+marine	NOUN	marine
+cochinchinoise	ADJ	cochinchinois
+,	PUNCT	,
+hein	ADV	hein
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Il	PRON	il
+était	AUX	être
+question	NOUN	question
+de	ADP	de
+sirènes	NOUN	sirène
+,	PUNCT	,
+là	ADV	là
+-	PRON	-
+dedans	ADV	dedans
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+De	ADP	de
+trirèmes	NOUN	trirème
+,	PUNCT	,
+permettez	VERB	permettre
+,	PUNCT	,
+de	ADP	de
+trirèmes	NOUN	trirème
+...	PUNCT	...
+hum	INTJ	hum
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+carthaginoises	ADJ	carthaginois
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+Alors	ADV	alors
+c'	PRON	ce
+est	AUX	être
+votre	DET	votre
+idée	NOUN	idée
+que	SCONJ	que
+le	DET	le
+duc	NOUN	duc
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+Sa	DET	son
+mère	NOUN	mère
+est	AUX	être
+fort	ADV	fort
+riche	ADJ	riche
+cependant	ADV	cependant
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+La	DET	le
+maréchale	NOUN	maréchale
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Je	PRON	je
+vous	PRON	vous
+crois	VERB	croire
+ 	SPACE	 
+!	PUNCT	!
+Mais	CCONJ	mais
+raide	ADJ	raide
+à	ADP	à
+la	DET	le
+détente	NOUN	détente
+,	PUNCT	,
+elle	PRON	lui
+,	PUNCT	,
+oh	INTJ	oh
+ 	SPACE	 
+!	PUNCT	!
+bigre	NOUN	bigre
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+J'	PRON	je
+ai	VERB	avoir
+l'	DET	le
+œil	NOUN	œil
+,	PUNCT	,
+moi	PRON	moi
+,	PUNCT	,
+voyez	VERB	voir
+-vous	PRON	vous
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+Un	DET	un
+pari	NOUN	pari
+qu'	SCONJ	que
+il	PRON	il
+bazarde	VERB	bazarde
+sa	DET	son
+galerie	NOUN	galerie
+et	CCONJ	et
+tout	ADV	tout
+avant	ADP	avant
+six	NUM	six
+mois	NOUN	mois
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Je	PRON	je
+tiens	VERB	tenir
+mon	DET	mon
+Velasquez	PROPN	Velasquez
+ 	SPACE	 
+!	PUNCT	!
+Un	DET	un
+Velasquez	NOUN	velasquez
+épatant	ADJ	épatant
+,	PUNCT	,
+que	PRON	que
+je	PRON	je
+guigne	VERB	guigne
+depuis	ADP	depuis
+que	SCONJ	que
+le	DET	le
+duc	NOUN	duc
+l'	PRON	l'
+a	AUX	avoir
+acheté	VERB	acheter
+à	ADP	à
+la	DET	le
+vente	NOUN	vente
+d'	ADP	de
+Albe	PROPN	Albe
+...	PUNCT	...
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+pardon	NOUN	pardon
+,	PUNCT	,
+amiral	NOUN	amiral
+,	PUNCT	,
+Machin	PROPN	Machin
+qui	PRON	qui
+passe	VERB	passer
+là	ADV	là
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Il	PRON	il
+sait	VERB	savoir
+peut-être	ADV	peut-être
+quelque	DET	quelque
+chose	NOUN	chose
+,	PUNCT	,
+lui	PRON	lui
+...	PUNCT	...
+
+	SPACE	
+
+Et	CCONJ	et
+,	PUNCT	,
+sa	DET	son
+canne	NOUN	canne
+sous	ADP	sous
+le	DET	le
+bras	NOUN	bras
+,	PUNCT	,
+le	DET	le
+vicomte	NOUN	vicomte
+de	ADP	de
+Ronserolles	PROPN	Ronserolles
+s'	PRON	se
+élança	VERB	élancer
+dans	ADP	dans
+le	DET	le
+couloir	NOUN	couloir
+.	PUNCT	.
+
+	SPACE	
+
+On	PRON	on
+commençait	VERB	commencer
+à	ADP	à
+rentrer	VERB	rentrer
+ 	SPACE	 
+:	PUNCT	:
+l'	DET	le
+escalier	NOUN	escalier
+s'	PRON	se
+emplissait	VERB	emplir
+d'	ADP	de
+un	DET	un
+flot	NOUN	flot
+de	ADP	de
+monde	NOUN	monde
+.	PUNCT	.
+En	ADP	en
+faction	NOUN	faction
+,	PUNCT	,
+devant	ADP	devant
+la	DET	le
+porte	NOUN	porte
+des	ADP	de
+artistes	NOUN	artiste
+,	PUNCT	,
+l'	DET	le
+huissier	NOUN	huissier
+sommeillait	VERB	sommeiller
+sur	ADP	sur
+sa	DET	son
+chaise	NOUN	chaise
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Dites	VERB	dire
+donc	ADV	donc
+,	PUNCT	,
+mon	DET	mon
+ami	NOUN	ami
+,	PUNCT	,
+vous	PRON	vous
+n'	ADV	n'
+auriez	AUX	avoir
+pas	ADV	pas
+vu	VERB	voir
+par	ADP	par
+hasard	NOUN	hasard
+le	DET	le
+duc	NOUN	duc
+de	ADP	de
+Varèse	PROPN	Varèse
+ 	SPACE	 
+?	PUNCT	?
+fit	VERB	faire
+une	DET	un
+voix	NOUN	voix
+bourrue	ADJ	bourru
+derrière	ADP	derrière
+lui	PRON	lui
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+allait	VERB	aller
+se	PRON	se
+mettre	VERB	mettre
+droit	ADJ	droit
+,	PUNCT	,
+quand	SCONJ	quand
+,	PUNCT	,
+tordant	VERB	tordre
+son	DET	son
+cou	NOUN	cou
+maigre	ADJ	maigre
+,	PUNCT	,
+il	PRON	il
+se	PRON	se
+trouva	VERB	trouver
+nez	NOUN	nez
+à	ADP	à
+nez	NOUN	nez
+avec	ADP	avec
+un	DET	un
+petit	ADJ	petit
+homme	NOUN	homme
+sec	ADJ	sec
+,	PUNCT	,
+rouge	ADJ	rouge
+de	ADP	de
+peau	NOUN	peau
+,	PUNCT	,
+blanc	ADJ	blanc
+de	ADP	de
+moustache	NOUN	moustache
+et	CCONJ	et
+de	ADP	de
+cheveux	NOUN	cheveu
+,	PUNCT	,
+sanglé	VERB	sangler
+dans	ADP	dans
+une	DET	un
+redingote	NOUN	redingote
+montante	ADJ	montant
+.	PUNCT	.
+Alors	ADV	alors
+,	PUNCT	,
+sans	ADP	sans
+achever	VERB	achever
+le	DET	le
+mouvement	NOUN	mouvement
+pour	ADP	pour
+cette	DET	ce
+figure	NOUN	figure
+quelconque	ADJ	quelconque
+,	PUNCT	,
+il	PRON	il
+répéta	VERB	répéter
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Mon-sieur	NOUN	mon-sieur
+le	DET	le
+gé	NOUN	gé
+-	NOUN	-
+né	NOUN	né
+-	NOUN	-
+ral	NOUN	ral
+Jar	PROPN	Jar
+-	PROPN	-
+ry	PROPN	ry
+,	PUNCT	,
+duc	NOUN	duc
+de	ADP	de
+Va	PROPN	Va
+-	PROPN	-
+rèse	PROPN	rèse
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Oui	ADV	oui
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+dis	VERB	dire
+,	PUNCT	,
+le	DET	le
+général	NOUN	général
+de	ADP	de
+Varèse	PROPN	Varèse
+...	PUNCT	...
+Je	PRON	je
+suis	AUX	être
+le	DET	le
+général	NOUN	général
+Salmon	PROPN	Salmon
+,	PUNCT	,
+son	DET	son
+parrain	NOUN	parrain
+,	PUNCT	,
+le	DET	le
+général	NOUN	général
+de	ADP	de
+division	NOUN	division
+d'	ADP	de
+artillerie	NOUN	artillerie
+en	ADP	en
+retraite	NOUN	retraite
+Salmon	PROPN	Salmon
+...	PUNCT	...
+de	ADP	de
+Metz	PROPN	Metz
+...	PUNCT	...
+sénateur	NOUN	sénateur
+...	PUNCT	...
+ancien	ADJ	ancien
+ministre	NOUN	ministre
+...	PUNCT	...
+Ça	PRON	cela
+vous	PRON	vous
+est	AUX	être
+égal	ADJ	égal
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Je	PRON	je
+comprends	VERB	comprendre
+ça	PRON	cela
+ 	SPACE	 
+!	PUNCT	!
+Enfin	ADV	enfin
+,	PUNCT	,
+l'	PRON	l'
+avez	AUX	avoir
+-vous	PRON	vous
+vu	VERB	voir
+,	PUNCT	,
+sacredié	VERB	sacredier
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Oui	ADV	oui
+ 	SPACE	 
+?	PUNCT	?
+Non	ADV	non
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Non	ADV	non
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Eh	INTJ	Eh
+bien	ADV	bien
+ 	SPACE	 
+!	PUNCT	!
+On	PRON	on
+répond	VERB	répondre
+non	ADV	non
+,	PUNCT	,
+voilà	VERB	voilà
+ 	SPACE	 
+!	PUNCT	!
+Est	AUX	être
+-ce	PRON	-ce
+que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+demande	VERB	demande
+une	DET	un
+conférence	NOUN	conférence
+,	PUNCT	,
+moi	PRON	moi
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+Et	CCONJ	et
+,	PUNCT	,
+sur	ADP	sur
+un	DET	un
+contre-dégagé	NOUN	contre-dégagé
+de	ADP	de
+sa	DET	son
+canne	NOUN	canne
+,	PUNCT	,
+le	DET	le
+général	NOUN	général
+furieux	ADJ	furieux
+fit	VERB	faire
+demi-tour	NOUN	demi-tour
+par	ADP	par
+principes	NOUN	principe
+,	PUNCT	,
+et	CCONJ	et
+disparut	VERB	disparaître
+,	PUNCT	,
+sacrant	VERB	sacrer
+,	PUNCT	,
+dans	ADP	dans
+le	DET	le
+promenoir	NOUN	promenoir
+,	PUNCT	,
+tandis	ADV	tandis
+que	SCONJ	que
+l'	DET	le
+huissier	NOUN	huissier
+,	PUNCT	,
+perplexe	ADJ	perplexe
+,	PUNCT	,
+songeait	VERB	songer
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Mais	CCONJ	mais
+qu'	PRON	qu'
+est	AUX	être
+-ce	PRON	-ce
+qu'	SCONJ	que
+ils	PRON	il
+ont	VERB	avoir
+donc	ADV	donc
+tous	ADJ	tout
+,	PUNCT	,
+ce	DET	ce
+soir	NOUN	soir
+,	PUNCT	,
+après	ADP	après
+monsieur	NOUN	Monsieur
+le	DET	le
+général	NOUN	général
+duc	NOUN	duc
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Auguste	PROPN	Auguste
+,	PUNCT	,
+le	DET	le
+duc	NOUN	duc
+est	AUX	être
+-il	PRON	il
+arrivé	VERB	arriver
+ 	SPACE	 
+?	PUNCT	?
+dit	VERB	dire
+quelqu'	DET	quelque
+un	PRON	un
+.	PUNCT	.
+
+	SPACE	
+
+L'	DET	le
+huissier	NOUN	huissier
+se	PRON	se
+leva	VERB	lever
+,	PUNCT	,
+cette	DET	ce
+fois	NOUN	fois
+,	PUNCT	,
+devant	ADP	devant
+un	DET	un
+gros	ADJ	gros
+homme	NOUN	homme
+roux	ADJ	roux
+,	PUNCT	,
+à	ADP	à
+mine	NOUN	mine
+de	ADP	de
+quaker	NOUN	quaker
+,	PUNCT	,
+dont	PRON	dont
+les	DET	le
+yeux	NOUN	oeil
+pochés	VERB	pocher
+,	PUNCT	,
+la	DET	le
+bouche	NOUN	bouche
+largement	ADV	largement
+fendue	VERB	fendre
+,	PUNCT	,
+surmontée	VERB	surmonter
+d'	ADP	de
+un	DET	un
+nez	NOUN	nez
+rouge	ADJ	rouge
+en	ADP	en
+bec	NOUN	bec
+d'	ADP	de
+aigle	NOUN	aigle
+qui	PRON	qui
+saignait	VERB	saigner
+comme	ADP	comme
+une	DET	un
+plaie	NOUN	plaie
+dans	ADP	dans
+la	DET	le
+pâleur	NOUN	pâleur
+farineuse	ADJ	farineux
+et	CCONJ	et
+glabre	ADJ	glabre
+du	ADP	de
+visage	NOUN	visage
+,	PUNCT	,
+étaient	AUX	être
+bien	ADV	bien
+connus	VERB	connaître
+de	ADP	de
+«	PUNCT	«
+ 	SPACE	 
+ces	DET	ce
+dames	NOUN	dame
+ 	SPACE	 
+»	PUNCT	»
+.	PUNCT	.
+Et	CCONJ	et
+ce	PRON	ce
+fut	AUX	être
+avec	ADP	avec
+son	DET	son
+sourire	NOUN	sourire
+des	ADP	de
+grands	ADJ	grand
+jours	NOUN	jour
+qu'	PRON	qu'
+il	PRON	il
+répondit	VERB	répondre
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Non	ADV	non
+,	PUNCT	,
+monsieur	NOUN	Monsieur
+Varon	PROPN	Varon
+-	PROPN	-
+Bey	PROPN	Bey
+,	PUNCT	,
+pas	ADV	pas
+encore	ADV	encore
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+—	PUNCT	—
+Monsieur	NOUN	Monsieur
+Varon	PROPN	Varon
+-	PROPN	-
+Bey	PROPN	Bey
+a	AUX	avoir
+vu	VERB	voir
+dans	ADP	dans
+la	DET	le
+salle	NOUN	salle
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+Mais	CCONJ	mais
+,	PUNCT	,
+sans	ADP	sans
+répondre	VERB	répondre
+,	PUNCT	,
+anhélant	ADJ	anhélant
+et	CCONJ	et
+soucieux	ADJ	soucieux
+,	PUNCT	,
+le	DET	le
+gros	ADJ	gros
+homme	NOUN	homme
+regagnait	VERB	regagner
+le	DET	le
+foyer	NOUN	foyer
+du	ADP	de
+public	NOUN	public
+,	PUNCT	,
+où	PRON	où
+tintait	VERB	tinter
+la	DET	le
+sonnette	NOUN	sonnette
+d'	ADP	de
+entracte	NOUN	entracte
+.	PUNCT	.
+Il	PRON	il
+tourna	VERB	tourner
+dans	ADP	dans
+le	DET	le
+couloir	NOUN	couloir
+,	PUNCT	,
+et	CCONJ	et
+,	PUNCT	,
+arrivé	VERB	arriver
+au	ADP	au
+bout	NOUN	bout
+,	PUNCT	,
+fit	VERB	faire
+un	DET	un
+signe	NOUN	signe
+à	ADP	à
+l'	DET	le
+ouvreuse	NOUN	ouvreuse
+,	PUNCT	,
+qui	PRON	qui
+courut	VERB	courir
+lui	PRON	lui
+ouvrir	VERB	ouvrir
+l'	DET	le
+avant-scène	NOUN	avant-scène
+.	PUNCT	.
+
+	SPACE	
+
+Un	DET	un
+coin	NOUN	coin
+tiède	ADJ	tiède
+et	CCONJ	et
+parfumé	ADJ	parfumer
+,	PUNCT	,
+ce	DET	ce
+fond	NOUN	fond
+de	ADP	de
+loge	NOUN	loge
+,	PUNCT	,
+dans	ADP	dans
+le	DET	le
+demi-jour	NOUN	demi-jour
+opalin	ADJ	opalin
+de	ADP	de
+ses	DET	son
+globes	NOUN	globe
+,	PUNCT	,
+plein	ADJ	plein
+de	ADP	de
+rires	NOUN	rire
+,	PUNCT	,
+de	ADP	de
+jacasseries	NOUN	jacasserie
+,	PUNCT	,
+de	ADP	de
+frous	NOUN	frou
+-	NOUN	-
+frous	NOUN	frou
+.	PUNCT	.
+Pas	ADV	pas
+d'	DET	d'
+autres	ADJ	autre
+femmes	NOUN	femme
+que	SCONJ	que
+la	DET	le
+comtesse	NOUN	comtesse
+d'	ADP	de
+Andilly	PROPN	Andilly
+--	PUNCT	--
+pimpante	ADJ	pimpant
+vieille	ADJ	vieux
+,	PUNCT	,
+en	ADP	en
+robe	NOUN	robe
+puce	NOUN	puce
+,	PUNCT	,
+et	CCONJ	et
+des	DET	un
+diamants	NOUN	diamant
+partout	ADV	partout
+,	PUNCT	,
+une	DET	un
+dentelle	NOUN	dentelle
+jetée	VERB	jeter
+sur	ADP	sur
+ses	DET	son
+cheveux	NOUN	cheveu
+blancs	ADJ	blanc
+à	ADP	à
+la	DET	le
+diable	PROPN	diable
+--	PUNCT	--
+,	PUNCT	,
+et	CCONJ	et
+sa	DET	son
+fille	NOUN	fille
+,	PUNCT	,
+Mlle	NOUN	mlle
+Sabine	PROPN	Sabine
+,	PUNCT	,
+une	DET	un
+brune	NOUN	brune
+,	PUNCT	,
+en	ADP	en
+rose	NOUN	rose
+,	PUNCT	,
+décolletée	ADJ	décolleté
+à	ADP	à
+outrance	NOUN	outrance
+,	PUNCT	,
+l'	DET	le
+air	NOUN	air
+d'	ADP	de
+un	DET	un
+garçon	NOUN	garçon
+avec	ADP	avec
+sa	DET	son
+petite	ADJ	petit
+tête	NOUN	tête
+falote	ADJ	falot
+,	PUNCT	,
+ébouriffée	VERB	ébouriffer
+à	ADP	à
+la	DET	le
+Titus	PROPN	Titus
+,	PUNCT	,
+toutes	ADJ	tout
+deux	PRON	deux
+noyées	VERB	noyer
+parmi	ADP	parmi
+une	DET	un
+douzaine	NOUN	douzaine
+d'	ADP	de
+habits	NOUN	habit
+noirs	ADJ	noir
+.	PUNCT	.
+--	PUNCT	--
+La	DET	le
+comtesse	NOUN	comtesse
+avait	AUX	avoir
+toujours	ADV	toujours
+eu	VERB	avoir
+un	DET	un
+joli	ADJ	joli
+faible	NOUN	faible
+pour	ADP	pour
+les	DET	le
+hommes	NOUN	homme
+,	PUNCT	,
+ses	DET	son
+maris	NOUN	mari
+exceptés	ADJ	excepté
+,	PUNCT	,
+comme	ADP	comme
+de	ADP	de
+juste	ADJ	juste
+ 	SPACE	 
+:	PUNCT	:
+pauvres	ADJ	pauvre
+gens	NOUN	gens
+,	PUNCT	,
+auxquels	PRON	auxquels
+elle	PRON	lui
+avait	AUX	avoir
+fait	AUX	faire
+voir	VERB	voir
+du	DET	de
+pays	NOUN	pays
+,	PUNCT	,
+le	DET	le
+premier	ADJ	premier
+en	ADP	en
+date	NOUN	date
+,	PUNCT	,
+un	DET	un
+marin	NOUN	marin
+,	PUNCT	,
+malade	ADJ	malade
+à	ADP	à
+la	DET	le
+mer	NOUN	mer
+,	PUNCT	,
+et	CCONJ	et
+qui	PRON	qui
+s'	PRON	se
+y	PRON	y
+était	AUX	être
+vu	VERB	voir
+à	ADP	à
+vie	NOUN	vie
+condamné	VERB	condamner
+,	PUNCT	,
+le	DET	le
+second	ADJ	second
+,	PUNCT	,
+un	DET	un
+maniaque	NOUN	maniaque
+,	PUNCT	,
+de	ADP	de
+l'	DET	le
+Académie	PROPN	Académie
+des	ADP	de
+Inscriptions	NOUN	inscription
+,	PUNCT	,
+mort	VERB	mourir
+très	ADV	très
+avant	ADV	avant
+dans	ADP	dans
+l'	DET	le
+intimité	NOUN	intimité
+des	ADP	de
+momies	NOUN	momie
+.	PUNCT	.
+Veuve	ADJ	veuf
+,	PUNCT	,
+et	CCONJ	et
+l'	DET	le
+âge	NOUN	âge
+venu	VERB	venir
+,	PUNCT	,
+qui	PRON	qui
+lui	PRON	lui
+commandait	VERB	commander
+la	DET	le
+sagesse	NOUN	sagesse
+,	PUNCT	,
+elle	PRON	lui
+se	PRON	se
+consolait	VERB	consoler
+en	ADP	en
+donnant	VERB	donner
+à	ADP	à
+dîner	NOUN	dîner
+et	CCONJ	et
+plus	ADV	plus
+encore	ADV	encore
+à	ADP	à
+bavarder	VERB	bavarder
+dans	ADP	dans
+son	DET	son
+hôtel	NOUN	hôtel
+de	ADP	de
+la	DET	le
+rue	NOUN	rue
+de	ADP	de
+Varennes	PROPN	Varennes
+,	PUNCT	,
+avec	ADP	avec
+un	DET	un
+parfait	ADJ	parfait
+dessouci	NOUN	dessouci
+des	ADP	de
+vingt-huit	NUM	vingt-huit
+ans	NOUN	an
+de	ADP	de
+Mlle	NOUN	mlle
+Sabine	PROPN	Sabine
+,	PUNCT	,
+qu'	PRON	qu'
+elle	PRON	lui
+croyait	VERB	croire
+fille	NOUN	fille
+du	ADP	de
+maniaque	NOUN	maniaque
+,	PUNCT	,
+sans	ADP	sans
+en	PRON	en
+être	AUX	être
+plus	ADV	plus
+sûre	ADJ	sûr
+que	SCONJ	que
+cela	PRON	cela
+.	PUNCT	.
+
+	SPACE	
+
+Aussi	ADV	aussi
+loin	ADV	loin
+qu'	SCONJ	que
+elle	PRON	lui
+aperçut	VERB	apercevoir
+Varon	PROPN	Varon
+-	PROPN	-
+Bey	PROPN	Bey
+,	PUNCT	,
+elle	PRON	lui
+battit	VERB	battre
+des	ADP	de
+mains	NOUN	main
+,	PUNCT	,
+faisant	VERB	faire
+l'	DET	le
+enfant	NOUN	enfant
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Ubald	PROPN	Ubald
+,	PUNCT	,
+dit	VERB	dire
+-elle	PRON	lui
+au	ADP	au
+vicomte	NOUN	vicomte
+de	ADP	de
+Ronserolles	PROPN	Ronserolles
+,	PUNCT	,
+son	DET	son
+neveu	NOUN	neveu
+,	PUNCT	,
+assis	VERB	asseoir
+près	ADV	près
+d'	ADP	de
+elle	PRON	lui
+sur	ADP	sur
+le	DET	le
+divan	NOUN	divan
+,	PUNCT	,
+vite	ADV	vite
+une	DET	un
+place	NOUN	place
+au	ADP	au
+plus	ADV	plus
+vertueux	ADJ	vertueux
+des	ADP	de
+amis	NOUN	ami
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+ça	PRON	cela
+qui	PRON	qui
+est	AUX	être
+bien	ADV	bien
+de	ADP	de
+penser	VERB	penser
+aux	ADP	à
+vieux	ADJ	vieux
+débris	NOUN	débris
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Vous	PRON	vous
+venez	VERB	venir
+purger	VERB	purger
+votre	DET	votre
+purgatoire	NOUN	purgatoire
+,	PUNCT	,
+cher	ADJ	cher
+monsieur	NOUN	Monsieur
+ 	SPACE	 
+?	PUNCT	?
+C'	PRON	ce
+est	AUX	être
+comme	ADP	comme
+cela	PRON	cela
+qu'	PRON	qu'
+on	PRON	on
+gagne	VERB	gagne
+le	DET	le
+ciel	NOUN	ciel
+...	PUNCT	...
+Parions	VERB	parier
+que	SCONJ	que
+vous	PRON	vous
+avez	AUX	avoir
+commencé	VERB	commencer
+par	ADP	par
+l'	DET	le
+enfer	NOUN	enfer
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Vous	PRON	vous
+arrivez	VERB	arriver
+des	ADP	de
+coulisses	NOUN	coulisse
+,	PUNCT	,
+ne	ADV	ne
+le	PRON	le
+niez	VERB	nier
+pas	ADV	pas
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Mais	CCONJ	mais
+non	ADV	non
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+assure	VERB	assure
+...	PUNCT	...
+Votre	DET	votre
+santé	NOUN	santé
+est	AUX	être
+bonne	ADJ	bon
+,	PUNCT	,
+ce	DET	ce
+soir	NOUN	soir
+,	PUNCT	,
+madame	NOUN	monsieur
+la	DET	le
+comtesse	NOUN	comtesse
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Oui	ADV	oui
+,	PUNCT	,
+oui	ADV	oui
+,	PUNCT	,
+bon	ADJ	bon
+pied	NOUN	pied
+,	PUNCT	,
+bon	ADJ	bon
+œil	NOUN	œil
+...	PUNCT	...
+bonne	ADJ	bon
+langue	NOUN	langue
+surtout	ADV	surtout
+.	PUNCT	.
+Vous	PRON	vous
+tombez	VERB	tomber
+bien	ADV	bien
+.	PUNCT	.
+Je	PRON	je
+suis	VERB	suivre
+dans	ADP	dans
+mon	DET	mon
+jour	NOUN	jour
+d	ADP	d
+'	ADP	'
+œuvre	NOUN	œuvre
+-	NOUN	-
+pie	NOUN	pie
+ 	SPACE	 
+:	PUNCT	:
+ce	PRON	ce
+que	PRON	que
+nous	PRON	nous
+allons	VERB	aller
+jaboter	VERB	jaboter
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Tenez	VERB	tenir
+ 	SPACE	 
+!	PUNCT	!
+Mettez	VERB	mettre
+-vous	PRON	vous
+là	ADV	là
+que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+confesse	VERB	confesse
+.	PUNCT	.
+
+	SPACE	
+
+Puis	CCONJ	puis
+,	PUNCT	,
+plus	ADV	plus
+bas	ADV	bas
+,	PUNCT	,
+elle	PRON	lui
+ajouta	VERB	ajouter
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Quelles	DET	quel
+nouvelles	NOUN	nouvelle
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Mais	CCONJ	mais
+...	PUNCT	...
+Du	ADP	de
+krach	NOUN	krach
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Non	ADV	non
+.	PUNCT	.
+Vous	PRON	vous
+savez	VERB	savoir
+bien	ADV	bien
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+tripote	VERB	tripote
+pas	ADV	pas
+...	PUNCT	...
+Que	PRON	que
+dit	VERB	dire
+-on	PRON	on
+de	ADP	de
+ce	DET	ce
+canard	NOUN	canard
+du	ADP	de
+journal	NOUN	journal
+ 	SPACE	 
+?	PUNCT	?
+Je	PRON	je
+suis	AUX	être
+d'	ADP	de
+une	DET	un
+mortelle	ADJ	mortel
+inquiétude	NOUN	inquiétude
+...	PUNCT	...
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+n'	ADV	n'
+ayez	VERB	avoir
+peur	NOUN	peur
+,	PUNCT	,
+on	PRON	on
+n'	ADV	n'
+en	PRON	en
+meurt	VERB	mourir
+pas	ADV	pas
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Ce	DET	ce
+matin	NOUN	matin
+,	PUNCT	,
+dès	ADP	dès
+patron	NOUN	patron
+-	NOUN	-
+rninette	PROPN	rninette
+,	PUNCT	,
+j'	PRON	je
+ai	AUX	avoir
+volé	VERB	voler
+chez	ADP	chez
+la	DET	le
+maréchale	NOUN	maréchale
+...	PUNCT	...
+Elle	PRON	lui
+ne	ADV	ne
+savait	VERB	savoir
+rien	PRON	rien
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Quant	ADV	quant
+à	ADP	à
+tirer	VERB	tirer
+les	DET	le
+vers	NOUN	vers
+du	ADP	de
+nez	NOUN	nez
+à	ADP	à
+Honorine	PROPN	Honorine
+,	PUNCT	,
+on	PRON	on
+aurait	AUX	avoir
+plutôt	ADV	plutôt
+fait	VERB	faire
+de	ADP	de
+les	PRON	le
+tirer	VERB	tirer
+à	ADP	à
+la	DET	le
+Vénus	PROPN	Vénus
+de	ADP	de
+Milo	PROPN	Milo
+...	PUNCT	...
+sans	ADP	sans
+comparaison	NOUN	comparaison
+...	PUNCT	...
+La	DET	le
+duchesse	NOUN	duchesse
+sortie	VERB	sortir
+avec	ADP	avec
+ça	PRON	cela
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+J'	PRON	je
+y	PRON	y
+suis	AUX	être
+retournée	VERB	retourner
+trois	NUM	trois
+fois	NOUN	fois
+...	PUNCT	...
+Couleur	NOUN	couleur
+de	ADP	de
+renseignements	NOUN	renseignement
+à	ADP	à
+prendre	VERB	prendre
+...	PUNCT	...
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+J'	PRON	je
+étais	AUX	être
+d'	ADP	de
+une	DET	un
+colère	NOUN	colère
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Rester	VERB	rester
+ainsi	ADV	ainsi
+toute	ADJ	tout
+une	DET	un
+journée	NOUN	journée
+le	DET	le
+bec	NOUN	bec
+dans	ADP	dans
+l'	DET	le
+eau	NOUN	eau
+,	PUNCT	,
+et	CCONJ	et
+dans	ADP	dans
+de	ADP	de
+l'	DET	le
+eau	NOUN	eau
+trouble	VERB	trouble
+encore	ADV	encore
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Enfin	ADV	enfin
+,	PUNCT	,
+plaident	VERB	plaider
+-ils	PRON	il
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Je	PRON	je
+ne	ADV	ne
+le	PRON	le
+crois	VERB	croire
+pas	ADV	pas
+,	PUNCT	,
+répondit	VERB	répondre
+Varon	PROPN	Varon
+-	PROPN	-
+Bey	PROPN	Bey
+.	PUNCT	.
+Pourquoi	ADV	pourquoi
+plaideraient	VERB	plaider
+-ils	PRON	il
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Eh	INTJ	Eh
+bien	ADV	bien
+ 	SPACE	 
+!	PUNCT	!
+et	CCONJ	et
+cette	DET	ce
+scène	NOUN	scène
+avec	ADP	avec
+la	DET	le
+baronne	NOUN	baronne
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+Sans	ADP	sans
+compter	VERB	compter
+les	DET	le
+autres	NOUN	autre
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Bah	ADV	bah
+ 	SPACE	 
+!	PUNCT	!
+la	DET	le
+duchesse	NOUN	duchesse
+doit	VERB	devoir
+être	AUX	être
+habituée	VERB	habituer
+,	PUNCT	,
+depuis	ADP	depuis
+le	DET	le
+temps	NOUN	temps
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Il	PRON	il
+paraît	VERB	paraître
+que	SCONJ	que
+non	ADV	non
+,	PUNCT	,
+puisqu'	SCONJ	puisque
+elle	PRON	lui
+se	PRON	se
+rebiffe	VERB	rebiffe
+...	PUNCT	...
+Et	CCONJ	et
+ses	DET	son
+dettes	NOUN	dette
+donc	ADV	donc
+ 	SPACE	 
+!	PUNCT	!
+Il	PRON	il
+a	VERB	avoir
+des	DET	un
+montagnes	NOUN	montagne
+de	ADP	de
+dettes	NOUN	dette
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Le	DET	le
+duc	NOUN	duc
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Il	PRON	il
+en	PRON	en
+a	AUX	avoir
+toujours	ADV	toujours
+eu	VERB	avoir
+,	PUNCT	,
+comtesse	NOUN	comtesse
+.	PUNCT	.
+Cela	PRON	cela
+fait	VERB	faire
+partie	NOUN	partie
+du	ADP	de
+train	NOUN	train
+,	PUNCT	,
+cela	PRON	cela
+ 	SPACE	 
+:	PUNCT	:
+on	PRON	on
+a	VERB	avoir
+des	DET	un
+dettes	NOUN	dette
+comme	SCONJ	comme
+on	PRON	on
+a	VERB	avoir
+des	DET	un
+chevaux	NOUN	cheval
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+—	PUNCT	—
+Pauvre	ADJ	pauvre
+petite	ADJ	petit
+duchesse	NOUN	duchesse
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Hein	INTJ	Hein
+ 	SPACE	 
+!	PUNCT	!
+les	DET	le
+amies	NOUN	amie
+intimes	ADJ	intime
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Non	ADV	non
+,	PUNCT	,
+restez	VERB	rester
+,	PUNCT	,
+ce	PRON	ce
+n'	ADV	n'
+est	AUX	être
+rien	PRON	rien
+,	PUNCT	,
+c'	PRON	ce
+est	AUX	être
+l'	DET	le
+amiral	NOUN	amiral
+...	PUNCT	...
+Est	AUX	être
+-ce	PRON	-ce
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+le	PRON	le
+trouvez	VERB	trouver
+pas	ADV	pas
+tout	ADV	tout
+bonnement	ADV	bonnement
+effrayant	ADJ	effrayant
+,	PUNCT	,
+ce	DET	ce
+beau	ADJ	beau
+duc	NOUN	duc
+,	PUNCT	,
+avec	ADP	avec
+ses	DET	son
+maîtresses	NOUN	maîtresse
+...	PUNCT	...
+par	ADP	par
+paire	NOUN	paire
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Cependant	ADV	cependant
+je	PRON	je
+n'	ADV	n'
+ai	AUX	avoir
+jamais	ADV	jamais
+ouï	VERB	ouïr
+dire	VERB	dire
+que	SCONJ	que
+...	PUNCT	...
+
+	SPACE	
+
+Elle	PRON	lui
+finit	VERB	finir
+bas	ADV	bas
+sa	DET	son
+phrase	NOUN	phrase
+,	PUNCT	,
+puis	CCONJ	puis
+reprit	VERB	reprendre
+dans	ADP	dans
+le	DET	le
+plein	NOUN	plein
+de	ADP	de
+la	DET	le
+voix	NOUN	voix
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Et	CCONJ	et
+vous	PRON	vous
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+en	ADP	en
+votre	DET	votre
+double	ADJ	double
+qualité	NOUN	qualité
+d'	ADP	de
+oriental	NOUN	oriental
+et	CCONJ	et
+de	ADP	de
+débauché	NOUN	débauché
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Non	ADV	non
+plus	ADV	plus
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Je	PRON	je
+plains	VERB	plaindre
+du	ADP	de
+plus	ADV	plus
+profond	ADJ	profond
+de	ADP	de
+mon	DET	mon
+cœur	NOUN	cœur
+cette	DET	ce
+infortunée	ADJ	infortuné
+petite	ADJ	petit
+duchesse	NOUN	duchesse
+,	PUNCT	,
+intervint	VERB	intervenir
+l'	DET	le
+amiral	NOUN	amiral
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Bravo	NOUN	bravo
+ 	SPACE	 
+!	PUNCT	!
+Vous	PRON	vous
+êtes	VERB	être
+toujours	ADV	toujours
+du	ADP	de
+côté	NOUN	côté
+des	ADP	de
+femmes	NOUN	femme
+,	PUNCT	,
+à	ADP	à
+ce	PRON	ce
+qu'	PRON	qu'
+il	PRON	il
+paraît	VERB	paraître
+...	PUNCT	...
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+pas	ADV	pas
+de	ADP	de
+la	DET	le
+vôtre	NOUN	vôtre
+,	PUNCT	,
+entendons	VERB	entendre
+-nous	PRON	nous
+.	PUNCT	.
+Vous	PRON	vous
+préférez	VERB	préférer
+le	DET	le
+ménage	NOUN	ménage
+à	ADP	à
+longue	ADJ	long
+portée	NOUN	portée
+...	PUNCT	...
+comme	ADP	comme
+les	DET	le
+canons	NOUN	canon
+...	PUNCT	...
+Avez	AUX	avoir
+-vous	PRON	vous
+vu	VERB	voir
+les	DET	le
+boutons	NOUN	bouton
+d'	ADP	de
+oreille	NOUN	oreille
+de	ADP	de
+cette	DET	ce
+Préville	PROPN	Préville
+ 	SPACE	 
+?	PUNCT	?
+C'	PRON	ce
+est	AUX	être
+de	ADP	de
+l'	DET	le
+obscénité	NOUN	obscénité
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Un	DET	un
+cadeau	NOUN	cadeau
+du	ADP	de
+beau	ADJ	beau
+duc	NOUN	duc
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Oui	ADV	oui
+ 	SPACE	 
+!	PUNCT	!
+dit	VERB	dire
+Varon	PROPN	Varon
+-	PROPN	-
+Bey	PROPN	Bey
+ 	SPACE	 
+!	PUNCT	!
+Ci	ADV	ci
+ 	SPACE	 
+:	PUNCT	:
+trente-cinq	DET	trente-cinq
+mille	DET	mille
+francs	NOUN	franc
+à	ADP	à
+la	DET	le
+vente	NOUN	vente
+Blanc	PROPN	Blanc
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Trente-cinq	NUM	Trente-cinq
+mille	PRON	mille
+ 	SPACE	 
+!	PUNCT	!
+Peste	NOUN	peste
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+comme	SCONJ	comme
+il	PRON	il
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+le	DET	le
+fils	NOUN	fils
+de	ADP	de
+sa	DET	son
+maman	NOUN	maman
+ 	SPACE	 
+!	PUNCT	!
+Pauvre	ADJ	pauvre
+Clémentine	PROPN	Clémentine
+...	PUNCT	...
+elle	PRON	lui
+,	PUNCT	,
+si	ADV	si
+...	PUNCT	...
+si	ADV	si
+peu	ADV	peu
+...	PUNCT	...
+Et	CCONJ	et
+on	PRON	on
+prétend	VERB	prétendre
+que	SCONJ	que
+les	DET	le
+garçons	NOUN	garçon
+tiennent	VERB	tenir
+de	ADP	de
+leur	DET	leur
+mère	NOUN	mère
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Encore	ADV	encore
+une	DET	un
+illusion	NOUN	illusion
+qui	PRON	qui
+tombe	VERB	tombe
+.	PUNCT	.
+Amiral	ADJ	amiral
+,	PUNCT	,
+vous	PRON	vous
+devriez	VERB	devoir
+bien	ADV	bien
+mettre	VERB	mettre
+cela	PRON	cela
+au	ADP	au
+prochain	ADJ	prochain
+concours	NOUN	concours
+de	ADP	de
+l'	DET	le
+Académie	NOUN	académie
+des	ADP	de
+Sciences	NOUN	science
+ 	SPACE	 
+:	PUNCT	:
+une	DET	un
+pommade	NOUN	pommade
+hygiénique	ADJ	hygiénique
+contre	ADP	contre
+la	DET	le
+chute	NOUN	chute
+des	ADP	de
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Chut	PROPN	Chut
+ 	SPACE	 
+!	PUNCT	!
+chut	INTJ	choir
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Un	DET	un
+grand	ADJ	grand
+silence	NOUN	silence
+tomba	VERB	tomber
+ 	SPACE	 
+:	PUNCT	:
+l'	DET	le
+acte	NOUN	acte
+commençait	VERB	commencer
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Comtesse	NOUN	comtesse
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+fit	VERB	faire
+Varon	PROPN	Varon
+-	PROPN	-
+Bey	PROPN	Bey
+,	PUNCT	,
+qui	PRON	qui
+saluait	VERB	saluer
+pour	ADP	pour
+sortir	VERB	sortir
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+vous	PRON	vous
+partez	VERB	partir
+ 	SPACE	 
+?	PUNCT	?
+Bonsoir	NOUN	bonsoir
+et	CCONJ	et
+merci	NOUN	merci
+.	PUNCT	.
+Quand	ADV	quand
+me	PRON	me
+montrez	VERB	montrer
+-vous	PRON	vous
+votre	DET	votre
+musée	NOUN	musée
+secret	ADJ	secret
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Je	PRON	je
+suis	VERB	suivre
+à	ADP	à
+vos	DET	votre
+ordres	NOUN	ordre
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Vous	PRON	vous
+dites	VERB	dire
+cela	PRON	cela
+...	PUNCT	...
+Et	CCONJ	et
+puis	CCONJ	puis
+si	SCONJ	si
+on	PRON	on
+vous	PRON	vous
+prenait	VERB	prendre
+au	ADP	au
+mot	NOUN	mot
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+--	PUNCT	--
+Et	CCONJ	et
+,	PUNCT	,
+se	PRON	se
+penchant	VERB	pencher
+,	PUNCT	,
+elle	PRON	lui
+lui	PRON	lui
+souffla	VERB	souffler
+à	ADP	à
+l'	DET	le
+oreille	NOUN	oreille
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Vous	PRON	vous
+êtes	AUX	être
+toujours	ADV	toujours
+amoureux	ADJ	amoureux
+de	ADP	de
+Chantal	PROPN	Chantal
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+Il	PRON	il
+fit	VERB	faire
+«	PUNCT	«
+ 	SPACE	 
+oui	NOUN	oui
+ 	SPACE	 
+»	PUNCT	»
+des	DET	un
+paupières	NOUN	paupière
+,	PUNCT	,
+soufflant	VERB	souffler
+très	ADV	très
+fort	ADV	fort
+,	PUNCT	,
+et	CCONJ	et
+du	DET	de
+sang	NOUN	sang
+lui	PRON	lui
+monta	VERB	monter
+aux	ADP	à
+oreilles	NOUN	oreille
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Allons	VERB	aller
+ 	SPACE	 
+!	PUNCT	!
+adieu	NOUN	adieu
+et	CCONJ	et
+...	PUNCT	...
+bonne	ADJ	bon
+chance	NOUN	chance
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Il	PRON	il
+y	PRON	y
+eut	VERB	avoir
+un	DET	un
+chassé	NOUN	chassé
+-	NOUN	-
+croisé	NOUN	croisé
+dans	ADP	dans
+la	DET	le
+loge	NOUN	loge
+,	PUNCT	,
+où	PRON	où
+entrait	VERB	entrer
+un	DET	un
+bel	ADJ	bel
+homme	NOUN	homme
+blond	ADJ	blond
+,	PUNCT	,
+la	DET	le
+barbe	NOUN	barbe
+en	ADP	en
+éventail	NOUN	éventail
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Pstt	PROPN	Pstt
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Marquis	NOUN	marquis
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+La	DET	le
+comtesse	NOUN	comtesse
+lui	PRON	lui
+indiqua	VERB	indiquer
+un	DET	un
+fauteuil	NOUN	fauteuil
+près	ADV	près
+d'	ADP	de
+elle	PRON	lui
+,	PUNCT	,
+dans	ADP	dans
+l'	DET	le
+angle	NOUN	angle
+opposé	VERB	opposer
+à	ADP	à
+la	DET	le
+scène	NOUN	scène
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Là	ADV	là
+ 	SPACE	 
+!	PUNCT	!
+Et	CCONJ	et
+ne	ADV	ne
+causez	VERB	causer
+pas	ADV	pas
+trop	ADV	trop
+fort	ADV	fort
+ 	SPACE	 
+:	PUNCT	:
+le	DET	le
+paradis	NOUN	paradis
+vous	PRON	vous
+jetterait	VERB	jeter
+des	DET	un
+oranges	NOUN	orange
+,	PUNCT	,
+tout	DET	tout
+marquis	NOUN	marquis
+de	ADP	de
+Boisgelais	PROPN	Boisgelais
+que	PRON	que
+vous	PRON	vous
+êtes	VERB	être
+.	PUNCT	.
+La	DET	le
+marquise	NOUN	marquis
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Va	VERB	aller
+bien	ADV	bien
+,	PUNCT	,
+madame	NOUN	monsieur
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+remercie	VERB	remercier
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Vous	PRON	vous
+savez	VERB	savoir
+qu'	SCONJ	que
+elle	PRON	lui
+ne	ADV	ne
+met	VERB	mettre
+jamais	ADV	jamais
+les	DET	le
+pieds	NOUN	pied
+au	ADP	au
+théâtre	NOUN	théâtre
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Jamais	ADV	jamais
+ 	SPACE	 
+?	PUNCT	?
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+c'	PRON	ce
+est	AUX	être
+sublime	ADJ	sublime
+,	PUNCT	,
+une	DET	un
+foi	NOUN	foi
+pareille	ADJ	pareil
+.	PUNCT	.
+
+	SPACE	
+
+Et	CCONJ	et
+,	PUNCT	,
+à	ADP	à
+son	DET	son
+tour	NOUN	tour
+,	PUNCT	,
+elle	PRON	lui
+lui	PRON	lui
+donna	VERB	donner
+la	DET	le
+question	NOUN	question
+,	PUNCT	,
+longuement	ADV	longuement
+,	PUNCT	,
+à	ADP	à
+demi-mots	NOUN	demi-mot
+entêtés	VERB	entêter
+.	PUNCT	.
+Lui	PRON	lui
+se	PRON	se
+défendait	VERB	défendre
+avec	ADP	avec
+de	DET	de
+grands	ADJ	grand
+bras	NOUN	bras
+,	PUNCT	,
+des	DET	un
+hochements	NOUN	hochement
+de	ADP	de
+tête	NOUN	tête
+,	PUNCT	,
+parfois	ADV	parfois
+une	DET	un
+main	NOUN	main
+à	ADP	à
+plat	NOUN	plat
+sur	ADP	sur
+son	DET	son
+plastron	NOUN	plastron
+,	PUNCT	,
+dans	ADP	dans
+une	DET	un
+pantomime	NOUN	pantomime
+cocasse	ADJ	cocasse
+de	ADP	de
+vertu	NOUN	vertu
+outragée	VERB	outrager
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Enfin	ADV	enfin
+vous	PRON	vous
+ne	ADV	ne
+voulez	VERB	vouloir
+rien	PRON	rien
+dire	VERB	dire
+ 	SPACE	 
+?	PUNCT	?
+Le	DET	le
+duc	NOUN	duc
+est	AUX	être
+votre	DET	votre
+beau-frère	NOUN	beau-frère
+ 	SPACE	 
+:	PUNCT	:
+ça	PRON	cela
+se	PRON	se
+comprend	VERB	comprendre
+...	PUNCT	...
+Quoique	ADV	quoique
+pourtant	ADV	pourtant
+dans	ADP	dans
+les	DET	le
+familles	NOUN	famille
+...	PUNCT	...
+ajouta	VERB	ajouter
+-t	PRON	-t
+-elle	PRON	lui
+,	PUNCT	,
+avec	ADP	avec
+un	DET	un
+petit	ADJ	petit
+clignement	NOUN	clignement
+qui	PRON	qui
+soulignait	VERB	souligner
+des	DET	un
+brouilles	NOUN	brouille
+intestines	ADJ	intestin
+.	PUNCT	.
+--	PUNCT	--
+Maintenant	ADV	maintenant
+je	PRON	je
+vous	PRON	vous
+permets	VERB	permettre
+de	ADP	de
+lorgner	VERB	lorgner
+Préville	PROPN	Préville
+...	PUNCT	...
+S'	PRON	se
+est	AUX	être
+-elle	PRON	lui
+assez	ADV	assez
+arrondie	VERB	arrondir
+ 	SPACE	 
+!	PUNCT	!
+Vous	PRON	vous
+la	PRON	le
+rappelez	VERB	rappeler
+-vous	PRON	vous
+dans	ADP	dans
+le	DET	le
+Caprice	PROPN	Caprice
+ 	SPACE	 
+?	PUNCT	?
+Elle	PRON	lui
+était	AUX	être
+tout	ADV	tout
+en	ADP	en
+côtes	NOUN	côte
+--	PUNCT	--
+comme	ADP	comme
+le	DET	le
+chemin	NOUN	chemin
+du	ADP	de
+Paradis	PROPN	Paradis
+...	PUNCT	...
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+ce	PRON	ce
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+de	ADP	de
+moi	PRON	moi
+.	PUNCT	.
+C'	PRON	ce
+est	AUX	être
+de	ADP	de
+Breux	PROPN	Breux
+...	PUNCT	...
+Hein	INTJ	Hein
+,	PUNCT	,
+de	ADP	de
+Breux	PROPN	Breux
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Parfaitement	ADV	parfaitement
+,	PUNCT	,
+dit	VERB	dire
+celui-ci	PRON	celui-ci
+,	PUNCT	,
+sans	ADP	sans
+entendre	VERB	entendre
+.	PUNCT	.
+
+	SPACE	
+
+C'	PRON	ce
+était	AUX	être
+un	DET	un
+joli	ADJ	joli
+brun	NOUN	brun
+,	PUNCT	,
+la	DET	le
+moustache	NOUN	moustache
+assassine	ADJ	assassin
+,	PUNCT	,
+qui	PRON	qui
+,	PUNCT	,
+assis	VERB	asseoir
+derrière	ADP	derrière
+Mlle	NOUN	mlle
+d'	ADP	de
+Andilly	PROPN	Andilly
+,	PUNCT	,
+d'	ADP	de
+une	DET	un
+mine	NOUN	mine
+très	ADV	très
+froide	ADJ	froid
+,	PUNCT	,
+l'	DET	le
+air	NOUN	air
+en	ADP	en
+bois	NOUN	bois
+,	PUNCT	,
+lui	PRON	lui
+contait	VERB	conter
+des	DET	un
+choses	NOUN	chose
+lestes	ADJ	leste
+.	PUNCT	.
+Celle	PRON	celui
+-	PRON	-
+ci	PRON	ci
+,	PUNCT	,
+tout	ADV	tout
+en	ADP	en
+croquant	VERB	croquer
+des	DET	un
+fruits	NOUN	fruit
+frappés	VERB	frapper
+,	PUNCT	,
+riait	VERB	rire
+à	ADP	à
+petits	ADJ	petit
+coups	NOUN	coup
+sous	ADP	sous
+l'	DET	le
+éventail	NOUN	éventail
+.	PUNCT	.
+Comme	SCONJ	comme
+il	PRON	il
+s'	PRON	se
+arrêtait	VERB	arrêter
+au	ADP	au
+fin	ADJ	fin
+bord	NOUN	bord
+d'	ADP	de
+une	DET	un
+plaisanterie	NOUN	plaisanterie
+plus	ADV	plus
+risquée	VERB	risquer
+,	PUNCT	,
+elle	PRON	lui
+l'	PRON	l'
+encouragea	VERB	encourager
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Allons	VERB	aller
+donc	ADV	donc
+ 	SPACE	 
+!	PUNCT	!
+dites	VERB	dire
+toujours	ADV	toujours
+ 	SPACE	 
+!	PUNCT	!
+Qu'	PRON	qu'
+est	AUX	être
+-ce	PRON	-ce
+que	SCONJ	que
+ça	PRON	cela
+fait	VERB	faire
+ 	SPACE	 
+?	PUNCT	?
+Moi	PRON	moi
+,	PUNCT	,
+je	PRON	je
+suis	AUX	être
+si	ADV	si
+mal	ADV	mal
+élevée	ADJ	élevé
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+De	ADP	de
+la	DET	le
+scène	NOUN	scène
+des	DET	un
+bribes	NOUN	bribe
+de	ADP	de
+phrases	NOUN	phrase
+montaient	VERB	monter
+,	PUNCT	,
+dans	ADP	dans
+un	DET	un
+goutte	NOUN	goutte
+à	ADP	à
+goutte	NOUN	goutte
+de	ADP	de
+chantepleure	PROPN	chantepleure
+,	PUNCT	,
+ponctuées	VERB	ponctuer
+de	ADP	de
+toux	NOUN	toux
+,	PUNCT	,
+de	ADP	de
+chuchoteries	NOUN	chuchoterie
+,	PUNCT	,
+de	ADP	de
+bravos	NOUN	bravo
+grêles	ADJ	grêle
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+N'	ADV	n'
+est	AUX	être
+-ce	PRON	-ce
+pas	ADV	pas
+ 	SPACE	 
+?	PUNCT	?
+poursuivit	VERB	poursuivre
+la	DET	le
+comtesse	NOUN	comtesse
+.	PUNCT	.
+Préville	PROPN	Préville
+est	AUX	être
+très	ADV	très
+bien	ADV	bien
+,	PUNCT	,
+très	ADV	très
+bien	ADV	bien
+...	PUNCT	...
+Votre	DET	votre
+beau-frère	NOUN	beau-frère
+a	VERB	avoir
+de	ADP	de
+la	DET	le
+chance	NOUN	chance
+ 	SPACE	 
+:	PUNCT	:
+il	PRON	il
+quitte	VERB	quitte
+un	DET	un
+œuf	NOUN	œuf
+,	PUNCT	,
+on	PRON	on
+lui	PRON	lui
+rend	VERB	rendre
+un	DET	un
+bœuf	NOUN	bœuf
+,	PUNCT	,
+et	CCONJ	et
+gras	ADJ	gras
+encore	ADV	encore
+...	PUNCT	...
+Elle	PRON	lui
+joue	VERB	joue
+presque	ADV	presque
+à	ADP	à
+présent	NOUN	présent
+...	PUNCT	...
+À	ADP	à
+peine	ADV	peine
+si	SCONJ	si
+elle	PRON	lui
+zézaye	VERB	zézayer
+un	DET	un
+tout	ADV	tout
+petit	ADJ	petit
+peu	NOUN	peu
+...	PUNCT	...
+Ubald	PROPN	Ubald
+prétend	VERB	prétendre
+que	SCONJ	que
+c'	PRON	ce
+est	AUX	être
+un	DET	un
+Grand-Duc	NOUN	grand-duc
+,	PUNCT	,
+là	ADV	là
+-	PROPN	-
+bas	ADV	bas
+,	PUNCT	,
+en	ADP	en
+Russie	PROPN	Russie
+,	PUNCT	,
+qui	PRON	qui
+lui	PRON	lui
+a	AUX	avoir
+donné	VERB	donner
+des	DET	un
+leçons	NOUN	leçon
+...	PUNCT	...
+à	ADP	à
+coups	NOUN	coup
+de	ADP	de
+pieds	NOUN	pied
+...	PUNCT	...
+Et	CCONJ	et
+il	PRON	il
+lui	PRON	lui
+a	AUX	avoir
+enlevé	VERB	enlever
+ça	PRON	cela
+...	PUNCT	...
+comme	ADP	comme
+avec	ADP	avec
+la	DET	le
+main	NOUN	main
+...	PUNCT	...
+Quel	DET	quel
+homme	NOUN	homme
+charmant	ADJ	charmant
+que	SCONJ	que
+votre	DET	votre
+beau-frère	NOUN	beau-frère
+ 	SPACE	 
+!	PUNCT	!
+Un	DET	un
+grand	ADJ	grand
+cœur	NOUN	cœur
+,	PUNCT	,
+trop	ADV	trop
+grand	ADJ	grand
+même	ADV	même
+...	PUNCT	...
+un	DET	un
+peu	ADV	peu
+...	PUNCT	...
+omnibus	NOUN	omnibus
+ 	SPACE	 
+:	PUNCT	:
+il	PRON	il
+met	VERB	mettre
+du	DET	de
+monde	NOUN	monde
+jusque	ADP	jusque
+sur	ADP	sur
+l'	DET	le
+impériale	NOUN	impériale
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+égal	ADJ	égal
+,	PUNCT	,
+ils	PRON	il
+devraient	VERB	devoir
+bien	ADV	bien
+arriver	VERB	arriver
+...	PUNCT	...
+J'	PRON	je
+en	PRON	en
+ai	VERB	avoir
+des	DET	un
+palpitations	NOUN	palpitation
+.	PUNCT	.
+C'	PRON	ce
+est	AUX	être
+agaçant	ADJ	agaçant
+,	PUNCT	,
+cette	DET	ce
+loge	NOUN	loge
+vide	VERB	vide
+.	PUNCT	.
+Connaissez	VERB	connaître
+-vous	PRON	vous
+le	DET	le
+nom	NOUN	nom
+de	ADP	de
+cet	DET	ce
+acteur	NOUN	acteur
+qui	PRON	qui
+fait	VERB	faire
+Dorante	NOUN	dorante
+ 	SPACE	 
+?	PUNCT	?
+Demandez	VERB	demander
+à	ADP	à
+de	DET	de
+Breux	PROPN	Breux
+ 	SPACE	 
+:	PUNCT	:
+un	DET	un
+confrère	NOUN	confrère
+,	PUNCT	,
+il	PRON	il
+doit	VERB	devoir
+connaître	VERB	connaître
+...	PUNCT	...
+Mais	CCONJ	mais
+oui	ADV	oui
+,	PUNCT	,
+vous	PRON	vous
+ne	ADV	ne
+savez	VERB	savoir
+donc	ADV	donc
+pas	ADV	pas
+ 	SPACE	 
+?	PUNCT	?
+Ce	DET	ce
+petit	ADJ	petit
+,	PUNCT	,
+il	PRON	il
+va	VERB	aller
+débuter	VERB	débuter
+au	ADP	au
+Gymnase	PROPN	Gymnase
+.	PUNCT	.
+Une	DET	un
+toquade	NOUN	toquade
+...	PUNCT	...
+Sa	DET	son
+mère	NOUN	mère
+est	AUX	être
+folle	ADJ	fou
+de	ADP	de
+chagrin	NOUN	chagrin
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Je	PRON	je
+crois	VERB	croire
+que	SCONJ	que
+c'	PRON	ce
+est	AUX	être
+Laroche	PROPN	Laroche
+,	PUNCT	,
+madame	NOUN	monsieur
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Avez	AUX	avoir
+-vous	PRON	vous
+jamais	ADV	jamais
+rien	PRON	rien
+vu	VERB	voir
+de	ADP	de
+si	ADV	si
+crispant	ADJ	crispant
+que	SCONJ	que
+cette	DET	ce
+loge	NOUN	loge
+vide	VERB	vide
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Ils	PRON	il
+le	PRON	le
+font	VERB	faire
+exprès	ADV	exprès
+de	ADP	de
+ne	ADV	ne
+pas	ADV	pas
+venir	VERB	venir
+...	PUNCT	...
+il	PRON	il
+est	AUX	être
+trop	ADV	trop
+tard	ADV	tard
+maintenant	ADV	maintenant
+...	PUNCT	...
+Voulez	VERB	vouloir
+-vous	PRON	vous
+gager	VERB	gager
+qu'	SCONJ	que
+ils	PRON	il
+ne	ADV	ne
+viendront	VERB	venir
+plus	ADV	plus
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+dites	VERB	dire
+-moi	PRON	moi
+donc	ADV	donc
+comment	ADV	comment
+s'	PRON	se
+appelle	VERB	appeler
+cette	DET	ce
+belle	ADJ	bel
+petite	NOUN	petit
+...	PUNCT	...
+là	ADV	là
+...	PUNCT	...
+au	ADP	au
+balcon	NOUN	balcon
+...	PUNCT	...
+près	ADV	près
+de	ADP	de
+ce	DET	ce
+monsieur	NOUN	Monsieur
+chauve	ADJ	chauve
+...	PUNCT	...
+qui	PRON	qui
+se	PRON	se
+mouche	VERB	mouche
+ 	SPACE	 
+!	PUNCT	!
+Belle	ADJ	bel
+petite	ADJ	petit
+ou	CCONJ	ou
+grande	ADJ	grand
+laide	ADJ	laid
+,	PUNCT	,
+si	SCONJ	si
+vous	PRON	vous
+aimez	VERB	aimer
+mieux	ADV	mieux
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Sabine	PROPN	Sabine
+m'	PRON	me
+a	AUX	avoir
+demandé	VERB	demander
+son	DET	son
+nom	NOUN	nom
+,	PUNCT	,
+tantôt	ADV	tantôt
+,	PUNCT	,
+au	ADP	au
+Bois	NOUN	bois
+,	PUNCT	,
+et	CCONJ	et
+je	PRON	je
+n'	ADV	n'
+ai	AUX	avoir
+pas	ADV	pas
+su	VERB	savoir
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+humiliant	ADJ	humiliant
+,	PUNCT	,
+vous	PRON	vous
+comprenez	VERB	comprendre
+,	PUNCT	,
+pour	ADP	pour
+une	DET	un
+mère	NOUN	mère
+...	PUNCT	...
+Réveillez	VERB	réveiller
+donc	ADV	donc
+l'	DET	le
+amiral	NOUN	amiral
+,	PUNCT	,
+il	PRON	il
+se	PRON	se
+croit	VERB	croire
+à	ADP	à
+l'	DET	le
+Académie	NOUN	académie
+...	PUNCT	...
+Quelle	DET	quel
+voix	NOUN	voix
+pointue	ADJ	pointu
+,	PUNCT	,
+cette	DET	ce
+Jouassain	PROPN	Jouassain
+ 	SPACE	 
+!	PUNCT	!
+J'	PRON	je
+ai	VERB	avoir
+les	DET	le
+oreilles	NOUN	oreille
+qui	PRON	qui
+saignent	VERB	saigner
+...	PUNCT	...
+Là	ADV	là
+,	PUNCT	,
+quand	SCONJ	quand
+je	PRON	je
+vous	PRON	vous
+disais	VERB	dire
+qu'	SCONJ	que
+ils	PRON	il
+viendraient	VERB	venir
+,	PUNCT	,
+moi	PRON	moi
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Il	PRON	il
+y	PRON	y
+eut	VERB	avoir
+un	DET	un
+frémissement	NOUN	frémissement
+dans	ADP	dans
+la	DET	le
+salle	NOUN	salle
+.	PUNCT	.
+Le	DET	le
+balcon	NOUN	balcon
+se	PRON	se
+bougeait	VERB	bouger
+,	PUNCT	,
+lorgnant	VERB	lorgner
+de	ADP	de
+côté	NOUN	côté
+,	PUNCT	,
+pendant	ADP	pendant
+que	SCONJ	que
+l'	DET	le
+orchestre	NOUN	orchestre
+,	PUNCT	,
+lui	PRON	lui
+,	PUNCT	,
+se	PRON	se
+retournait	VERB	retourner
+carrément	ADV	carrément
+.	PUNCT	.
+
+	SPACE	
+
+La	DET	le
+petite	ADJ	petit
+duchesse	NOUN	duchesse
+de	ADP	de
+Varèse	PROPN	Varèse
+arrivait	VERB	arriver
+,	PUNCT	,
+en	ADP	en
+tulle	NOUN	tulle
+mauve	ADJ	mauve
+,	PUNCT	,
+sans	ADP	sans
+un	DET	un
+bijou	NOUN	bijou
+,	PUNCT	,
+avec	ADP	avec
+son	DET	son
+amie	NOUN	amie
+,	PUNCT	,
+la	DET	le
+baronne	NOUN	baronne
+Simier	PROPN	Simier
+,	PUNCT	,
+une	DET	un
+blonde	NOUN	blonde
+,	PUNCT	,
+royalement	ADV	royalement
+belle	ADJ	bel
+,	PUNCT	,
+habillée	VERB	habiller
+de	ADP	de
+satin	NOUN	satin
+feu	NOUN	feu
+et	CCONJ	et
+diamantée	ADJ	diamanté
+jusque-là	ADV	jusque-là
+.	PUNCT	.
+Derrière	ADP	derrière
+,	PUNCT	,
+au-dessus	ADV	au-dessus
+de	ADP	de
+la	DET	le
+fine	ADJ	fin
+tête	NOUN	tête
+brune	ADJ	brun
+de	ADP	de
+la	DET	le
+duchesse	NOUN	duchesse
+,	PUNCT	,
+la	DET	le
+mâle	ADJ	mâle
+et	CCONJ	et
+souriante	ADJ	souriant
+figure	NOUN	figure
+du	ADP	de
+duc	NOUN	duc
+apparaissait	VERB	apparaître
+,	PUNCT	,
+ses	DET	son
+cheveux	NOUN	cheveu
+courts	ADJ	court
+frisottants	ADJ	frisottant
+d'	ADP	de
+un	DET	un
+noir	NOUN	noir
+bleu	ADJ	bleu
+,	PUNCT	,
+sa	DET	son
+moustache	NOUN	moustache
+forte	ADJ	fort
+,	PUNCT	,
+retroussée	VERB	retrousser
+d'	ADP	de
+un	DET	un
+long	ADJ	long
+pointu	NOUN	pointu
+qui	PRON	qui
+s'	PRON	se
+accrochait	VERB	accrocher
+aux	ADP	à
+joues	NOUN	joue
+.	PUNCT	.
+
+	SPACE	
+
+De-ci	ADP	de-ci
+de-là	ADP	de-là
+on	PRON	on
+se	PRON	se
+penchait	VERB	pencher
+dans	ADP	dans
+les	DET	le
+loges	NOUN	loge
+,	PUNCT	,
+la	DET	le
+jumelle	NOUN	jumelle
+haut	ADV	haut
+,	PUNCT	,
+guettant	VERB	guetter
+ses	DET	son
+moindres	ADJ	moindre
+gestes	NOUN	geste
+,	PUNCT	,
+ses	DET	son
+battus	VERB	battre
+de	ADP	de
+paupières	NOUN	paupière
+aux	ADP	à
+intimes	NOUN	intime
+et	CCONJ	et
+son	DET	son
+salut	NOUN	salut
+régence	NOUN	régence
+avec	ADP	avec
+trois	NUM	trois
+doigts	NOUN	doigt
+.	PUNCT	.
+Vrai	ADJ	vrai
+coup	NOUN	coup
+de	ADP	de
+fouet	NOUN	fouet
+que	SCONJ	que
+cette	DET	ce
+arrivée	NOUN	arrivée
+,	PUNCT	,
+qui	PRON	qui
+ressuscitait	VERB	ressusciter
+la	DET	le
+salle	NOUN	salle
+morte	ADJ	mort
+.	PUNCT	.
+Cependant	ADV	cependant
+il	PRON	il
+y	PRON	y
+avait	VERB	avoir
+de	ADP	de
+la	DET	le
+déception	NOUN	déception
+dans	ADP	dans
+les	DET	le
+regards	NOUN	regard
+.	PUNCT	.
+Pur	ADJ	pur
+racontar	NOUN	racontar
+,	PUNCT	,
+alors	ADV	alors
+,	PUNCT	,
+cet	DET	ce
+article	NOUN	article
+du	ADP	de
+Moustique	PROPN	Moustique
+ 	SPACE	 
+?	PUNCT	?
+Tant	ADV	tant
+pis	ADV	pis
+ 	SPACE	 
+!	PUNCT	!
+L'	DET	le
+histoire	NOUN	histoire
+était	AUX	être
+charmante	ADJ	charmant
+,	PUNCT	,
+qui	PRON	qui
+disait	VERB	dire
+que	SCONJ	que
+,	PUNCT	,
+la	DET	le
+veille	NOUN	veille
+,	PUNCT	,
+à	ADP	à
+son	DET	son
+«	PUNCT	«
+ 	SPACE	 
+cinq	NUM	cinq
+heures	NOUN	heure
+ 	SPACE	 
+»	PUNCT	»
+,	PUNCT	,
+la	DET	le
+duchesse	NOUN	duchesse
+de	ADP	de
+Varèse	PROPN	Varèse
+avait	AUX	avoir
+ni	ADP	ni
+plus	ADV	plus
+ni	CCONJ	ni
+moins	ADV	moins
+fait	AUX	faire
+jeter	VERB	jeter
+dehors	ADV	dehors
+son	DET	son
+amie	NOUN	amie
+,	PUNCT	,
+après	ADP	après
+explication	NOUN	explication
+de	ADP	de
+vive	ADJ	vif
+...	PUNCT	...
+main	NOUN	main
+ 	SPACE	 
+;	PUNCT	;
+on	PRON	on
+parlait	VERB	parler
+de	ADP	de
+pierreries	NOUN	pierreries
+achetées	VERB	acheter
+à	ADP	à
+une	DET	un
+vente	NOUN	vente
+fameuse	ADJ	fameux
+et	CCONJ	et
+offertes	VERB	offrir
+par	ADP	par
+le	DET	le
+duc	NOUN	duc
+à	ADP	à
+sa	DET	son
+maîtresse	NOUN	maîtresse
+avec	ADP	avec
+le	DET	le
+bordereau	NOUN	bordereau
+acquitté	VERB	acquitter
+d'	ADP	de
+une	DET	un
+forte	ADJ	fort
+différence	NOUN	différence
+de	ADP	de
+Bourse	NOUN	bourse
+.	PUNCT	.
+D'	ADP	de
+où	SCONJ	où
+scandale	NOUN	scandale
+et	CCONJ	et
+instance	NOUN	instance
+en	ADP	en
+séparation	NOUN	séparation
+.	PUNCT	.
+Et	CCONJ	et
+voici	VERB	voici
+qu'	SCONJ	que
+ils	PRON	il
+venaient	VERB	venir
+ensemble	ADV	ensemble
+au	ADP	au
+spectacle	NOUN	spectacle
+.	PUNCT	.
+Tard	ADJ	tard
+,	PUNCT	,
+c'	PRON	ce
+est	AUX	être
+vrai	ADJ	vrai
+.	PUNCT	.
+À	ADP	à
+peine	NOUN	peine
+pour	ADP	pour
+le	DET	le
+dernier	ADJ	dernier
+acte	NOUN	acte
+ 	SPACE	 
+:	PUNCT	:
+et	CCONJ	et
+la	DET	le
+duchesse	NOUN	duchesse
+était	AUX	être
+pâle	ADJ	pâle
+et	CCONJ	et
+la	DET	le
+baronne	NOUN	baronne
+rayonnait	VERB	rayonner
+...	PUNCT	...
+
+	SPACE	
+
+Préville	PROPN	Préville
+enrageait	VERB	enrager
+sur	ADP	sur
+la	DET	le
+scène	NOUN	scène
+ 	SPACE	 
+:	PUNCT	:
+quoi	PRON	quoi
+ 	SPACE	 
+!	PUNCT	!
+ensemble	ADV	ensemble
+,	PUNCT	,
+la	DET	le
+femme	NOUN	femme
+et	CCONJ	et
+la	DET	le
+maîtresse	NOUN	maîtresse
+ 	SPACE	 
+?	PUNCT	?
+Elle	PRON	lui
+augurait	VERB	augurer
+mieux	ADV	mieux
+de	ADP	de
+cet	DET	ce
+article	NOUN	article
+de	ADP	de
+journal	NOUN	journal
+.	PUNCT	.
+Un	DET	un
+peu	ADV	peu
+son	DET	son
+œuvre	NOUN	œuvre
+,	PUNCT	,
+en	ADP	en
+effet	NOUN	effet
+,	PUNCT	,
+ce	DET	ce
+cancan	NOUN	cancan
+du	ADP	de
+Moustique	PROPN	Moustique
+,	PUNCT	,
+où	PRON	où
+la	DET	le
+comédienne	NOUN	comédien
+comptait	VERB	compter
+à	ADP	à
+tout	ADV	tout
+le	DET	le
+moins	ADV	moins
+un	DET	un
+amant	NOUN	amant
+.	PUNCT	.
+Mise	NOUN	mise
+en	ADP	en
+goût	NOUN	goût
+par	ADP	par
+le	DET	le
+renouveau	NOUN	renouveau
+de	ADP	de
+passion	NOUN	passion
+du	ADP	de
+«	PUNCT	«
+ 	SPACE	 
+beau	ADJ	beau
+duc	NOUN	duc
+ 	SPACE	 
+»	PUNCT	»
+--	PUNCT	--
+une	DET	un
+passion	NOUN	passion
+qui	PRON	qui
+valait	VERB	valoir
+une	DET	un
+mine	NOUN	mine
+d'	ADP	de
+or	NOUN	or
+--	PUNCT	--
+,	PUNCT	,
+le	DET	le
+partage	NOUN	partage
+de	ADP	de
+cette	DET	ce
+mine	NOUN	mine
+taquinait	VERB	taquiner
+tous	ADJ	tout
+ses	DET	son
+principes	NOUN	principe
+d'	ADP	de
+économie	NOUN	économie
+bourgeoise	ADJ	bourgeois
+,	PUNCT	,
+et	CCONJ	et
+elle	PRON	lui
+l'	PRON	l'
+eût	AUX	avoir
+souhaité	VERB	souhaiter
+à	ADP	à
+elle	PRON	lui
+--	PUNCT	--
+sans	ADP	sans
+baronne	NOUN	baronne
+.	PUNCT	.
+Quoi	PRON	quoi
+de	ADP	de
+mieux	ADV	mieux
+pour	ADP	pour
+cela	PRON	cela
+que	SCONJ	que
+de	ADP	de
+jeter	VERB	jeter
+du	DET	de
+drame	NOUN	drame
+dans	ADP	dans
+le	DET	le
+ménage	NOUN	ménage
+ 	SPACE	 
+?	PUNCT	?
+Et	CCONJ	et
+rien	PRON	rien
+ 	SPACE	 
+:	PUNCT	:
+pas	ADV	pas
+le	DET	le
+plus	ADV	plus
+petit	ADJ	petit
+éclat	NOUN	éclat
+ 	SPACE	 
+!	PUNCT	!
+Mais	CCONJ	mais
+quelle	DET	quel
+femme	NOUN	femme
+était	AUX	être
+-ce	PRON	-ce
+donc	ADV	donc
+que	SCONJ	que
+cette	DET	ce
+duchesse	NOUN	duchesse
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+Une	PRON	un
+des	ADP	de
+premières	ADJ	premier
+,	PUNCT	,
+elle	PRON	lui
+avait	AUX	avoir
+aperçu	VERB	apercevoir
+le	DET	le
+duc	NOUN	duc
+,	PUNCT	,
+l'	PRON	l'
+avait	AUX	avoir
+salué	VERB	saluer
+d'	ADP	de
+un	DET	un
+clin	NOUN	clin
+d'	ADP	de
+œil	NOUN	œil
+,	PUNCT	,
+et	CCONJ	et
+,	PUNCT	,
+sans	ADP	sans
+comprendre	VERB	comprendre
+,	PUNCT	,
+elle	PRON	lui
+épluchait	VERB	éplucher
+ses	DET	son
+rivales	NOUN	rival
+,	PUNCT	,
+tout	ADV	tout
+en	ADP	en
+distillant	VERB	distiller
+ses	DET	son
+répliques	NOUN	réplique
+.	PUNCT	.
+
+	SPACE	
+
+Pas	ADV	pas
+un	DET	un
+effet	NOUN	effet
+ne	ADV	ne
+portait	VERB	porter
+.	PUNCT	.
+Araminte	NOUN	araminte
+ 	SPACE	 
+?	PUNCT	?
+Dorante	NOUN	dorante
+ 	SPACE	 
+?	PUNCT	?
+Marton	PROPN	Marton
+ 	SPACE	 
+?	PUNCT	?
+Qui	PRON	qui
+s'	PRON	se
+en	PRON	en
+souciait	VERB	soucier
+ 	SPACE	 
+?	PUNCT	?
+La	DET	le
+duchesse	NOUN	duchesse
+de	ADP	de
+Varèse	PROPN	Varèse
+,	PUNCT	,
+à	ADP	à
+la	DET	le
+bonne	ADJ	bon
+heure	NOUN	heure
+ 	SPACE	 
+!	PUNCT	!
+Et	CCONJ	et
+le	DET	le
+balcon	NOUN	balcon
+,	PUNCT	,
+les	DET	le
+loges	NOUN	loge
+,	PUNCT	,
+l'	DET	le
+orchestre	NOUN	orchestre
+,	PUNCT	,
+de	ADP	de
+potiner	VERB	potiner
+à	ADP	à
+qui	PRON	qui
+mieux	ADV	mieux
+sur	ADP	sur
+l'	DET	le
+extraordinaire	NOUN	extraordinaire
+de	ADP	de
+la	DET	le
+chose	NOUN	chose
+,	PUNCT	,
+absence	NOUN	absence
+de	ADP	de
+parures	NOUN	parure
+chez	ADP	chez
+la	DET	le
+femme	NOUN	femme
+,	PUNCT	,
+pluie	NOUN	pluie
+de	ADP	de
+diamants	NOUN	diamant
+chez	ADP	chez
+les	DET	le
+maîtresses	NOUN	maîtresse
+et	CCONJ	et
+si	ADV	si
+parfaite	ADJ	parfait
+harmonie	NOUN	harmonie
+entre	ADP	entre
+deux	PRON	deux
+.	PUNCT	.
+--	PUNCT	--
+Quelques	PRON	quelques
+-	PRON	-
+uns	PRON	un
+guettaient	VERB	guetter
+un	DET	un
+éclat	NOUN	éclat
+.	PUNCT	.
+
+	SPACE	
+
+De	ADP	de
+loin	ADV	loin
+en	ADP	en
+loin	ADV	loin
+,	PUNCT	,
+une	DET	un
+phrase	NOUN	phrase
+du	ADP	de
+rôle	NOUN	rôle
+,	PUNCT	,
+perfidement	ADV	perfidement
+accentuée	VERB	accentuer
+,	PUNCT	,
+était	AUX	être
+soulignée	VERB	souligner
+d'	ADP	de
+un	DET	un
+murmure	NOUN	murmure
+.	PUNCT	.
+
+	SPACE	
+
+Et	CCONJ	et
+à	ADP	à
+chaque	DET	chaque
+fois	NOUN	fois
+on	PRON	on
+lorgnait	VERB	lorgner
+la	DET	le
+duchesse	NOUN	duchesse
+,	PUNCT	,
+immobile	ADJ	immobile
+et	CCONJ	et
+sereine	ADJ	serein
+dans	ADP	dans
+son	DET	son
+beau	ADJ	beau
+calme	NOUN	calme
+de	ADP	de
+statue	NOUN	statue
+.	PUNCT	.
+
+	SPACE	
+
+...	PUNCT	...
+On	PRON	on
+commençait	VERB	commencer
+à	ADP	à
+partir	VERB	partir
+.	PUNCT	.
+Juste	ADV	juste
+dans	ADP	dans
+le	DET	le
+plein	NOUN	plein
+d'	ADP	de
+une	DET	un
+tirade	NOUN	tirade
+à	ADP	à
+passion	NOUN	passion
+,	PUNCT	,
+le	DET	le
+«	PUNCT	«
+ 	SPACE	 
+numéro	NOUN	numéro
+36	NUM	36
+ 	SPACE	 
+!	PUNCT	!
+ 	SPACE	 
+»	PUNCT	»
+appelé	VERB	appeler
+fort	ADV	fort
+d'	ADP	de
+un	DET	un
+vestiaire	NOUN	vestiaire
+,	PUNCT	,
+excita	VERB	exciter
+un	DET	un
+fou	NOUN	fou
+rire	NOUN	rire
+dans	ADP	dans
+la	DET	le
+salle	NOUN	salle
+.	PUNCT	.
+Et	CCONJ	et
+ce	PRON	ce
+fut	AUX	être
+un	DET	un
+sauve	NOUN	sauve
+-	NOUN	-
+qui	NOUN	qui
+-	NOUN	-
+peut	NOUN	peut
+.	PUNCT	.
+Dehors	ADV	dehors
+on	PRON	on
+se	PRON	se
+hâtait	VERB	hâter
+,	PUNCT	,
+curieux	ADJ	curieux
+d'	ADP	de
+entrevoir	VERB	entrevoir
+le	DET	le
+duc	NOUN	duc
+à	ADP	à
+la	DET	le
+sortie	NOUN	sortie
+,	PUNCT	,
+flanqué	VERB	flanquer
+de	ADP	de
+«	PUNCT	«
+ 	SPACE	 
+ses	DET	son
+femmes	NOUN	femme
+ 	SPACE	 
+»	PUNCT	»
+.	PUNCT	.
+Des	DET	un
+couples	NOUN	couple
+se	PRON	se
+massèrent	VERB	masser
+en	ADP	en
+haut	ADV	haut
+sur	ADP	sur
+l'	DET	le
+escalier	NOUN	escalier
+,	PUNCT	,
+tandis	ADV	tandis
+que	SCONJ	que
+d'	DET	d'
+autres	ADJ	autre
+s'	PRON	se
+échelonnaient	VERB	échelonner
+jusqu'	ADP	jusque
+au	ADP	au
+vestibule	NOUN	vestibule
+.	PUNCT	.
+
+	SPACE	
+
+Soudain	ADV	soudain
+,	PUNCT	,
+sur	ADP	sur
+une	DET	un
+toux	NOUN	toux
+en	ADP	en
+signal	NOUN	signal
+,	PUNCT	,
+on	PRON	on
+se	PRON	se
+rangea	VERB	ranger
+,	PUNCT	,
+faisant	VERB	faire
+la	DET	le
+haie	NOUN	haie
+ 	SPACE	 
+:	PUNCT	:
+c'	PRON	ce
+étaient	AUX	être
+eux	PRON	lui
+.	PUNCT	.
+Le	DET	le
+duc	NOUN	duc
+d'	ADP	de
+abord	NOUN	abord
+,	PUNCT	,
+superbe	ADJ	superbe
+,	PUNCT	,
+dans	ADP	dans
+sa	DET	son
+belle	ADJ	bel
+prestance	NOUN	prestance
+d'	ADP	de
+ex-Cent-Gardes	PROPN	ex-Cent-Gardes
+,	PUNCT	,
+le	DET	le
+collet	NOUN	collet
+de	ADP	de
+loutre	NOUN	loutre
+de	ADP	de
+sa	DET	son
+pelisse	NOUN	pelisse
+largement	ADV	largement
+rabattu	VERB	rabattre
+aux	ADP	à
+épaules	NOUN	épaule
+,	PUNCT	,
+donnant	VERB	donner
+le	DET	le
+bras	NOUN	bras
+à	ADP	à
+la	DET	le
+baronne	NOUN	baronne
+Simier	PROPN	Simier
+ 	SPACE	 
+;	PUNCT	;
+la	DET	le
+duchesse	NOUN	duchesse
+suivait	VERB	suivre
+,	PUNCT	,
+avec	ADP	avec
+le	DET	le
+général	NOUN	général
+Salmon	PROPN	Salmon
+,	PUNCT	,
+petite	ADJ	petit
+et	CCONJ	et
+frêle	ADJ	frêle
+,	PUNCT	,
+mais	CCONJ	mais
+très	ADV	très
+crâne	NOUN	crâne
+sous	ADP	sous
+le	DET	le
+feu	NOUN	feu
+de	ADP	de
+tous	ADJ	tout
+ces	DET	ce
+regards	NOUN	regard
+allumés	VERB	allumer
+.	PUNCT	.
+
+	SPACE	
+
+On	PRON	on
+se	PRON	se
+taisait	VERB	taire
+.	PUNCT	.
+
+	SPACE	
+
+Alors	ADV	alors
+quelqu'	DET	quelque
+un	PRON	un
+se	PRON	se
+précipita	VERB	précipiter
+,	PUNCT	,
+demi-prosterné	VERB	demi-prosterner
+,	PUNCT	,
+soufflant	VERB	souffler
+des	DET	un
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Madame	NOUN	monsieur
+la	DET	le
+duchesse	NOUN	duchesse
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+Madame	NOUN	monsieur
+la	DET	le
+baronne	NOUN	baronne
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+Mon	DET	mon
+cher	ADJ	cher
+duc	NOUN	duc
+...	PUNCT	...
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+C'	PRON	ce
+était	AUX	être
+Varon	PROPN	Varon
+-	PROPN	-
+Bey	PROPN	Bey
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Bonsoir	NOUN	bonsoir
+...	PUNCT	...
+bonsoir	NOUN	bonsoir
+,	PUNCT	,
+mon	DET	mon
+cher	ADJ	cher
+ 	SPACE	 
+!	PUNCT	!
+fit	VERB	faire
+le	DET	le
+duc	NOUN	duc
+,	PUNCT	,
+bon	ADJ	bon
+garçon	NOUN	garçon
+toujours	ADV	toujours
+,	PUNCT	,
+mais	CCONJ	mais
+souriant	VERB	sourire
+de	ADP	de
+haut	ADJ	haut
+,	PUNCT	,
+sans	ADP	sans
+s'	PRON	se
+arrêter	VERB	arrêter
+.	PUNCT	.
+
+	SPACE	
+
+Le	DET	le
+Bey	PROPN	Bey
+,	PUNCT	,
+lui	PRON	lui
+,	PUNCT	,
+s'	PRON	se
+accrochait	VERB	accrocher
+à	ADP	à
+ses	DET	son
+mains	NOUN	main
+.	PUNCT	.
+Oh	INTJ	Oh
+ 	SPACE	 
+!	PUNCT	!
+comme	SCONJ	comme
+il	PRON	il
+les	PRON	le
+serrait	VERB	serrer
+,	PUNCT	,
+ces	DET	ce
+chères	ADJ	cher
+mains	NOUN	main
+aristocratiques	ADJ	aristocratique
+ 	SPACE	 
+!	PUNCT	!
+--	PUNCT	--
+Elles	PRON	lui
+étaient	AUX	être
+vides	ADJ	vide
+cependant	ADV	cependant
+.	PUNCT	.
+
+	SPACE	
+
+Ils	PRON	il
+passèrent	VERB	passer
+enfin	ADV	enfin
+,	PUNCT	,
+salués	VERB	saluer
+très	ADV	très
+bas	ADV	bas
+presque	ADV	presque
+à	ADP	à
+chaque	DET	chaque
+marche	NOUN	marche
+ 	SPACE	 
+:	PUNCT	:
+connaissances	NOUN	connaissance
+de	ADP	de
+cercle	NOUN	cercle
+,	PUNCT	,
+de	ADP	de
+rue	NOUN	rue
+ou	CCONJ	ou
+de	ADP	de
+boudoir	NOUN	boudoir
+,	PUNCT	,
+très	ADV	très
+jalouses	ADJ	jaloux
+de	ADP	de
+ce	DET	ce
+fameux	ADJ	fameux
+coup	NOUN	coup
+de	ADP	de
+chapeau	NOUN	chapeau
+du	ADP	de
+général	NOUN	général
+Jarry	PROPN	Jarry
+,	PUNCT	,
+duc	NOUN	duc
+de	ADP	de
+Varèse	PROPN	Varèse
+,	PUNCT	,
+qui	PRON	qui
+suffisait	VERB	suffire
+à	ADP	à
+vous	PRON	vous
+sacrer	VERB	sacrer
+Tout-Paris	PROPN	Tout-Paris
+.	PUNCT	.
+
+	SPACE	
+
+Au	ADP	au
+fond	NOUN	fond
+,	PUNCT	,
+dans	ADP	dans
+le	DET	le
+petit	ADJ	petit
+vestibule	NOUN	vestibule
+battu	VERB	battre
+par	ADP	par
+le	DET	le
+vent	NOUN	vent
+des	ADP	de
+doubles	ADJ	double
+portes	NOUN	porte
+,	PUNCT	,
+la	DET	le
+comtesse	NOUN	comtesse
+d'	ADP	de
+Andilly	PROPN	Andilly
+et	CCONJ	et
+sa	DET	son
+fille	NOUN	fille
+,	PUNCT	,
+emmitouflées	VERB	emmitoufler
+,	PUNCT	,
+attendaient	VERB	attendre
+leur	DET	leur
+voiture	NOUN	voiture
+,	PUNCT	,
+tenant	VERB	tenir
+à	ADP	à
+elles	PRON	lui
+seules	ADJ	seul
+une	DET	un
+banquette	NOUN	banquette
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Eh	INTJ	Eh
+ 	SPACE	 
+!	PUNCT	!
+Mon	DET	mon
+cher	ADJ	cher
+François	PROPN	François
+,	PUNCT	,
+bonsoir	NOUN	bonsoir
+ 	SPACE	 
+!	PUNCT	!
+s'	PRON	se
+écria	VERB	écrier
+-t	PRON	-t
+-elle	PRON	lui
+,	PUNCT	,
+sitôt	ADV	sitôt
+qu'	SCONJ	que
+elle	PRON	lui
+aperçut	VERB	apercevoir
+le	DET	le
+duc	NOUN	duc
+.	PUNCT	.
+Ça	PRON	cela
+va	VERB	aller
+bien	ADV	bien
+,	PUNCT	,
+ma	DET	mon
+belle	PROPN	beau
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+Elle	PRON	lui
+tendit	VERB	tendre
+la	DET	le
+main	NOUN	main
+à	ADP	à
+la	DET	le
+baronne	NOUN	baronne
+.	PUNCT	.
+Puis	CCONJ	puis
+,	PUNCT	,
+venant	VERB	venir
+à	ADP	à
+la	DET	le
+duchesse	NOUN	duchesse
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Bonsoir	NOUN	bonsoir
+,	PUNCT	,
+mignonne	ADJ	mignon
+.	PUNCT	.
+Les	DET	le
+enfants	NOUN	enfant
+se	PRON	se
+portent	VERB	porter
+bien	ADV	bien
+ 	SPACE	 
+?	PUNCT	?
+Chantal	PROPN	Chantal
+ 	SPACE	 
+?	PUNCT	?
+François	PROPN	François
+ 	SPACE	 
+?	PUNCT	?
+Toute	ADJ	tout
+la	DET	le
+maisonnée	NOUN	maisonnée
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+Que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+explique	VERB	explique
+pourquoi	ADV	pourquoi
+je	PRON	je
+vous	PRON	vous
+ai	AUX	avoir
+relancée	VERB	relancer
+trois	NUM	trois
+fois	NOUN	fois
+chez	ADP	chez
+vous	PRON	vous
+aujourd'hui	ADV	aujourd'hui
+...	PUNCT	...
+C'	PRON	ce
+était	AUX	être
+pour	ADP	pour
+un	DET	un
+renseignement	NOUN	renseignement
+...	PUNCT	...
+un	DET	un
+...	PUNCT	...
+petit	ADJ	petit
+valet	NOUN	valet
+de	ADP	de
+pied	NOUN	pied
+...	PUNCT	...
+qui	PRON	qui
+a	AUX	avoir
+été	VERB	être
+chez	ADP	chez
+vous	PRON	vous
+...	PUNCT	...
+Mais	CCONJ	mais
+c'	PRON	ce
+est	AUX	être
+inutile	ADJ	inutile
+,	PUNCT	,
+j'	PRON	je
+ai	AUX	avoir
+trouvé	VERB	trouver
+mon	DET	mon
+affaire	NOUN	affaire
+...	PUNCT	...
+Dieu	NOUN	dieu
+ 	SPACE	 
+!	PUNCT	!
+êtes	AUX	être
+-vous	PRON	vous
+arrivés	VERB	arriver
+assez	ADV	assez
+tard	ADV	tard
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+On	PRON	on
+n'	ADV	n'
+avait	VERB	avoir
+d'	DET	d'
+yeux	NOUN	oeil
+que	ADV	que
+pour	ADP	pour
+votre	DET	votre
+loge	NOUN	loge
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+J'	PRON	je
+avais	VERB	avoir
+un	DET	un
+peu	NOUN	peu
+de	ADP	de
+migraine	NOUN	migraine
+...	PUNCT	...
+commença	VERB	commencer
+la	DET	le
+duchesse	NOUN	duchesse
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+la	DET	le
+migraine	NOUN	migraine
+...	PUNCT	...
+seulement	ADV	seulement
+ 	SPACE	 
+?	PUNCT	?
+Pauvre	ADJ	pauvre
+petite	ADJ	petit
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+passé	VERB	passer
+,	PUNCT	,
+hein	ADV	hein
+ 	SPACE	 
+?	PUNCT	?
+Préville	PROPN	Préville
+faisait	VERB	faire
+un	DET	un
+nez	NOUN	nez
+ 	SPACE	 
+!	PUNCT	!
+Dame	NOUN	dame
+ 	SPACE	 
+!	PUNCT	!
+Débarquer	VERB	débarquer
+de	ADP	de
+Russie	PROPN	Russie
+,	PUNCT	,
+pour	ADP	pour
+jouer	VERB	jouer
+devant	ADP	devant
+la	DET	le
+mer	NOUN	mer
+de	ADP	de
+glace	NOUN	glace
+...	PUNCT	...
+N'	ADV	n'
+est	VERB	être
+-ce	PRON	-ce
+pas	ADV	pas
+ 	SPACE	 
+?	PUNCT	?
+comme	SCONJ	comme
+elle	PRON	lui
+est	AUX	être
+engraissée	VERB	engraisser
+ 	SPACE	 
+?	PUNCT	?
+ajouta	VERB	ajouter
+-t	PRON	-t
+-elle	PRON	lui
+,	PUNCT	,
+en	ADP	en
+se	PRON	se
+tournant	VERB	tourner
+vers	ADP	vers
+le	DET	le
+duc	NOUN	duc
+.	PUNCT	.
+Je	PRON	je
+ne	ADV	ne
+l'	PRON	l'
+aurais	AUX	avoir
+pas	ADV	pas
+reconnue	VERB	reconnaître
+...	PUNCT	...
+et	CCONJ	et
+vous	PRON	vous
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+—	PUNCT	—
+Je	PRON	je
+vous	PRON	vous
+confie	VERB	confier
+ces	DET	ce
+dames	NOUN	dame
+,	PUNCT	,
+dit	VERB	dire
+-il	PRON	il
+sans	ADP	sans
+répondre	VERB	répondre
+.	PUNCT	.
+Les	DET	le
+gens	NOUN	gens
+sont	AUX	être
+en	ADP	en
+retard	NOUN	retard
+,	PUNCT	,
+ou	CCONJ	ou
+nous	PRON	nous
+en	ADP	en
+avance	VERB	avancer
+,	PUNCT	,
+je	PRON	je
+ne	ADV	ne
+sais	VERB	savoir
+pas	ADV	pas
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+sortit	VERB	sortir
+,	PUNCT	,
+héla	VERB	héler
+un	DET	un
+gavroche	NOUN	gavroche
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Appelle	VERB	appeler
+le	DET	le
+cocher	NOUN	cocher
+Pierre	PROPN	Pierre
+de	ADP	de
+la	DET	le
+rue	NOUN	rue
+Barbet	PROPN	Barbet
+de	ADP	de
+Jouy	PROPN	Jouy
+,	PUNCT	,
+et	CCONJ	et
+Godefroy	PROPN	Godefroy
+de	ADP	de
+la	DET	le
+rue	NOUN	rue
+de	ADP	de
+Grenelle	PROPN	Grenelle
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Il	PRON	il
+alluma	VERB	allumer
+une	DET	un
+cigarette	NOUN	cigarette
+et	CCONJ	et
+se	PRON	se
+mit	VERB	mettre
+à	ADP	à
+arpenter	VERB	arpenter
+la	DET	le
+galerie	NOUN	galerie
+,	PUNCT	,
+où	PRON	où
+des	DET	un
+hommes	NOUN	homme
+engoncés	VERB	engoncer
+se	PRON	se
+tenaient	VERB	tenir
+droits	ADJ	droit
+,	PUNCT	,
+montant	VERB	monter
+la	DET	le
+garde	NOUN	garde
+devant	ADP	devant
+la	DET	le
+porte	NOUN	porte
+des	ADP	de
+artistes	NOUN	artiste
+.	PUNCT	.
+
+	SPACE	
+
+Un	DET	un
+grand	ADJ	grand
+bruit	NOUN	bruit
+d'	ADP	de
+eau	NOUN	eau
+venait	VERB	venir
+de	ADP	de
+la	DET	le
+chaussée	NOUN	chaussée
+,	PUNCT	,
+fouettée	VERB	fouetter
+par	ADP	par
+une	DET	un
+subite	ADJ	subit
+averse	NOUN	averse
+ 	SPACE	 
+:	PUNCT	:
+et	CCONJ	et
+c'	PRON	ce
+était	AUX	être
+dans	ADP	dans
+la	DET	le
+nuit	NOUN	nuit
+une	DET	un
+galopade	NOUN	galopade
+d'	ADP	de
+ombres	NOUN	ombre
+agrandies	VERB	agrandir
+de	ADP	de
+parapluies	NOUN	parapluie
+énormes	ADJ	énorme
+,	PUNCT	,
+un	DET	un
+roulis	NOUN	roulis
+de	ADP	de
+voitures	NOUN	voiture
+,	PUNCT	,
+des	DET	un
+lumières	NOUN	lumière
+qui	PRON	qui
+filaient	VERB	filer
+,	PUNCT	,
+des	DET	un
+cris	NOUN	cri
+,	PUNCT	,
+des	DET	un
+portières	NOUN	portière
+claquées	VERB	claquer
+.	PUNCT	.
+
+	SPACE	
+
+Puis	ADV	puis
+,	PUNCT	,
+comme	SCONJ	comme
+les	DET	le
+valets	NOUN	valet
+de	ADP	de
+pied	NOUN	pied
+accouraient	VERB	accourir
+,	PUNCT	,
+le	DET	le
+caoutchouc	NOUN	caoutchouc
+ruisselant	VERB	ruisseler
+,	PUNCT	,
+le	DET	le
+pardessus	NOUN	pardessus
+troussé	VERB	trousser
+comme	ADP	comme
+une	DET	un
+robe	NOUN	robe
+,	PUNCT	,
+il	PRON	il
+rentra	VERB	rentrer
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Vous	PRON	vous
+savez	VERB	savoir
+,	PUNCT	,
+mon	DET	mon
+cher	ADJ	cher
+ 	SPACE	 
+!	PUNCT	!
+fit	VERB	faire
+la	DET	le
+comtesse	NOUN	comtesse
+d'	ADP	de
+Andilly	PROPN	Andilly
+en	ADP	en
+se	PRON	se
+levant	VERB	lever
+,	PUNCT	,
+si	SCONJ	si
+mes	DET	mon
+chevaux	NOUN	cheval
+ont	VERB	avoir
+une	DET	un
+fluxion	NOUN	fluxion
+de	ADP	de
+poitrine	NOUN	poitrine
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+enverrai	VERB	envoyer
+la	DET	le
+note	NOUN	note
+,	PUNCT	,
+comptez	VERB	compter
+-	PRON	-
+y	PRON	y
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Adieu	NOUN	adieu
+ 	SPACE	 
+!	PUNCT	!
+adieu	NOUN	adieu
+ 	SPACE	 
+!	PUNCT	!
+Embrassez	VERB	embrasser
+votre	DET	votre
+maman	NOUN	maman
+pour	ADP	pour
+moi	PRON	moi
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Vrai	ADJ	vrai
+ 	SPACE	 
+?	PUNCT	?
+Vous	PRON	vous
+ne	ADV	ne
+voulez	VERB	vouloir
+pas	ADV	pas
+que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+reconduise	VERB	reconduire
+,	PUNCT	,
+amiral	NOUN	amiral
+ 	SPACE	 
+?	PUNCT	?
+Vous	PRON	vous
+allez	VERB	aller
+fondre	VERB	fondre
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+préviens	VERB	prévenir
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Viens	VERB	venir
+-	PRON	-
+tu	PRON	tu
+,	PUNCT	,
+Sabine	PROPN	Sabine
+ 	SPACE	 
+?	PUNCT	?
+Il	PRON	il
+doit	VERB	devoir
+être	AUX	être
+une	DET	un
+heure	NOUN	heure
+indue	ADJ	indu
+.	PUNCT	.
+
+	SPACE	
+
+Elles	PRON	lui
+traversèrent	VERB	traverser
+le	DET	le
+trottoir	NOUN	trottoir
+,	PUNCT	,
+dans	ADP	dans
+une	DET	un
+envolée	NOUN	envolée
+de	ADP	de
+pelisses	NOUN	pelisse
+et	CCONJ	et
+de	ADP	de
+mantilles	NOUN	mantille
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Bonne	ADJ	bon
+nuit	NOUN	nuit
+,	PUNCT	,
+ma	DET	mon
+chérie	PROPN	chéri
+ 	SPACE	 
+!	PUNCT	!
+dit	VERB	dire
+la	DET	le
+baronne	NOUN	baronne
+,	PUNCT	,
+qui	PRON	qui
+montait	VERB	monter
+en	ADP	en
+voiture	NOUN	voiture
+,	PUNCT	,
+avec	ADP	avec
+un	DET	un
+joli	ADJ	joli
+merci	NOUN	merci
+des	ADP	de
+yeux	NOUN	oeil
+à	ADP	à
+son	DET	son
+amant	NOUN	amant
+qui	PRON	qui
+l'	PRON	l'
+aidait	VERB	aider
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Bonne	ADJ	bon
+nuit	NOUN	nuit
+ 	SPACE	 
+!	PUNCT	!
+répliqua	VERB	répliquer
+la	DET	le
+duchesse	NOUN	duchesse
+.	PUNCT	.
+--	PUNCT	--
+Elle	PRON	lui
+la	PRON	le
+baisa	VERB	baiser
+au	ADP	au
+front	NOUN	front
+par	ADP	par
+la	DET	le
+portière	NOUN	portière
+.	PUNCT	.
+--	PUNCT	--
+Couvre-toi	PRON	couvre-toi
+bien	ADV	bien
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Et	CCONJ	et
+Ronserolles	PROPN	Ronserolles
+,	PUNCT	,
+qui	PRON	qui
+s'	PRON	se
+en	PRON	en
+allait	VERB	aller
+à	ADP	à
+pied	NOUN	pied
+avec	ADP	avec
+l'	DET	le
+amiral	NOUN	amiral
+,	PUNCT	,
+se	PRON	se
+haussa	VERB	hausser
+pour	ADP	pour
+lui	PRON	lui
+jeter	VERB	jeter
+dans	ADP	dans
+l'	DET	le
+oreille	NOUN	oreille
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Hein	INTJ	Hein
+ 	SPACE	 
+?	PUNCT	?
+Elle	PRON	lui
+est	AUX	être
+roide	ADJ	roide
+ 	SPACE	 
+!	PUNCT	!
+Les	DET	le
+voilà	VERB	voilà
+qui	PRON	qui
+se	PRON	se
+bécotent	VERB	bécoter
+à	ADP	à
+présent	NOUN	présent
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Qu'	PRON	qu'
+est	AUX	être
+-ce	PRON	-ce
+qu'	PRON	qu'
+il	PRON	il
+chantait	VERB	chanter
+donc	ADV	donc
+alors	ADV	alors
+,	PUNCT	,
+cet	DET	ce
+idiot	NOUN	idiot
+de	ADP	de
+journal	NOUN	journal
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+II	NOUN	ii
+--	PUNCT	--
+La	DET	le
+soupente	NOUN	soupente
+de	ADP	de
+l'	DET	le
+hôtel	NOUN	hôtel
+de	ADP	de
+Varèse	PROPN	Varèse
+
+	SPACE	
+
+—	PUNCT	—
+C'	PRON	ce
+est	AUX	être
+Casimir	PROPN	Casimir
+ 	SPACE	 
+!	PUNCT	!
+fit	VERB	faire
+Honorine	PROPN	Honorine
+,	PUNCT	,
+de	ADP	de
+sa	DET	son
+voix	NOUN	voix
+rude	ADJ	rude
+et	CCONJ	et
+traînée	NOUN	traînée
+de	ADP	de
+Lorraine	PROPN	Lorraine
+,	PUNCT	,
+en	ADP	en
+introduisant	VERB	introduire
+un	DET	un
+petit	ADJ	petit
+homme	NOUN	homme
+chafouin	ADJ	chafouin
+en	ADP	en
+lunettes	NOUN	lunette
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+,	PUNCT	,
+j'	PRON	je
+ai	VERB	avoir
+bien	ADV	bien
+l'	DET	le
+honneur	NOUN	honneur
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Bonjour	NOUN	bonjour
+,	PUNCT	,
+dit	VERB	dire
+la	DET	le
+vieille	ADJ	vieux
+femme	NOUN	femme
+,	PUNCT	,
+sans	ADP	sans
+quitter	VERB	quitter
+sa	DET	son
+bergère	NOUN	bergère
+près	ADV	près
+de	ADP	de
+la	DET	le
+fenêtre	NOUN	fenêtre
+.	PUNCT	.
+J'	PRON	je
+ai	AUX	avoir
+fini	VERB	finir
+...	PUNCT	...
+Suis	VERB	suivre
+à	ADP	à
+vous	PRON	vous
+...	PUNCT	...
+Honorine	PROPN	Honorine
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Elle	PRON	lui
+tendit	VERB	tendre
+à	ADP	à
+la	DET	le
+bonne	NOUN	bonne
+un	DET	un
+poêlon	NOUN	poêlon
+de	ADP	de
+faïence	NOUN	faïence
+,	PUNCT	,
+où	PRON	où
+fumait	VERB	fumer
+un	DET	un
+reste	NOUN	reste
+de	ADP	de
+panade	NOUN	panade
+.	PUNCT	.
+
+	SPACE	
+
+M.	NOUN	m.
+Casimir	PROPN	Casimir
+tournait	VERB	tourner
+sans	ADP	sans
+bruit	NOUN	bruit
+dans	ADP	dans
+la	DET	le
+chambre	NOUN	chambre
+,	PUNCT	,
+de	ADP	de
+son	DET	son
+pas	NOUN	pas
+menu	ADJ	menu
+chaussé	VERB	chausser
+d'	ADP	de
+étoffe	NOUN	étoffe
+ 	SPACE	 
+:	PUNCT	:
+il	PRON	il
+alla	VERB	aller
+quérir	VERB	quérir
+tout	ADV	tout
+au	ADP	au
+fond	NOUN	fond
+un	DET	un
+guéridon	NOUN	guéridon
+de	ADP	de
+mosaïque	NOUN	mosaïque
+,	PUNCT	,
+le	PRON	le
+planta	VERB	planter
+sur	ADP	sur
+son	DET	son
+pied	NOUN	pied
+devant	ADP	devant
+la	DET	le
+maréchale	NOUN	maréchale
+et	CCONJ	et
+,	PUNCT	,
+s'	PRON	se
+installant	VERB	installer
+,	PUNCT	,
+son	DET	son
+chapeau	NOUN	chapeau
+glissé	VERB	glisser
+sous	ADP	sous
+une	DET	un
+chaise	NOUN	chaise
+,	PUNCT	,
+sa	DET	son
+serviette	NOUN	serviette
+d'	ADP	de
+homme	NOUN	homme
+d'	ADP	de
+affaires	NOUN	affaire
+ouverte	ADJ	ouvert
+,	PUNCT	,
+il	PRON	il
+envoya	VERB	envoyer
+une	DET	un
+grimace	NOUN	grimace
+avec	ADP	avec
+un	DET	un
+«	PUNCT	«
+ 	SPACE	 
+merci	NOUN	merci
+,	PUNCT	,
+ma	DET	mon
+tante	NOUN	tante
+ 	SPACE	 
+!	PUNCT	!
+ 	SPACE	 
+»	PUNCT	»
+à	ADP	à
+Honorine	PROPN	Honorine
+,	PUNCT	,
+qui	PRON	qui
+lui	PRON	lui
+apportait	VERB	apporter
+l'	DET	le
+encrier	NOUN	encrier
+,	PUNCT	,
+et	CCONJ	et
+ressortait	VERB	ressortir
+,	PUNCT	,
+le	DET	le
+poêlon	NOUN	poêlon
+dans	ADP	dans
+les	DET	le
+bras	NOUN	bras
+,	PUNCT	,
+ployant	VERB	ployer
+sous	ADP	sous
+la	DET	le
+porte	NOUN	porte
+sa	DET	son
+haute	ADJ	haut
+carrure	NOUN	carrure
+de	ADP	de
+gendarme	NOUN	gendarme
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Si	SCONJ	si
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+veut	VERB	vouloir
+bien	ADV	bien
+me	PRON	me
+faire	VERB	faire
+l'	DET	le
+honneur	NOUN	honneur
+...	PUNCT	...
+ 	SPACE	 
+?	PUNCT	?
+dit	VERB	dire
+-il	PRON	il
+.	PUNCT	.
+
+	SPACE	
+
+D'	ADP	de
+une	DET	un
+tape	NOUN	tape
+elle	PRON	lui
+rentra	VERB	rentrer
+une	DET	un
+mèche	NOUN	mèche
+blanche	ADJ	blanc
+,	PUNCT	,
+qui	PRON	qui
+pointait	VERB	pointer
+sous	ADP	sous
+son	DET	son
+bonnet	NOUN	bonnet
+de	ADP	de
+tulle	NOUN	tulle
+noir	ADJ	noir
+,	PUNCT	,
+et	CCONJ	et
+,	PUNCT	,
+prenant	VERB	prendre
+la	DET	le
+plume	NOUN	plume
+,	PUNCT	,
+le	DET	le
+corps	NOUN	corps
+droit	ADJ	droit
+,	PUNCT	,
+la	DET	le
+tête	NOUN	tête
+seulement	ADV	seulement
+un	DET	un
+peu	ADV	peu
+versée	VERB	verser
+sur	ADP	sur
+l'	DET	le
+épaule	NOUN	épaule
+,	PUNCT	,
+elle	PRON	lui
+commença	VERB	commencer
+à	ADP	à
+signer	VERB	signer
+les	DET	le
+quittances	NOUN	quittance
+«	PUNCT	«
+  	SPACE	  
+Hussenot	PROPN	Hussenot
+Jarry	PROPN	Jarry
+Varèse	PROPN	Varèse
+ 	SPACE	 
+»	PUNCT	»
+,	PUNCT	,
+sans	ADP	sans
+titre	NOUN	titre
+,	PUNCT	,
+d'	ADP	de
+une	DET	un
+grande	ADJ	grand
+écriture	NOUN	écriture
+commerciale	ADJ	commercial
+à	ADP	à
+peine	ADV	peine
+tremblée	VERB	trembler
+,	PUNCT	,
+barrée	VERB	barrer
+en	ADP	en
+dessous	ADV	dessous
+d'	ADP	de
+un	DET	un
+parafe	NOUN	parafe
+.	PUNCT	.
+M.	NOUN	m.
+Casimir	PROPN	Casimir
+lui	PRON	lui
+passait	VERB	passer
+les	DET	le
+feuilles	NOUN	feuille
+à	ADP	à
+mesure	NOUN	mesure
+,	PUNCT	,
+les	PRON	le
+biaisant	VERB	biaiser
+d'	ADP	de
+abord	ADV	abord
+contre	ADP	contre
+ses	DET	son
+lunettes	NOUN	lunette
+pour	ADP	pour
+les	PRON	le
+lire	VERB	lire
+,	PUNCT	,
+puis	CCONJ	puis
+,	PUNCT	,
+séchées	VERB	sécher
+à	ADP	à
+la	DET	le
+sciure	NOUN	sciure
+,	PUNCT	,
+il	PRON	il
+les	PRON	le
+empilait	VERB	empiler
+par	ADP	par
+tas	NOUN	tas
+,	PUNCT	,
+avec	ADP	avec
+des	DET	un
+fiches	NOUN	fiche
+roses	ADJ	rose
+pour	ADP	pour
+séparer	VERB	séparer
+les	DET	le
+immeubles	NOUN	immeuble
+.	PUNCT	.
+Entre-temps	ADV	entre-temps
+il	PRON	il
+donnait	VERB	donner
+des	DET	un
+détails	NOUN	détail
+,	PUNCT	,
+prenait	VERB	prendre
+des	DET	un
+notes	NOUN	note
+,	PUNCT	,
+non	ADV	non
+sans	ADP	sans
+discourir	VERB	discourir
+très	ADV	très
+vite	ADV	vite
+,	PUNCT	,
+d'	ADP	de
+un	DET	un
+timbre	NOUN	timbre
+grêle	ADJ	grêle
+semblable	ADJ	semblable
+à	ADP	à
+un	DET	un
+grignotement	NOUN	grignotement
+.	PUNCT	.
+--	PUNCT	--
+Le	DET	le
+bail	NOUN	bail
+de	ADP	de
+la	DET	le
+rue	NOUN	rue
+du	ADP	de
+Temple	PROPN	Temple
+,	PUNCT	,
+renouvelé	VERB	renouveler
+,	PUNCT	,
+enfin	ADV	enfin
+ 	SPACE	 
+!	PUNCT	!
+Pas	ADV	pas
+sans	ADP	sans
+peine	NOUN	peine
+.	PUNCT	.
+Le	DET	le
+principal	ADJ	principal
+locataire	NOUN	locataire
+voulait	VERB	vouloir
+du	DET	de
+papier	NOUN	papier
+dans	ADP	dans
+les	DET	le
+chambres	NOUN	chambre
+,	PUNCT	,
+l'	DET	le
+eau	NOUN	eau
+,	PUNCT	,
+le	DET	le
+gaz	NOUN	gaz
+,	PUNCT	,
+cœtera	PROPN	cœtera
+...	PUNCT	...
+cœtera	PROPN	cœtera
+.	PUNCT	.
+Le	DET	le
+portier	NOUN	portier
+,	PUNCT	,
+un	DET	un
+finaud	NOUN	finaud
+(	PUNCT	(
+il	PRON	il
+lui	PRON	lui
+avait	AUX	avoir
+fait	VERB	faire
+la	DET	le
+leçon	NOUN	leçon
+)	PUNCT	)
+,	PUNCT	,
+avait	AUX	avoir
+promis	VERB	promettre
+sans	ADP	sans
+promettre	VERB	promettre
+.	PUNCT	.
+Et	CCONJ	et
+voilà	VERB	voilà
+ 	SPACE	 
+!	PUNCT	!
+un	DET	un
+boni	NOUN	boni
+de	ADP	de
+1275	NUM	1275
+francs	NOUN	franc
+et	CCONJ	et
+des	DET	un
+centimes	NOUN	centime
+...	PUNCT	...
+Congé	NOUN	congé
+à	ADP	à
+l'	DET	le
+établissement	NOUN	établissement
+de	ADP	de
+bains	NOUN	bain
+,	PUNCT	,
+d'	ADP	de
+après	ADP	après
+les	DET	le
+ordres	NOUN	ordre
+de	ADP	de
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+,	PUNCT	,
+et	CCONJ	et
+,	PUNCT	,
+vu	ADP	vu
+le	DET	le
+défaut	NOUN	défaut
+d'	ADP	de
+état	NOUN	état
+de	ADP	de
+lieux	NOUN	lieu
+,	PUNCT	,
+exigé	VERB	exiger
+1700	NUM	1700
+francs	NOUN	franc
+d'	ADP	de
+indemnité	NOUN	indemnité
+de	ADP	de
+réparations	NOUN	réparation
+locatives	ADJ	locatif
+,	PUNCT	,
+cœtera	PROPN	cœtera
+...	PUNCT	...
+cœtera	PROPN	cœtera
+...	PUNCT	...
+Pas	ADV	pas
+pour	ADP	pour
+plus	ADV	plus
+de	ADP	de
+cent	NUM	cent
+écus	NOUN	écu
+de	ADP	de
+dépense	NOUN	dépense
+...	PUNCT	...
+Boulevard	NOUN	boulevard
+Beaumarchais	PROPN	Beaumarchais
+,	PUNCT	,
+le	DET	le
+dentiste	NOUN	dentiste
+s'	PRON	se
+en	PRON	en
+allait	VERB	aller
+ 	SPACE	 
+:	PUNCT	:
+bon	ADJ	bon
+débarras	NOUN	débarras
+ 	SPACE	 
+!	PUNCT	!
+Un	DET	un
+éventailliste	NOUN	éventailliste
+prenait	VERB	prendre
+la	DET	le
+suite	NOUN	suite
+,	PUNCT	,
+Zingler	PROPN	Zingler
+et	CCONJ	et
+neveu	NOUN	neveu
+,	PUNCT	,
+gens	NOUN	gens
+sûrs	ADJ	sûr
+...	PUNCT	...
+
+	SPACE	
+
+Puis	CCONJ	puis
+ce	PRON	ce
+furent	AUX	être
+les	DET	le
+maisons	NOUN	maison
+de	ADP	de
+la	DET	le
+rue	NOUN	rue
+de	ADP	de
+la	DET	le
+Roquette	PROPN	Roquette
+,	PUNCT	,
+de	ADP	de
+Bondy	PROPN	Bondy
+,	PUNCT	,
+des	DET	un
+hôtels	NOUN	hôtel
+au	ADP	au
+Marais	PROPN	Marais
+,	PUNCT	,
+une	DET	un
+moitié	NOUN	moitié
+de	ADP	de
+Montmartre	PROPN	Montmartre
+--	PUNCT	--
+vraies	ADJ	vrai
+casernes	NOUN	caserne
+,	PUNCT	,
+avec	ADP	avec
+des	DET	un
+liasses	NOUN	liasse
+de	ADP	de
+petits	ADJ	petit
+loyers	NOUN	loyer
+ 	SPACE	 
+:	PUNCT	:
+les	DET	le
+passages	NOUN	passage
+enfin	ADV	enfin
+,	PUNCT	,
+et	CCONJ	et
+les	DET	le
+gros	ADJ	gros
+morceaux	NOUN	morceau
+des	ADP	de
+quartiers	NOUN	quartier
+de	ADP	de
+la	DET	le
+Madeleine	PROPN	Madeleine
+et	CCONJ	et
+Malesherbes	PROPN	Malesherbes
+.	PUNCT	.
+il	PRON	il
+entrelardait	VERB	entrelarder
+ses	DET	son
+résumés	NOUN	résumé
+d'	ADP	de
+affaires	NOUN	affaire
+de	ADP	de
+racontars	NOUN	racontar
+,	PUNCT	,
+de	ADP	de
+cancans	NOUN	cancan
+de	ADP	de
+concierges	NOUN	concierge
+,	PUNCT	,
+panachés	VERB	panacher
+de	ADP	de
+mots	NOUN	mot
+crus	ADJ	cru
+.	PUNCT	.
+--	PUNCT	--
+Rue	NOUN	rue
+Duphot	PROPN	Duphot
+,	PUNCT	,
+la	DET	le
+comtesse	NOUN	comtesse
+Rosetti	PROPN	Rosetti
+s'	PRON	se
+était	AUX	être
+encore	ADV	encore
+fait	AUX	faire
+pincer	VERB	pincer
+dans	ADP	dans
+une	DET	un
+sale	ADJ	sale
+affaire	NOUN	affaire
+de	ADP	de
+mineures	NOUN	mineure
+ 	SPACE	 
+:	PUNCT	:
+les	DET	le
+locataires	NOUN	locataire
+réclamaient	VERB	réclamer
+.	PUNCT	.
+La	DET	le
+nuit	NOUN	nuit
+,	PUNCT	,
+c'	PRON	ce
+étaient	AUX	être
+des	DET	un
+bacchanales	NOUN	bacchanale
+,	PUNCT	,
+cœtera	PROPN	cœtera
+...	PUNCT	...
+cœtera	PROPN	cœtera
+...	PUNCT	...
+Mais	CCONJ	mais
+elle	PRON	lui
+payait	VERB	payer
+bien	ADV	bien
+et	CCONJ	et
+d'	ADP	de
+avance	NOUN	avance
+,	PUNCT	,
+et	CCONJ	et
+puis	CCONJ	puis
+...	PUNCT	...
+protégée	VERB	protéger
+par	ADP	par
+le	DET	le
+gouvernement	NOUN	gouvernement
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Le	DET	le
+vieux	ADJ	vieux
+,	PUNCT	,
+rue	NOUN	rue
+d'	ADP	de
+Astorg	PROPN	Astorg
+,	PUNCT	,
+ramenait	VERB	ramener
+toujours	ADV	toujours
+ses	DET	son
+traînées	NOUN	traînée
+,	PUNCT	,
+cœtera	PROPN	cœtera
+...	PUNCT	...
+cœtera	PROPN	cœtera
+.	PUNCT	.
+Mis	VERB	mettre
+l'	DET	le
+écriteau	NOUN	écriteau
+boulevard	NOUN	boulevard
+Malesherbes	PROPN	Malesherbes
+ 	SPACE	 
+:	PUNCT	:
+le	DET	le
+jeune	ADJ	jeune
+ménage	NOUN	ménage
+se	PRON	se
+séparait	VERB	séparer
+décidément	ADV	décidément
+...	PUNCT	...
+
+	SPACE	
+
+Ici	ADV	ici
+ou	CCONJ	ou
+là	ADV	là
+il	PRON	il
+glissait	VERB	glisser
+une	DET	un
+réclamation	NOUN	réclamation
+ 	SPACE	 
+:	PUNCT	:
+le	DET	le
+«	PUNCT	«
+ 	SPACE	 
+premier	ADJ	premier
+ 	SPACE	 
+»	PUNCT	»
+de	ADP	de
+la	DET	le
+rue	NOUN	rue
+de	ADP	de
+Téhéran	PROPN	Téhéran
+demandait	VERB	demander
+une	DET	un
+chambre	NOUN	chambre
+de	ADP	de
+domestique	NOUN	domestique
+en	ADP	en
+sus	NOUN	su
+ 	SPACE	 
+;	PUNCT	;
+peut-être	ADV	peut-être
+que	SCONJ	que
+...	PUNCT	...
+Le	DET	le
+tapis	NOUN	tapis
+du	ADP	de
+80	PRON	80
+s'	PRON	se
+effilochait	VERB	effilocher
+...	PUNCT	...
+peut-être	ADV	peut-être
+que	SCONJ	que
+...	PUNCT	...
+
+	SPACE	
+
+À	ADP	à
+chaque	DET	chaque
+«	PUNCT	«
+ 	SPACE	 
+peut-être	ADV	peut-être
+ 	SPACE	 
+»	PUNCT	»
+,	PUNCT	,
+la	DET	le
+maréchale	NOUN	maréchale
+relevait	VERB	relever
+sa	DET	son
+longue	ADJ	long
+face	NOUN	face
+blafarde	ADJ	blafard
+,	PUNCT	,
+hérissée	VERB	hérisser
+,	PUNCT	,
+et	CCONJ	et
+lui	PRON	lui
+fermait	VERB	fermer
+la	DET	le
+bouche	NOUN	bouche
+d'	ADP	de
+un	DET	un
+seul	ADJ	seul
+regard	NOUN	regard
+de	ADP	de
+ses	DET	son
+yeux	NOUN	oeil
+gris	ADJ	gris
+terribles	ADJ	terrible
+.	PUNCT	.
+Cependant	ADV	cependant
+elle	PRON	lui
+signait	VERB	signer
+toujours	ADV	toujours
+,	PUNCT	,
+impassible	ADJ	impassible
+,	PUNCT	,
+additionnant	VERB	additionner
+chaque	DET	chaque
+terme	NOUN	terme
+de	ADP	de
+souvenir	NOUN	souvenir
+,	PUNCT	,
+donnait	VERB	donner
+ses	DET	son
+ordres	NOUN	ordre
+d'	ADP	de
+un	DET	un
+geste	NOUN	geste
+,	PUNCT	,
+d'	ADP	de
+un	DET	un
+coup	NOUN	coup
+de	ADP	de
+paupières	NOUN	paupière
+,	PUNCT	,
+la	DET	le
+main	NOUN	main
+ouverte	ADJ	ouvert
+ou	CCONJ	ou
+fermée	VERB	fermer
+,	PUNCT	,
+suppléant	VERB	suppléer
+aux	ADP	à
+lacunes	NOUN	lacune
+par	ADP	par
+un	DET	un
+bout	NOUN	bout
+de	ADP	de
+phrase	NOUN	phrase
+télégraphique	ADJ	télégraphique
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Loge	NOUN	loge
+au	ADP	au
+soldat	NOUN	soldat
+...	PUNCT	...
+préférence	NOUN	préférence
+...	PUNCT	...
+Deux	NUM	Deux
+cent	NUM	cent
+soixante	NUM	soixante
+et	CCONJ	et
+chauffé	VERB	chauffer
+...	PUNCT	...
+Travaux	NOUN	travail
+au	ADP	au
+printemps	NOUN	printemps
+...	PUNCT	...
+Voir	VERB	voir
+devis	NOUN	devis
+de	ADP	de
+l'	DET	le
+architecte	NOUN	architecte
+...	PUNCT	...
+Bail	NOUN	bail
+,	PUNCT	,
+trois	NUM	trois
+,	PUNCT	,
+six	NUM	six
+,	PUNCT	,
+neuf	NUM	neuf
+...	PUNCT	...
+
+	SPACE	
+
+Rien	PRON	rien
+ne	ADV	ne
+lui	PRON	lui
+échappait	VERB	échapper
+,	PUNCT	,
+l'	DET	le
+esprit	NOUN	esprit
+présent	ADJ	présent
+aux	ADP	à
+impositions	NOUN	imposition
+,	PUNCT	,
+aux	ADP	à
+abonnements	NOUN	abonnement
+d'	ADP	de
+eau	NOUN	eau
+,	PUNCT	,
+au	ADP	au
+balayage	NOUN	balayage
+,	PUNCT	,
+avec	ADP	avec
+une	DET	un
+mémoire	NOUN	mémoire
+singulière	ADJ	singulier
+des	ADP	de
+noms	NOUN	nom
+,	PUNCT	,
+des	ADP	de
+métiers	NOUN	métier
+de	ADP	de
+tout	ADJ	tout
+ce	DET	ce
+peuple	NOUN	peuple
+de	ADP	de
+locataires	NOUN	locataire
+.	PUNCT	.
+Et	CCONJ	et
+quelles	DET	quel
+colères	NOUN	colère
+pour	ADP	pour
+un	DET	un
+délai	NOUN	délai
+accordé	VERB	accorder
+,	PUNCT	,
+une	DET	un
+moitié	NOUN	moitié
+de	ADP	de
+terme	NOUN	terme
+en	ADP	en
+retard	NOUN	retard
+,	PUNCT	,
+un	DET	un
+défaut	NOUN	défaut
+de	ADP	de
+poursuite	NOUN	poursuite
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+—	PUNCT	—
+À	ADP	à
+la	DET	le
+rue	NOUN	rue
+,	PUNCT	,
+à	ADP	à
+la	DET	le
+rue	NOUN	rue
+,	PUNCT	,
+les	DET	le
+mauvaises	ADJ	mauvais
+payes	NOUN	paie
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Lui	PRON	lui
+n'	ADV	n'
+insistait	VERB	insister
+point	ADV	point
+et	CCONJ	et
+filait	VERB	filer
+doux	ADJ	doux
+sans	ADP	sans
+trompette	NOUN	trompette
+.	PUNCT	.
+
+	SPACE	
+
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+il	PRON	il
+la	PRON	le
+connaissait	VERB	connaître
+bien	ADV	bien
+,	PUNCT	,
+depuis	ADP	depuis
+plus	ADV	plus
+de	ADP	de
+vingt	NUM	vingt
+ans	NOUN	an
+qu'	SCONJ	que
+il	PRON	il
+soignait	VERB	soigner
+ses	DET	son
+affaires	NOUN	affaire
+,	PUNCT	,
+de	ADP	de
+clerc	NOUN	clerc
+d'	ADP	de
+avoué	NOUN	avoué
+passé	VERB	passer
+factotum	PROPN	factotum
+et	CCONJ	et
+conseil	NOUN	conseil
+,	PUNCT	,
+caressant	VERB	caresser
+ses	DET	son
+manies	NOUN	manie
+au	ADP	au
+fil	NOUN	fil
+du	ADP	de
+poil	NOUN	poil
+,	PUNCT	,
+raffinant	VERB	raffiner
+sur	ADP	sur
+sa	DET	son
+lésine	NOUN	lésine
+,	PUNCT	,
+habile	ADJ	habile
+à	ADP	à
+faire	AUX	faire
+suer	VERB	suer
+l'	DET	le
+argent	NOUN	argent
+.	PUNCT	.
+À	ADP	à
+ce	DET	ce
+point	NOUN	point
+que	SCONJ	que
+,	PUNCT	,
+seul	ADJ	seul
+avec	ADP	avec
+Honorine	PROPN	Honorine
+,	PUNCT	,
+sa	DET	son
+tante	NOUN	tante
+,	PUNCT	,
+il	PRON	il
+savait	VERB	savoir
+flairer	VERB	flairer
+les	DET	le
+nuances	NOUN	nuance
+,	PUNCT	,
+noter	VERB	noter
+mille	NUM	mille
+finesses	NOUN	finesse
+de	ADP	de
+langue	NOUN	langue
+dans	ADP	dans
+ces	DET	ce
+doigtés	NOUN	doigté
+de	ADP	de
+sourde	ADJ	sourd
+et	CCONJ	et
+muette	ADJ	muet
+,	PUNCT	,
+cette	DET	ce
+sténographie	NOUN	sténographie
+de	ADP	de
+paroles	NOUN	parole
+,	PUNCT	,
+où	PRON	où
+les	DET	le
+enfants	NOUN	enfant
+de	ADP	de
+la	DET	le
+maréchale	NOUN	maréchale
+eux	PRON	lui
+-	PRON	-
+mêmes	PRON	même
+n'	ADV	n'
+entendaient	VERB	entendre
+mot	NOUN	mot
+.	PUNCT	.
+
+	SPACE	
+
+Les	DET	le
+quittances	NOUN	quittance
+finies	VERB	finir
+,	PUNCT	,
+il	PRON	il
+s'	PRON	se
+embarqua	VERB	embarquer
+dans	ADP	dans
+des	DET	un
+comptes	NOUN	compte
+,	PUNCT	,
+primes	NOUN	prime
+dont	PRON	dont
+dix	NUM	dix
+sous	NOUN	sou
+,	PUNCT	,
+ferme	ADJ	ferme
+,	PUNCT	,
+reports	NOUN	report
+,	PUNCT	,
+liquidation	NOUN	liquidation
+,	PUNCT	,
+glissant	VERB	glisser
+le	DET	le
+bordereau	NOUN	bordereau
+à	ADP	à
+l'	DET	le
+appui	NOUN	appui
+,	PUNCT	,
+un	DET	un
+doigt	NOUN	doigt
+posé	VERB	poser
+sur	ADP	sur
+le	DET	le
+total	NOUN	total
+ 	SPACE	 
+;	PUNCT	;
+puis	CCONJ	puis
+,	PUNCT	,
+d'	ADP	de
+un	DET	un
+calcul	NOUN	calcul
+bien	ADV	bien
+net	ADJ	net
+,	PUNCT	,
+en	ADP	en
+deux	NUM	deux
+temps	NOUN	temps
+,	PUNCT	,
+il	PRON	il
+inscrivait	VERB	inscrire
+les	DET	le
+différences	NOUN	différence
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Bien	ADV	bien
+ 	SPACE	 
+!	PUNCT	!
+faisait	VERB	faire
+la	DET	le
+maréchale	NOUN	maréchale
+.	PUNCT	.
+Après	ADP	après
+ 	SPACE	 
+?	PUNCT	?
+...	PUNCT	...
+après	ADP	après
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+Et	CCONJ	et
+la	DET	le
+pointe	NOUN	pointe
+de	ADP	de
+son	DET	son
+nez	NOUN	nez
+en	ADP	en
+lame	NOUN	lame
+de	ADP	de
+serpe	NOUN	serpe
+semblait	VERB	sembler
+tailler	VERB	tailler
+à	ADP	à
+chaque	DET	chaque
+mot	NOUN	mot
+dans	ADP	dans
+sa	DET	son
+bouche	NOUN	bouche
+molle	ADJ	mou
+,	PUNCT	,
+que	SCONJ	que
+le	DET	le
+vide	NOUN	vide
+des	ADP	de
+dents	NOUN	dent
+crevassait	VERB	crevasser
+.	PUNCT	.
+
+	SPACE	
+
+Un	DET	un
+moment	NOUN	moment
+elle	PRON	lui
+roula	VERB	rouler
+très	ADV	très
+fort	ADV	fort
+son	DET	son
+cou	NOUN	cou
+d'	ADP	de
+épaule	NOUN	épaule
+à	ADP	à
+épaule	NOUN	épaule
+,	PUNCT	,
+et	CCONJ	et
+,	PUNCT	,
+comme	SCONJ	comme
+il	PRON	il
+poursuivait	VERB	poursuivre
+,	PUNCT	,
+jeté	VERB	jeter
+à	ADP	à
+l'	DET	le
+élan	NOUN	élan
+d'	ADP	de
+une	DET	un
+addition	NOUN	addition
+de	ADP	de
+neuf	NUM	neuf
+chiffres	NOUN	chiffre
+,	PUNCT	,
+elle	PRON	lui
+l'	PRON	l'
+arrêta	VERB	arrêter
+net	ADJ	net
+d'	ADP	de
+un	DET	un
+grand	ADJ	grand
+coup	NOUN	coup
+de	ADP	de
+poing	NOUN	poing
+sur	ADP	sur
+la	DET	le
+table	NOUN	table
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Et	CCONJ	et
+je	PRON	je
+retiens	VERB	retenir
+3	PRON	3
+...	PUNCT	...
+et	CCONJ	et
+je	PRON	je
+retiens	VERB	retenir
+3	PRON	3
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+cependant	ADV	cependant
+bien	ADV	bien
+un	DET	un
+3	PRON	3
+,	PUNCT	,
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+...	PUNCT	...
+Tiens	VERB	tenir
+ 	SPACE	 
+!	PUNCT	!
+que	SCONJ	que
+je	PRON	je
+suis	AUX	être
+bête	ADJ	bête
+ 	SPACE	 
+!	PUNCT	!
+Madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+a	VERB	avoir
+raison	NOUN	raison
+.	PUNCT	.
+Et	CCONJ	et
+je	PRON	je
+retiens	VERB	retenir
+4	PRON	4
+...	PUNCT	...
+Je	PRON	je
+sais	VERB	savoir
+fichtre	NOUN	fichtre
+ 	SPACE	 
+!	PUNCT	!
+pas	ADV	pas
+où	ADV	où
+j'	PRON	je
+avais	VERB	avoir
+la	DET	le
+tête	NOUN	tête
+...	PUNCT	...
+Si	SCONJ	si
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+veut	VERB	vouloir
+bien	ADV	bien
+me	PRON	me
+faire	VERB	faire
+l'	DET	le
+honneur	NOUN	honneur
+de	ADP	de
+mettre	VERB	mettre
+ici	ADV	ici
+ 	SPACE	 
+:	PUNCT	:
+Bon	ADJ	bon
+pour	ADP	pour
+transfert	NOUN	transfert
+,	PUNCT	,
+on	PRON	on
+vendra	VERB	vendre
+au	ADP	au
+premier	ADJ	premier
+cours	NOUN	cours
+.	PUNCT	.
+J'	PRON	je
+ai	VERB	avoir
+*	PUNCT	*
+*	PUNCT	*
+idée	NOUN	idée
+qu'	SCONJ	que
+on	PRON	on
+viendra	VERB	venir
+en	ADP	en
+Bourse	NOUN	bourse
+sous	ADP	sous
+l'	DET	le
+impression	NOUN	impression
+de	ADP	de
+ces	DET	ce
+affaires	NOUN	affaire
+d'	ADP	de
+Égypte	PROPN	Égypte
+...	PUNCT	...
+En	ADP	en
+même	ADJ	même
+temps	NOUN	temps
+on	PRON	on
+déposera	VERB	déposer
+en	ADP	en
+compte	NOUN	compte
+courant	ADJ	courant
+à	ADP	à
+la	DET	le
+Banque	NOUN	banque
+les	DET	le
+francs	NOUN	franc
+ 	SPACE	 
+:	PUNCT	:
+176	NOUN	176
+ 	SPACE	 
+634,85	NOUN	634,85
+.	PUNCT	.
+--	PUNCT	--
+Belle	ADJ	bel
+liquidation	NOUN	liquidation
+pour	ADP	pour
+une	DET	un
+liquidation	NOUN	liquidation
+de	ADP	de
+krach	NOUN	krach
+,	PUNCT	,
+madame	NOUN	monsieur
+la	DET	le
+maréchale	PROPN	maréchale
+...	PUNCT	...
+Hein	INTJ	Hein
+ 	SPACE	 
+?	PUNCT	?
+J'	PRON	je
+étais	VERB	être
+*	PUNCT	*
+*	PUNCT	*
+dans	ADP	dans
+le	DET	le
+vrai	ADJ	vrai
+pour	ADP	pour
+l'	DET	le
+Union	PROPN	Union
+ 	SPACE	 
+?	PUNCT	?
+
+	SPACE	
+
+Il	PRON	il
+ramassa	VERB	ramasser
+ses	DET	son
+paperasses	NOUN	paperasse
+en	ADP	en
+paquet	NOUN	paquet
+et	CCONJ	et
+demanda	VERB	demander
+ 	SPACE	 
+:	PUNCT	:
+
+	SPACE	
+
+—	PUNCT	—
+Madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+a	VERB	avoir
+pas	ADV	pas
+d'	DET	d'
+autres	ADJ	autre
+ordres	NOUN	ordre
+à	ADP	à
+me	PRON	me
+donner	VERB	donner
+ 	SPACE	 
+?	PUNCT	?
+Acheter	VERB	acheter
+300	NUM	300
+Suez	PROPN	Suez
+et	CCONJ	et
+45	DET	45
+ 	SPACE	 
+000	PRON	000
+de	ADP	de
+trois	PRON	trois
+..	PUNCT	..
+.	PROPN	.
+ 	SPACE	 
+?	PUNCT	?
+On	PRON	on
+reparle	VERB	reparle
+de	ADP	de
+conversion	NOUN	conversion
+ 	SPACE	 
+:	PUNCT	:
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+a	VERB	avoir
+le	DET	le
+nez	NOUN	nez
+creux	ADJ	creux
+...	PUNCT	...
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+volontiers	ADV	volontiers
+ 	SPACE	 
+!	PUNCT	!
+...	PUNCT	...
+Madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+me	PRON	me
+gâte	VERB	gâter
+ 	SPACE	 
+!	PUNCT	!
+
+	SPACE	
+
+Et	CCONJ	et
+,	PUNCT	,
+se	PRON	se
+baissant	VERB	baisser
+,	PUNCT	,
+il	PRON	il
+fourra	VERB	fourrer
+deux	NUM	deux
+doigts	NOUN	doigt
+dans	ADP	dans
+la	DET	le
+tabatière	NOUN	tabatière
+de	ADP	de
+corne	NOUN	corne
+,	PUNCT	,
+que	PRON	que
+la	DET	le
+vieille	ADJ	vieux
+femme	NOUN	femme
+lui	PRON	lui
+tendait	VERB	tendre
+,	PUNCT	,
+puis	CCONJ	puis
+s'	PRON	se
+en	PRON	en
+alla	VERB	aller
+,	PUNCT	,
+très	ADV	très
+humble	ADJ	humble
+,	PUNCT	,
+à	ADP	à
+reculons	NOUN	reculon
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+J'	PRON	je
+oubliais	VERB	oublier
+,	PUNCT	,
+fit	VERB	faire
+-il	PRON	il
+en	ADP	en
+se	PRON	se
+retournant	VERB	retourner
+,	PUNCT	,
+j'	PRON	je
+oubliais	VERB	oublier
+de	ADP	de
+dire	VERB	dire
+à	ADP	à
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+qu'	SCONJ	que
+elle	PRON	lui
+se	PRON	se
+trouve	VERB	trouve
+propriétaire	NOUN	propriétaire
+du	ADP	de
+dernier	ADJ	dernier
+immeuble	NOUN	immeuble
+de	ADP	de
+M.	NOUN	m.
+le	DET	le
+duc	NOUN	duc
+,	PUNCT	,
+rue	NOUN	rue
+de	ADP	de
+Rivoli	PROPN	Rivoli
+,	PUNCT	,
+246	NUM	246
+bis	NUM	bis
+,	PUNCT	,
+acheté	VERB	acheter
+hier	ADV	hier
+en	ADP	en
+sous-main	NOUN	sous-main
+par	ADP	par
+maître	NOUN	maître
+Magrimod	PROPN	Magrimod
+pour	ADP	pour
+la	DET	le
+somme	NOUN	somme
+de	ADP	de
+francs	NOUN	franc
+...	PUNCT	...
+975	NUM	975
+ 	SPACE	 
+000	PRON	000
+,	PUNCT	,
+sans	ADP	sans
+les	DET	le
+frais	NOUN	frais
+--	PUNCT	--
+900	PRON	900
+,	NOUN	,
+*	PUNCT	*
+*	PUNCT	*
+sur	ADP	sur
+l'	DET	le
+acte	NOUN	acte
+--	PUNCT	--
+à	ADP	à
+charge	NOUN	charge
+de	ADP	de
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+de	ADP	de
+purger	VERB	purger
+les	DET	le
+hypothèques	NOUN	hypothèque
+...	PUNCT	...
+Ça	PRON	cela
+va	VERB	aller
+pas	ADV	pas
+,	PUNCT	,
+les	DET	le
+affaires	NOUN	affaire
+de	ADP	de
+M.	NOUN	m.
+le	DET	le
+duc	NOUN	duc
+ 	SPACE	 
+:	PUNCT	:
+pas	ADV	pas
+plus	ADV	plus
+tard	ADV	tard
+que	SCONJ	que
+lundi	NOUN	lundi
+M.	NOUN	m.
+le	DET	le
+duc	NOUN	duc
+a	AUX	avoir
+encore	ADV	encore
+emprunté	VERB	emprunter
+dans	ADP	dans
+les	DET	le
+cinquante	NUM	cinquante
+mille	PRON	mille
+sur	ADP	sur
+sa	DET	son
+terre	NOUN	terre
+de	ADP	de
+Belœil	PROPN	Belœil
+...	PUNCT	...
+Je	PRON	je
+connais	VERB	connaître
+le	DET	le
+prêteur	NOUN	prêteur
+...	PUNCT	...
+C'	PRON	ce
+est	AUX	être
+Spitzer	PROPN	Spitzer
+,	PUNCT	,
+madame	NOUN	monsieur
+la	DET	le
+maréchale	NOUN	maréchale
+connaît	VERB	connaître
+que	SCONJ	que
+ça	PRON	cela
+...	PUNCT	...
+
+	SPACE	
+
+—	PUNCT	—
+Ah	INTJ	Ah
+ 	SPACE	 
+!	PUNCT	!
+dit	VERB	dire
+-elle	PRON	lui
+seulement	ADV	seulement
+.	PUNCT	.
+
+	SPACE	
+
+Et	CCONJ	et
+ses	DET	son
+yeux	NOUN	oeil
+gris	ADJ	gris
+,	PUNCT	,
+lourds	ADJ	lourd
+de	ADP	de
+haine	NOUN	haine
+,	PUNCT	,
+s'	PRON	se
+en	PRON	en
+allèrent	VERB	aller
+souffleter	VERB	souffleter
+le	DET	le
+portrait	NOUN	portrait
+du	ADP	de
+maréchal	NOUN	maréchal
+.	PUNCT	.
+
+	SPACE	
+
+La	DET	le
+porte	NOUN	porte
+s'	PRON	se
+était	AUX	être
+refermée	VERB	refermer
+,	PUNCT	,
+mettant	VERB	mettre
+un	DET	un
+silence	NOUN	silence
+dans	ADP	dans
+la	DET	le
+chambre	NOUN	chambre
+,	PUNCT	,
+une	DET	un
+pièce	NOUN	pièce
+étroite	ADJ	étroit
+et	CCONJ	et
+longue	ADJ	long
+en	ADP	en
+soupente	NOUN	soupente
+,	PUNCT	,
+mal	ADV	mal
+éclairée	VERB	éclairer
+par	ADP	par
+les	DET	le
+petites	ADJ	petit
+vitres	NOUN	vitre
+verdâtres	ADJ	verdâtre
+de	ADP	de
+la	DET	le
+fenêtre	NOUN	fenêtre
+qui	PRON	qui
+ouvrait	VERB	ouvrir
+sur	ADP	sur
+la	DET	le
+cour	NOUN	cour
+d'	ADP	de
+honneur	NOUN	honneur
+de	ADP	de
+l'	DET	le
+hôtel	NOUN	hôtel
+.	PUNCT	.
+Point	NOUN	point
+de	ADP	de
+tapis	NOUN	tapis
+sur	ADP	sur
+le	DET	le
+carreau	NOUN	carreau
+ 	SPACE	 
+:	PUNCT	:
+peu	ADV	peu
+de	ADP	de
+meubles	NOUN	meuble
+et	CCONJ	et
+de	ADP	de
+pauvre	ADJ	pauvre
+mine	NOUN	mine
+,	PUNCT	,
+une	DET	un
+paire	NOUN	paire
+de	ADP	de
+chaises	NOUN	chaise
+en	ADP	en
+paille	NOUN	paille
+de	ADP	de
+style	NOUN	style
+Louis	PROPN	Louis
+XVI	NUM	XVI
+à	ADP	à
+la	DET	le
+lyre	NOUN	lyre
+,	PUNCT	,
+un	DET	un
+bureau	NOUN	bureau
+à	ADP	à
+cylindre	NOUN	cylindre
+,	PUNCT	,
+et	CCONJ	et
+,	PUNCT	,
+devant	ADP	devant
+le	DET	le
+feu	NOUN	feu
+de	ADP	de
+coke	NOUN	coke
+,	PUNCT	,
+qui	PRON	qui
+rosissait	VERB	rosir
+à	ADP	à
+peine	ADV	peine
+entre	ADP	entre
+les	DET	le
+cendres	NOUN	cendre
+,	PUNCT	,
+une	DET	un
+causeuse	NOUN	causeuse
+Empire	PROPN	Empire
+et	CCONJ	et
+un	DET	un
+mignon	ADJ	mignon
+siège	NOUN	siège
+d'	ADP	de
+enfant	NOUN	enfant
+,	PUNCT	,
+couvert	VERB	couvrir
+d'	ADP	de
+une	DET	un
+soie	NOUN	soie
+passée	VERB	passer
+.	PUNCT	.
+
+	SPACE	
+
+Face	NOUN	face
+à	ADP	à
+la	DET	le
+cheminée	NOUN	cheminée
+,	PUNCT	,
+garnie	VERB	garnir
+d'	ADP	de
+une	DET	un
+pendule	NOUN	pendule
+en	ADP	en
+biscuit	NOUN	biscuit
+sous	ADP	sous
+globe	NOUN	globe
+,	PUNCT	,
+flanquée	VERB	flanquer
+de	ADP	de
+massifs	ADJ	massif
+chandeliers	NOUN	chandelier
+d'	ADP	de
+argent	NOUN	argent
+sans	ADP	sans
+bougies	NOUN	bougie
+,	PUNCT	,
+un	DET	un
+portrait	NOUN	portrait
+peint	VERB	peindre
+du	ADP	de
+feu	NOUN	feu
+maréchal	NOUN	maréchal
+duc	NOUN	duc
+de	ADP	de
+Varèse	PROPN	Varèse
+le	PRON	le
+représentait	VERB	représenter
+en	ADP	en
+costume	NOUN	costume
+,	PUNCT	,
+sa	DET	son
+grosse	ADJ	gros
+tête	NOUN	tête
+de	ADP	de
+luron	NOUN	luron
+bon	ADJ	bon
+enfant	ADJ	enfant
+,	PUNCT	,
+élargie	VERB	élargir
+d'	ADP	de
+un	DET	un
+collier	NOUN	collier
+de	ADP	de
+barbe	NOUN	barbe
+,	PUNCT	,
+comme	ADP	comme
+empalée	VERB	empaler
+sur	ADP	sur
+son	DET	son
+col	NOUN	col
+carcan	NOUN	carcan
+d'	ADP	de
+uniforme	NOUN	uniforme
+,	PUNCT	,
+avec	ADP	avec
+,	PUNCT	,
+au-dessus	ADV	au-dessus
+,	PUNCT	,
+dans	ADP	dans
+la	DET	le
+bordure	NOUN	bordure
+du	ADP	de
+cadre	NOUN	cadre
+,	PUNCT	,
+les	DET	le
+armoiries	NOUN	armoirie
+«	PUNCT	«
+ 	SPACE	 
+écartelées	VERB	écarteler
+de	ADP	de
+gueules	NOUN	gueule
+au	ADP	au
+lion	NOUN	lion
+de	ADP	de
+sable	NOUN	sable
+passant	VERB	passer
+ 	SPACE	 
+»	PUNCT	»
+,	PUNCT	,
+et	CCONJ	et
+la	DET	le
+devise	NOUN	devise
+ 	SPACE	 
+:	PUNCT	:
+J'	PRON	je
+en	PRON	en
+ris	VERB	rire
+,	PUNCT	,
+enrubannant	VERB	enrubanner
+la	DET	le
+couronne	NOUN	couronne
+.	PUNCT	.
+Au	ADP	au
+fond	NOUN	fond
+l'	DET	le
+alcôve	NOUN	alcôve
+béante	ADJ	béant
+laissait	VERB	laisser
+voir	VERB	voir
+le	DET	le
+lit	NOUN	lit
+défait	VERB	défaire
+,	PUNCT	,
+un	DET	un
+édredon	NOUN	édredon
+de	ADP	de
+coton	NOUN	coton
+rouge	ADJ	rouge
+écroulé	VERB	écrouler
+,	PUNCT	,
+des	DET	un
+châles	NOUN	châle
+,	PUNCT	,
+des	DET	un
+linges	NOUN	linge
+en	ADP	en
+tapon	NOUN	tapon
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+était	AUX	être
+loin	ADV	loin
+,	PUNCT	,
+le	DET	le
+temps	NOUN	temps
+que	SCONJ	que
+la	DET	le
+belle	ADJ	bel
+Clémentine	PROPN	Clémentine
+,	PUNCT	,
+fille	NOUN	fille
+unique	ADJ	unique
+de	ADP	de
+Clément	PROPN	Clément
+Hussenot	PROPN	Hussenot
+,	PUNCT	,
+banquier	NOUN	banquier
+,	PUNCT	,
+rue	NOUN	rue
+Fournirue	PROPN	Fournirue
+,	PUNCT	,
+à	ADP	à
+Metz	PROPN	Metz
+,	PUNCT	,
+donnait	VERB	donner
+la	DET	le
+tournise	NOUN	tournise
+à	ADP	à
+tous	ADJ	tout
+les	DET	le
+fils	NOUN	fils
+de	ADP	de
+famille	NOUN	famille
+,	PUNCT	,
+la	PRON	le
+jaunisse	VERB	jaunir
+à	ADP	à
+toutes	ADJ	tout
+les	DET	le
+mamans	NOUN	maman
+.	PUNCT	.
+De	ADP	de
+chairs	NOUN	chair
+fermes	ADJ	ferme
+et	CCONJ	et
+de	ADP	de
+santé	NOUN	santé
+robuste	ADJ	robuste
+,	PUNCT	,
+passant	VERB	passer
+de	ADP	de
+la	DET	le
+tête	NOUN	tête
+les	DET	le
+artilleurs	NOUN	artilleur
+de	ADP	de
+l'	DET	le
+école	NOUN	école
+,	PUNCT	,
+elle	PRON	lui
+rappelait	VERB	rappeler
+ces	DET	ce
+gaillardes	NOUN	gaillarde
+flamandes	ADJ	flamand
+,	PUNCT	,
+que	PRON	que
+Rubens	PROPN	Rubens
+a	AUX	avoir
+mises	VERB	mettre
+nues	ADJ	nu
+dans	ADP	dans
+ses	DET	son
+toiles	NOUN	toile
+,	PUNCT	,
+le	DET	le
+regard	NOUN	regard
+dur	ADJ	dur
+et	CCONJ	et
+la	DET	le
+lèvre	NOUN	lèvre
+entêtée	VERB	entêter
+.	PUNCT	.
+Fine	ADJ	fin
+avec	ADP	avec
+cela	PRON	cela
+,	PUNCT	,
+entendue	VERB	entendre
+aux	ADP	à
+affaires	NOUN	affaire
+,	PUNCT	,
+sans	ADP	sans
+grand	ADJ	grand
+embarras	NOUN	embarras
+de	ADP	de
+piété	NOUN	piété
+ni	CCONJ	ni
+de	ADP	de
+tendresse	NOUN	tendresse
+,	PUNCT	,
+lorsque	SCONJ	lorsque
+,	PUNCT	,
+à	ADP	à
+quatorze	NUM	quatorze
+ans	NOUN	an
+,	PUNCT	,
+après	ADP	après
+la	DET	le
+mort	NOUN	mort
+de	ADP	de
+sa	DET	son
+mère	NOUN	mère
+,	PUNCT	,
+elle	PRON	lui
+prit	VERB	prendre
+les	DET	le
+écritures	NOUN	écriture
+,	PUNCT	,
+elle	PRON	lui
+savait	VERB	savoir
+déjà	ADV	déjà
+comme	ADP	comme
+pas	ADV	pas
+un	DET	un
+rouler	VERB	rouler
+les	DET	le
+escompteurs	NOUN	escompteur
+,	PUNCT	,
+fermiers	NOUN	fermier
+,	PUNCT	,
+maîtres	NOUN	maître
+de	ADP	de
+forges	NOUN	forge
+ou	CCONJ	ou
+verriers	NOUN	verrier
+.	PUNCT	.
+
+	SPACE	
+
+—	PUNCT	—
+Quel	DET	quel
+dommage	NOUN	dommage
+,	PUNCT	,
+disait	VERB	dire
+le	DET	le
+père	NOUN	père
+Hussenot	PROPN	Hussenot
+,	PUNCT	,
+que	SCONJ	que
+ma	DET	mon
+Tine	PROPN	Tine
+ne	ADV	ne
+soit	AUX	être
+pas	ADV	pas
+un	DET	un
+garçon	NOUN	garçon
+ 	SPACE	 
+!	PUNCT	!
+Elle	PRON	lui
+aurait	AUX	avoir
+révolutionné	VERB	révolutionner
+toute	ADJ	tout
+la	DET	le
+banque	NOUN	banque
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+ne	ADV	ne
+révolutionna	VERB	révolutionner
+que	ADV	que
+la	DET	le
+ville	NOUN	ville
+.	PUNCT	.
+À	ADP	à
+dix-huit	NUM	dix-huit
+ans	NOUN	an
+,	PUNCT	,
+elle	PRON	lui
+en	PRON	en
+avait	AUX	avoir
+déjà	ADV	déjà
+refusé	VERB	refuser
+la	DET	le
+moitié	NOUN	moitié
+,	PUNCT	,
+tant	ADV	tant
+les	DET	le
+nobles	NOUN	noble
+de	ADP	de
+la	DET	le
+place	NOUN	place
+Saint-Martin	PROPN	Saint-Martin
+,	PUNCT	,
+que	SCONJ	que
+les	DET	le
+bourgeois	NOUN	bourgeois
+du	ADP	de
+quartier	NOUN	quartier
+du	ADP	de
+Fort-Moselle	PROPN	Fort-Moselle
+.	PUNCT	.
+Cela	PRON	cela
+lui	PRON	lui
+disait	VERB	dire
+ 	SPACE	 
+:	PUNCT	:
+le	DET	le
+tripot	NOUN	tripot
+de	ADP	de
+la	DET	le
+caisse	NOUN	caisse
+,	PUNCT	,
+le	DET	le
+pelotage	NOUN	pelotage
+des	ADP	de
+écus	NOUN	écu
+,	PUNCT	,
+les	DET	le
+roueries	NOUN	rouerie
+de	ADP	de
+l'	DET	le
+escompte	NOUN	escompte
+et	CCONJ	et
+le	DET	le
+corps	NOUN	corps
+à	ADP	à
+corps	NOUN	corps
+de	ADP	de
+l'	DET	le
+agio	NOUN	agio
+.	PUNCT	.
+Cela	PRON	cela
+lui	PRON	lui
+disait	VERB	dire
+,	PUNCT	,
+la	DET	le
+tremblote	NOUN	tremblote
+des	ADP	de
+veilles	NOUN	veille
+d'	ADP	de
+échéance	NOUN	échéance
+,	PUNCT	,
+l'	DET	le
+agenouillement	NOUN	agenouillement
+des	ADP	de
+petits	ADJ	petit
+,	PUNCT	,
+voire	CCONJ	voire
+des	ADP	de
+gros	ADJ	gros
+bonnets	NOUN	bonnet
+,	PUNCT	,
+aux	ADP	à
+heures	NOUN	heure
+étranglées	VERB	étrangler
+des	ADP	de
+crises	NOUN	crise
+.	PUNCT	.
+Et	CCONJ	et
+pas	ADV	pas
+de	DET	de
+doute	NOUN	doute
+qu'	SCONJ	que
+elle	PRON	lui
+n'	ADV	n'
+eût	AUX	avoir
+succédé	VERB	succéder
+à	ADP	à
+son	DET	son
+père	NOUN	père
+(	PUNCT	(
+de	ADP	de
+Clément	PROPN	Clément
+à	ADP	à
+Clémentine	PROPN	Clémentine
+il	PRON	il
+y	PRON	y
+a	VERB	avoir
+juste	ADV	juste
+l'	DET	le
+épaisseur	NOUN	épaisseur
+d'	ADP	de
+un	DET	un
+cheveu	NOUN	cheveu
+de	ADP	de
+femme	NOUN	femme
+)	PUNCT	)
+,	PUNCT	,
+si	SCONJ	si
+le	DET	le
+maréchal	NOUN	maréchal
+Jarry	PROPN	Jarry
+,	PUNCT	,
+duc	NOUN	duc
+de	ADP	de
+Varèse	PROPN	Varèse
+,	PUNCT	,
+boudant	VERB	bouder
+Louis	PROPN	Louis
+XVIII	NUM	XVIII
+,	PUNCT	,
+ne	ADV	ne
+s'	PRON	se
+était	AUX	être
+venu	VERB	venir
+,	PUNCT	,
+l'	DET	le
+année	NOUN	année
+même	ADV	même
+de	ADP	de
+la	DET	le
+mort	NOUN	mort
+de	ADP	de
+l'	DET	le
+empereur	NOUN	empereur
+,	PUNCT	,
+retirer	VERB	retirer
+à	ADP	à
+Metz	PROPN	Metz
+,	PUNCT	,
+sa	DET	son
+ville	NOUN	ville
+natale	ADJ	natal
+,	PUNCT	,
+lui	PRON	lui
+,	PUNCT	,
+son	DET	son
+majorat	NOUN	majorat
+hypothéqué	VERB	hypothéquer
+,	PUNCT	,
+ses	DET	son
+titres	NOUN	titre
+dévernis	VERB	dévernir
+,	PUNCT	,
+ses	DET	son
+dix-sept	NUM	dix-sept
+campagnes	NOUN	campagne
+et	CCONJ	et
+quatorze	NUM	quatorze
+blessures	NOUN	blessure
+.	PUNCT	.
+
+	SPACE	
+
+Un	DET	un
+beau	ADJ	beau
+jour	NOUN	jour
+pour	ADP	pour
+la	DET	le
+rue	NOUN	rue
+d'	ADP	de
+Asfeld	PROPN	Asfeld
+,	PUNCT	,
+dont	PRON	dont
+les	DET	le
+vieux	ADJ	vieux
+hôtels	NOUN	hôtel
+mitoyens	ADJ	mitoyen
+en	PRON	en
+eurent	VERB	avoir
+comme	ADP	comme
+un	DET	un
+regain	NOUN	regain
+de	ADP	de
+jeunesse	NOUN	jeunesse
+.	PUNCT	.
+
+	SPACE	
+
+Fils	NOUN	fils
+d'	ADP	de
+un	DET	un
+tonnelier	NOUN	tonnelier
+de	ADP	de
+la	DET	le
+rue	NOUN	rue
+Saint-Clément	PROPN	Saint-Clément
+,	PUNCT	,
+François	PROPN	François
+-	PROPN	-
+Eugène	PROPN	Eugène
+Jarry	PROPN	Jarry
+avait	VERB	avoir
+un	PRON	un
+à	ADP	à
+un	DET	un
+emporté	VERB	emporter
+d'	ADP	de
+assaut	NOUN	assaut
+tous	ADJ	tout
+ses	DET	son
+grades	NOUN	grade
+.	PUNCT	.
+Distingué	VERB	distinguer
+à	ADP	à
+l'	DET	le
+armée	NOUN	armée
+du	ADP	de
+Midi	PROPN	Midi
+,	PUNCT	,
+général	NOUN	général
+à	ADP	à
+vingt-quatre	NUM	vingt-quatre
+ans	NOUN	an
+sous	ADP	sous
+Bonaparte	PROPN	Bonaparte
+,	PUNCT	,
+la	DET	le
+bataille	NOUN	bataille
+de	ADP	de
+Varèse	PROPN	Varèse
+,	PUNCT	,
+qu'	PRON	qu'
+il	PRON	il
+gagna	VERB	gagner
+,	PUNCT	,
+lui	PRON	lui
+fit	VERB	faire
+un	DET	un
+titre	NOUN	titre
+et	CCONJ	et
+un	DET	un
+bâton	NOUN	bâton
+.	PUNCT	.
+Il	PRON	il
+s'	PRON	se
+était	AUX	être
+marié	VERB	marier
+à	ADP	à
+cheval	NOUN	cheval
+sur	ADP	sur
+deux	NUM	deux
+campagnes	NOUN	campagne
+,	PUNCT	,
+et	CCONJ	et
+,	PUNCT	,
+resté	VERB	rester
+veuf	ADJ	veuf
+sans	ADP	sans
+enfants	NOUN	enfant
+,	PUNCT	,
+c'	PRON	ce
+était	AUX	être
+vers	ADP	vers
+1826	NUM	1826
+un	DET	un
+beau	ADJ	beau
+diable	NOUN	diable
+,	PUNCT	,
+droit	ADJ	droit
+comme	ADP	comme
+un	DET	un
+peuple	NOUN	peuple
+,	PUNCT	,
+(	PUNCT	(
+2	PUNCT	2
+)	PUNCT	)
+bien	ADV	bien
+connu	VERB	connaître
+à	ADP	à
+l'	DET	le
+Esplanade	PROPN	Esplanade
+,	PUNCT	,
+qu'	PRON	qu'
+il	PRON	il
+arpentait	VERB	arpenter
+chaque	DET	chaque
+après-dînée	NOUN	après-dînée
+,	PUNCT	,
+au	ADP	au
+revenir	NOUN	revenir
+du	ADP	de
+café	NOUN	café
+du	ADP	de
+Heaume	PROPN	Heaume
+.	PUNCT	.
+Et	CCONJ	et
+dame	NOUN	dame
+ 	SPACE	 
+!	PUNCT	!
+il	PRON	il
+usait	VERB	user
+son	DET	son
+chapeau	NOUN	chapeau
+à	ADP	à
+force	NOUN	force
+de	ADP	de
+rendre	VERB	rendre
+les	DET	le
+saluts	NOUN	salut
+,	PUNCT	,
+tant	ADV	tant
+un	DET	un
+chacun	PRON	chacun
+se	PRON	se
+montrait	VERB	montrer
+fier	ADJ	fier
+de	ADP	de
+la	DET	le
+connaissance	NOUN	connaissance
+de	ADP	de
+«	PUNCT	«
+ 	SPACE	 
+M.	NOUN	m.
+le	DET	le
+Maréchal	NOUN	maréchal
+-	PROPN	-
+Duc	PROPN	Duc
+ 	SPACE	 
+»	PUNCT	»
+.	PUNCT	.
+
+	SPACE	
+
+Comment	ADV	comment
+il	PRON	il
+s'	PRON	se
+amouracha	VERB	amouracher
+de	ADP	de
+Mlle	NOUN	mlle
+Hussenot	PROPN	Hussenot
+,	PUNCT	,
+ce	PRON	ce
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+merveille	NOUN	merveille
+ 	SPACE	 
+:	PUNCT	:
+il	PRON	il
+avait	VERB	avoir
+le	DET	le
+cœur	NOUN	cœur
+bien	ADV	bien
+planté	VERB	planter
+,	PUNCT	,
+et	CCONJ	et
+ne	ADV	ne
+crachait	VERB	cracher
+point	NOUN	point
+sur	ADP	sur
+les	DET	le
+filles	NOUN	fille
+--	PUNCT	--
+pas	ADV	pas
+plus	ADV	plus
+que	SCONJ	que
+sur	ADP	sur
+les	DET	le
+«	PUNCT	«
+ 	SPACE	 
+napoléons	NOUN	napoléon
+ 	SPACE	 
+»	PUNCT	»
+.	PUNCT	.
+Le	DET	le
+drôle	NOUN	drôle
+fut	VERB	être
+qu'	SCONJ	que
+elle	PRON	lui
+l'	PRON	l'
+accepta	VERB	accepter
+pour	ADP	pour
+époux	NOUN	époux
+ 	SPACE	 
+:	PUNCT	:
+il	PRON	il
+y	PRON	y
+a	VERB	avoir
+loin	ADV	loin
+d'	ADP	de
+un	DET	un
+duché	NOUN	duché
+à	ADP	à
+une	DET	un
+banque	NOUN	banque
+,	PUNCT	,
+à	ADP	à
+peu	ADV	peu
+près	ADV	près
+autant	ADV	autant
+que	SCONJ	que
+de	ADP	de
+la	DET	le
+bourgeoise	NOUN	bourgeoise
+rue	NOUN	rue
+Fournirue	PROPN	Fournirue
+à	ADP	à
+l'	DET	le
+aristocratique	ADJ	aristocratique
+rue	NOUN	rue
+d'	ADP	de
+Asfeld	PROPN	Asfeld
+.	PUNCT	.
+Peut	ADV	peut
+-	ADV	-
+être	ADV	être
+qu'	SCONJ	que
+avec	ADP	avec
+son	DET	son
+bel	ADJ	bel
+appétit	NOUN	appétit
+de	ADP	de
+Lorraine	PROPN	Lorraine
+elle	PRON	lui
+vit	VERB	voir
+un	DET	un
+gain	NOUN	gain
+dans	ADP	dans
+cette	DET	ce
+couronne	NOUN	couronne
+--	PUNCT	--
+un	DET	un
+gain	NOUN	gain
+que	PRON	que
+l'	DET	le
+escompte	NOUN	escompte
+ne	ADV	ne
+donne	VERB	donne
+pas	ADV	pas
+.	PUNCT	.
+
+	SPACE	
+
+Mal	ADV	mal
+lui	PRON	lui
+en	PRON	en
+prit	VERB	prendre
+.	PUNCT	.
+Il	PRON	il
+la	PRON	le
+rossa	VERB	rosser
+comme	ADP	comme
+plâtre	NOUN	plâtre
+,	PUNCT	,
+au	ADP	au
+retour	NOUN	retour
+d	ADP	d

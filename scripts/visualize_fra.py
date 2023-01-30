@@ -172,6 +172,8 @@ def make_kdeplot(corpus, comparison, vals1, vals2, med1, med2, samplesize, p, cv
     deviation are now reported. 
     =================================================================================
     """
+    #== Sanity checks
+    print(p, avgp)
     #== Labels
     if p < 0.00001: 
         pval = "<0.00001"
@@ -256,7 +258,7 @@ def main():
             avgp = '{0:.5f}'.format(np.mean(allp))
             stdp = '{0:.5f}'.format(np.std(allp))
             #print("\n", cv, allp, avgp, stdp)
-            print(" ", avgp, stdp, end="")
+            #print(" ", avgp, stdp, end="")
             #== Create sample and test once for the visualization
             samplesize, vals1, vals2, med1, med2, stat, p = create_comparisondata(data, comparison, category)
             # Check for minimal sample size and non-zero median (will be zero if no data)

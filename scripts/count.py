@@ -29,13 +29,14 @@ import fr_dep_news_trf
 # === Global variables ===
 
 # Files outside the innerlife repository
-metadatafile = join("/", "media", "christof", "Data", "Github", "mimotext", "roman18", "XML-TEI", "xml-tei_metadata.tsv")
+metadatafile = join("/", "media", "christof", "Data", "Github", "mimotext", "roman18", "XML-TEI", "xml-tei_metadata.tsv") # roman18
+metadatafile = join("/", "media", "christof", "Data", "Github", "eltec", "ELTeC-fra", "ELTeC-fra_metadata.tsv") # ELTeC-fra
 
 # Local data
 workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
-annotatedfolder = join(workdir, "data", "fra18", "annotated", "*.csv")
+annotatedfolder = join(workdir, "data", "fra19", "annotated", "*.csv")
 verbsfile = join(workdir, "data", "fra18", "verbs.csv")
-resultsfile = join(workdir, "data", "fra18", "manualCounts.dat")
+resultsfile = join(workdir, "data", "fra19", "manualCounts.dat")
 
 
 # === Functions === 
@@ -136,7 +137,7 @@ def main():
     data = {}
     for file in glob.glob(annotatedfolder): 
         basename, ext = os.path.basename(file).split(".")
-        #print("Next:", basename)
+        print("Next:", basename)
         pubyear = get_pubyear(metadata, basename)
         annotated = read_annotated(file)
         allverbcounts, innerverbcounts, indverbcounts = count_verbs(annotated, verblemmas)
