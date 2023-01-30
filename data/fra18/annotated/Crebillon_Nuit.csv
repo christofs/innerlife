@@ -1,0 +1,4463 @@
+ 	SPACE	 
+LA	DET	le
+NUIT	NOUN	nuit
+ET	CCONJ	et
+LE	DET	le
+MOMENT	NOUN	moment
+,	PUNCT	,
+OU	CCONJ	ou
+LES	DET	le
+MATINES	NOUN	matines
+DE	ADP	de
+CYTHÈRE	NOUN	cythère
+.	PUNCT	.
+
+	SPACE	
+
+DIALOGUE	NOUN	dialogue
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+,	PUNCT	,
+Voyant	VERB	voir
+entrer	VERB	entrer
+Clitandre	PROPN	Clitandre
+en	ADP	en
+robe	NOUN	robe
+de	ADP	de
+chambre	NOUN	chambre
+.	PUNCT	.
+
+	SPACE	
+
+Ah	INTJ	Ah
+,	PUNCT	,
+bon	ADJ	bon
+Dieu	PROPN	Dieu
+!	PUNCT	!
+Clitandre	PROPN	Clitandre
+,	PUNCT	,
+quoi	PRON	quoi
+!	PUNCT	!
+c'	PRON	ce
+est	AUX	être
+vous	PRON	vous
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Votre	DET	votre
+surprise	NOUN	surprise
+,	PUNCT	,
+Madame	NOUN	monsieur
+,	PUNCT	,
+a	VERB	avoir
+de	ADP	de
+quoi	NOUN	quoi
+m'	PRON	me
+étonner	VERB	étonner
+;	PUNCT	;
+je	PRON	je
+vous	PRON	vous
+croyais	VERB	croire
+accoutumée	VERB	accoutumer
+à	ADP	à
+me	PRON	me
+voir	VERB	voir
+vous	PRON	vous
+faire	VERB	faire
+ma	DET	mon
+cour	NOUN	cour
+,	PUNCT	,
+et	CCONJ	et
+je	PRON	je
+ne	ADV	ne
+comprends	VERB	comprendre
+pas	ADV	pas
+ce	PRON	ce
+que	PRON	que
+vous	PRON	vous
+trouvez	VERB	trouver
+de	ADP	de
+si	ADV	si
+extraordinaire	ADJ	extraordinaire
+dans	ADP	dans
+la	DET	le
+visite	NOUN	visite
+que	PRON	que
+je	PRON	je
+vous	PRON	vous
+fais	VERB	faire
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+C'	PRON	ce
+est	VERB	être
+que	SCONJ	que
+je	PRON	je
+croyais	VERB	croire
+avoir	VERB	avoir
+quelque	DET	quelque
+raison	NOUN	raison
+de	ADP	de
+penser	VERB	penser
+que	SCONJ	que
+si	SCONJ	si
+vous	PRON	vous
+vouliez	VERB	vouloir
+bien	ADV	bien
+veiller	VERB	veiller
+aujourd'hui	ADV	aujourd'hui
+avec	ADP	avec
+quelqu'	DET	quelque
+un	PRON	un
+,	PUNCT	,
+ce	PRON	ce
+ne	ADV	ne
+serait	AUX	être
+pas	ADV	pas
+avec	ADP	avec
+moi	PRON	moi
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+,	PUNCT	,
+dans	ADP	dans
+les	DET	le
+idées	NOUN	idée
+que	PRON	que
+j'	PRON	je
+avais	VERB	avoir
+,	PUNCT	,
+votre	DET	votre
+présence	NOUN	présence
+m'	PRON	me
+a	AUX	avoir
+étonnée	VERB	étonner
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Cérémonie	NOUN	cérémonie
+à	ADP	à
+part	NOUN	part
+,	PUNCT	,
+ne	ADV	ne
+produit	VERB	produire
+-elle	PRON	lui
+sur	ADP	sur
+vous	PRON	vous
+que	ADV	que
+cet	DET	ce
+effet	NOUN	effet
+?	PUNCT	?
+Ne	ADV	ne
+vous	PRON	vous
+embarassé	VERB	embarasser
+-je	PRON	je
+pas	ADV	pas
+plus	ADV	plus
+encore	ADV	encore
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+vous	PRON	vous
+surprends	VERB	surprendre
+?	PUNCT	?
+C'	PRON	ce
+est	VERB	être
+qu'	SCONJ	que
+à	ADP	à
+la	DET	le
+rigueur	NOUN	rigueur
+,	PUNCT	,
+cela	PRON	cela
+serait	AUX	être
+possible	ADJ	possible
+au	ADP	au
+moins	ADV	moins
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Cette	DET	ce
+idée	NOUN	idée
+vous	PRON	vous
+est	AUX	être
+nouvelle	ADJ	nouveau
+.	PUNCT	.
+Me	PRON	me
+permettriez	VERB	permettre
+-vous	PRON	vous
+de	ADP	de
+vous	PRON	vous
+demander	VERB	demander
+ce	PRON	ce
+qui	PRON	qui
+vous	PRON	vous
+la	PRON	le
+fait	AUX	faire
+naître	VERB	naître
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Mon	DET	mon
+intention	NOUN	intention
+n'	ADV	n'
+est	VERB	être
+point	ADV	point
+de	ADP	de
+vous	PRON	vous
+en	PRON	en
+faire	VERB	faire
+mystère	NOUN	mystère
+:	PUNCT	:
+mais	CCONJ	mais
+voudrez	VERB	vouloir
+-vous	PRON	vous
+bien	ADV	bien
+me	PRON	me
+dire	VERB	dire
+aussi	ADV	aussi
+pourquoi	ADV	pourquoi
+vous	PRON	vous
+avez	AUX	avoir
+été	AUX	être
+si	ADV	si
+étonnée	VERB	étonner
+de	ADP	de
+me	PRON	me
+voir	VERB	voir
+chez	ADP	chez
+vous	PRON	vous
+ce	DET	ce
+soir	NOUN	soir
+,	PUNCT	,
+lorsque	SCONJ	lorsque
+tant	ADV	tant
+d'	ADP	de
+autres	ADJ	autre
+fois	NOUN	fois
+cela	PRON	cela
+vous	PRON	vous
+a	AUX	avoir
+paru	VERB	paraître
+si	ADV	si
+simple	ADJ	simple
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+me	PRON	me
+le	PRON	le
+paraissait	VERB	paraître
+alors	ADV	alors
+que	SCONJ	que
+vous	PRON	vous
+me	PRON	me
+donnassiez	VERB	donner
+vos	DET	votre
+moment	NOUN	moment
+perdus	VERB	perdre
+;	PUNCT	;
+mais	CCONJ	mais
+je	PRON	je
+ne	ADV	ne
+vous	PRON	vous
+crois	VERB	croire
+pas	ADV	pas
+aujourd'hui	ADV	aujourd'hui
+aussi	ADV	aussi
+désœuvré	VERB	désœuvrer
+que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+ai	AUX	avoir
+vu	VERB	voir
+l'	PRON	l'
+être	AUX	être
+quelquefois	ADV	quelquefois
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+J'	PRON	je
+avais	VERB	avoir
+sur	ADP	sur
+vous	PRON	vous
+la	DET	le
+même	ADJ	même
+idée	NOUN	idée
+;	PUNCT	;
+et	CCONJ	et
+c'	PRON	ce
+est	AUX	être
+ce	PRON	ce
+qui	PRON	qui
+fait	VERB	faire
+précisément	ADV	précisément
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+suis	AUX	être
+pas	ADV	pas
+sans	ADP	sans
+quelque	DET	quelque
+sorte	NOUN	sorte
+d'	ADP	de
+inquiétude	NOUN	inquiétude
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+trouviez	VERB	trouver
+ma	DET	mon
+visite	NOUN	visite
+un	DET	un
+peu	ADV	peu
+déplacée	VERB	déplacer
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Un	DET	un
+peu	ADV	peu
+déplacée	VERB	déplacer
+!	PUNCT	!
+J'	PRON	je
+admire	VERB	admire
+tout	ADV	tout
+à	ADP	à
+la	DET	le
+fois	NOUN	fois
+le	DET	le
+ménagement	NOUN	ménagement
+de	ADP	de
+vos	DET	votre
+termes	NOUN	terme
+,	PUNCT	,
+et	CCONJ	et
+passez	VERB	passer
+-moi	PRON	moi
+celui-ci	PRON	celui-ci
+,	PUNCT	,
+l'	DET	le
+extravagance	NOUN	extravagance
+de	ADP	de
+vos	DET	votre
+idées	NOUN	idée
+.	PUNCT	.
+Voudrez	VERB	vouloir
+-vous	PRON	vous
+bien	ADV	bien
+,	PUNCT	,
+au	ADP	au
+reste	NOUN	reste
+,	PUNCT	,
+me	PRON	me
+faire	VERB	faire
+la	DET	le
+grâce	NOUN	grâce
+de	ADP	de
+me	PRON	me
+dire	VERB	dire
+pourquoi	ADV	pourquoi
+vous	PRON	vous
+croyez	VERB	croire
+m'	PRON	me
+incommoder	VERB	incommoder
+tant	ADV	tant
+aujourd'hui	ADV	aujourd'hui
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Oui	ADV	oui
+,	PUNCT	,
+pourvu	ADV	pourvu
+qu'	SCONJ	que
+à	ADP	à
+votre	DET	votre
+tour	NOUN	tour
+vous	PRON	vous
+vouliez	VERB	vouloir
+bien	ADV	bien
+m'	PRON	me
+apprendre	VERB	apprendre
+pourquoi	ADV	pourquoi
+ma	DET	mon
+présence	NOUN	présence
+ici	ADV	ici
+vous	PRON	vous
+cause	VERB	cause
+tant	ADV	tant
+d'	ADP	de
+étonnement	NOUN	étonnement
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Vous	PRON	vous
+serez	VERB	être
+bientôt	ADV	bientôt
+satisfait	ADJ	satisfait
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+passe	VERB	passer
+dans	ADP	dans
+sa	DET	son
+garde-robe	NOUN	garde-robe
+,	PUNCT	,
+revient	VERB	revenir
+,	PUNCT	,
+change	VERB	changer
+de	ADP	de
+chemise	NOUN	chemise
+:	PUNCT	:
+on	PRON	on
+la	PRON	le
+déchausse	VERB	déchausse
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Ah	INTJ	Ah
+Dieu	PROPN	Dieu
+!	PUNCT	!
+quelle	DET	quel
+jambe	NOUN	jambe
+!	PUNCT	!
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Oh	INTJ	Oh
+!	PUNCT	!
+finissez	VERB	finir
+,	PUNCT	,
+Monsieur	NOUN	Monsieur
+;	PUNCT	;
+vos	DET	votre
+éloges	NOUN	éloge
+ne	ADV	ne
+me	PRON	me
+font	VERB	faire
+point	ADV	point
+oublier	VERB	oublier
+votre	DET	votre
+témérité	NOUN	témérité
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+ne	ADV	ne
+sais	VERB	savoir
+pas	ADV	pas
+si	SCONJ	si
+c'	PRON	ce
+est	AUX	être
+la	DET	le
+première	ADJ	premier
+fois	NOUN	fois
+que	PRON	que
+je	PRON	je
+la	PRON	le
+loüe	VERB	loüe
+;	PUNCT	;
+mais	CCONJ	mais
+ce	PRON	ce
+qu'	PRON	qu'
+il	PRON	il
+y	PRON	y
+a	VERB	avoir
+de	ADP	de
+sûr	ADJ	sûr
+,	PUNCT	,
+c'	PRON	ce
+est	VERB	être
+que	SCONJ	que
+ce	PRON	ce
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+la	DET	le
+première	ADJ	premier
+que	SCONJ	que
+je	PRON	je
+l'	PRON	l'
+admire	VERB	admire
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Allez−vous	PRON	allez−vous
+mettre	VERB	mettre
+là	ADV	là
+-	ADV	-
+bas	ADV	bas
+,	PUNCT	,
+ou	CCONJ	ou
+sortez	VERB	sortir
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Vous	PRON	vous
+me	PRON	me
+traitez	VERB	traiter
+singulièrement	ADV	singulièrement
+,	PUNCT	,
+Madame	NOUN	monsieur
+;	PUNCT	;
+mais	CCONJ	mais
+j'	PRON	je
+obéis	VERB	obéir
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+se	PRON	se
+couche	VERB	couche
+,	PUNCT	,
+dit	VERB	dire
+à	ADP	à
+une	DET	un
+de	ADP	de
+ses	DET	son
+femmes	NOUN	femme
+de	ADP	de
+rester	VERB	rester
+:	PUNCT	:
+Clitandre	PROPN	Clitandre
+s'	PRON	se
+assied	VERB	asseoir
+sur	ADP	sur
+un	DET	un
+fauteuil	NOUN	fauteuil
+auprès	ADV	auprès
+du	ADP	de
+lit	NOUN	lit
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Quoi	PRON	quoi
+!	PUNCT	!
+réellement	ADV	réellement
+,	PUNCT	,
+Clitandre	PROPN	Clitandre
+,	PUNCT	,
+vous	PRON	vous
+n'	ADV	n'
+avez	VERB	avoir
+de	DET	de
+rendez-vous	NOUN	rendez-vous
+avec	ADP	avec
+personne	PRON	personne
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Quoi	PRON	quoi
+!	PUNCT	!
+dans	ADP	dans
+le	DET	le
+vrai	ADJ	vrai
+,	PUNCT	,
+je	PRON	je
+ne	ADV	ne
+vous	PRON	vous
+empêche	VERB	empêche
+pas	ADV	pas
+de	ADP	de
+voir	VERB	voir
+Éraste	PROPN	Éraste
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Éraste	PROPN	Éraste
+!	PUNCT	!
+Mais	CCONJ	mais
+en	ADP	en
+vérité	NOUN	vérité
+,	PUNCT	,
+vous	PRON	vous
+n'	ADV	n'
+y	PRON	y
+pensez	VERB	penser
+pas	ADV	pas
+,	PUNCT	,
+mon	DET	mon
+pauvre	ADJ	pauvre
+Comte	NOUN	comte
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Et	CCONJ	et
+je	PRON	je
+vous	PRON	vous
+jure	VERB	jure
+,	PUNCT	,
+belle	ADJ	bel
+Marquise	PROPN	Marquise
+,	PUNCT	,
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+pense	VERB	pense
+pas	ADV	pas
+plus	ADV	plus
+à	ADP	à
+aucune	PRON	aucun
+des	ADP	de
+femmes	NOUN	femme
+qui	PRON	qui
+sont	VERB	être
+chez	ADP	chez
+vous	PRON	vous
+,	PUNCT	,
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+songez	VERB	songer
+à	ADP	à
+lui	PRON	lui
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Quoi	PRON	quoi
+!	PUNCT	!
+pas	ADV	pas
+même	ADV	même
+à	ADP	à
+Araminte	PROPN	Araminte
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Araminte	PROPN	Araminte
+!	PUNCT	!
+ah	INTJ	ah
+,	PUNCT	,
+parbleu	PROPN	parbleu
+!	PUNCT	!
+la	DET	le
+plaisanterie	NOUN	plaisanterie
+est	AUX	être
+délicieuse	ADJ	délicieux
+!	PUNCT	!
+Est	AUX	être
+-ce	PRON	-ce
+parce	SCONJ	parce
+que	SCONJ	que
+vous	PRON	vous
+avez	AUX	avoir
+eu	VERB	avoir
+la	DET	le
+méchanceté	NOUN	méchanceté
+de	ADP	de
+la	PRON	le
+prier	VERB	prier
+de	ADP	de
+venir	VERB	venir
+ici	ADV	ici
+,	PUNCT	,
+que	SCONJ	que
+vous	PRON	vous
+croyez	VERB	croire
+qu'	SCONJ	que
+il	PRON	il
+faut	VERB	falloir
+que	SCONJ	que
+je	PRON	je
+l'	PRON	l'
+y	PRON	y
+amuse	VERB	amuse
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Certes	ADV	certes
+,	PUNCT	,
+le	DET	le
+tour	NOUN	tour
+est	AUX	être
+fin	ADJ	fin
+!	PUNCT	!
+C'	ADV	c'
+est	ADV	est
+-	ADV	-
+à	ADV	à
+-	ADV	-
+dire	ADV	dire
+que	SCONJ	que
+vous	PRON	vous
+voudriez	VERB	vouloir
+me	PRON	me
+faire	AUX	faire
+croire	VERB	croire
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+savez	VERB	savoir
+pas	ADV	pas
+pourquoi	ADV	pourquoi
+elle	PRON	lui
+est	VERB	être
+ici	ADV	ici
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Oh	INTJ	Oh
+!	PUNCT	!
+pardonnez	VERB	pardonner
+-moi	PRON	moi
+:	PUNCT	:
+pour	ADP	pour
+les	DET	le
+esperances	NOUN	esperance
+qu'	PRON	qu'
+elle	PRON	lui
+y	PRON	y
+a	VERB	avoir
+,	PUNCT	,
+je	PRON	je
+les	PRON	le
+devine	VERB	devine
+;	PUNCT	;
+et	CCONJ	et
+vous	PRON	vous
+le	PRON	le
+voyez	VERB	voir
+bien	ADV	bien
+au	ADP	au
+chagrin	NOUN	chagrin
+que	PRON	que
+j'	PRON	je
+ai	VERB	avoir
+de	ADP	de
+ce	PRON	ce
+qu'	SCONJ	que
+elle	PRON	lui
+y	PRON	y
+est	VERB	être
+.	PUNCT	.
+Je	PRON	je
+ne	ADV	ne
+vous	PRON	vous
+comprends	VERB	comprendre
+pas	ADV	pas
+!	PUNCT	!
+il	PRON	il
+faut	VERB	falloir
+assurément	ADV	assurément
+bien	ADV	bien
+craindre	VERB	craindre
+de	ADP	de
+manquer	VERB	manquer
+de	ADP	de
+monde	NOUN	monde
+,	PUNCT	,
+pour	ADP	pour
+se	PRON	se
+charger	VERB	charger
+d'	ADP	de
+une	DET	un
+pareille	ADJ	pareil
+espèce	NOUN	espèce
+!	PUNCT	!
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+En	ADP	en
+vérité	NOUN	vérité
+,	PUNCT	,
+Clitandre	PROPN	Clitandre
+,	PUNCT	,
+voilà	VERB	voilà
+une	DET	un
+discrétion	NOUN	discrétion
+bien	ADV	bien
+inutile	ADJ	inutile
+,	PUNCT	,
+ou	CCONJ	ou
+un	DET	un
+persifflage	NOUN	persifflage
+bien	ADV	bien
+ridicule	ADJ	ridicule
+!	PUNCT	!
+Vous	PRON	vous
+verrez	VERB	voir
+aussi	ADV	aussi
+que	SCONJ	que
+c'	PRON	ce
+est	AUX	être
+moi	PRON	moi
+qui	PRON	qui
+vous	PRON	vous
+ai	AUX	avoir
+joué	VERB	jouer
+le	DET	le
+mauvais	ADJ	mauvais
+tour	NOUN	tour
+de	ADP	de
+prier	VERB	prier
+Célimene	PROPN	Célimene
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+c'	PRON	ce
+est	AUX	être
+encore	ADV	encore
+ma	DET	mon
+faute	NOUN	faute
+si	SCONJ	si
+Belise	PROPN	Belise
+,	PUNCT	,
+Luscinde	PROPN	Luscinde
+et	CCONJ	et
+Julie	PROPN	Julie
+se	PRON	se
+trouvent	VERB	trouver
+chez	ADP	chez
+moi	PRON	moi
+en	ADP	en
+même	ADJ	même
+temps	NOUN	temps
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Oh	INTJ	Oh
+!	PUNCT	!
+pour	ADP	pour
+celles	PRON	celui
+-là	PRON	-là
+,	PUNCT	,
+il	PRON	il
+ne	ADV	ne
+se	PRON	se
+peut	VERB	pouvoir
+pas	ADV	pas
+qu'	SCONJ	que
+ayant	VERB	avoir
+chez	ADP	chez
+vous	PRON	vous
+Cléon	PROPN	Cléon
+,	PUNCT	,
+Oronte	PROPN	Oronte
+et	CCONJ	et
+Valere	PROPN	Valere
+,	PUNCT	,
+vous	PRON	vous
+pensiez	VERB	penser
+qu'	SCONJ	que
+elles	PRON	lui
+y	PRON	y
+sont	VERB	être
+pour	ADP	pour
+moi	PRON	moi
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Mais	CCONJ	mais
+je	PRON	je
+ne	ADV	ne
+jurerois	VERB	jurerois
+pas	ADV	pas
+que	SCONJ	que
+vous	PRON	vous
+fussiez	VERB	être
+dans	ADP	dans
+l'	DET	le
+honneur	NOUN	honneur
+qu'	PRON	qu'
+elles	PRON	lui
+me	PRON	me
+font	VERB	faire
+,	PUNCT	,
+pour	ADP	pour
+aussi	ADV	aussi
+peu	ADV	peu
+que	SCONJ	que
+vous	PRON	vous
+le	PRON	le
+prétendez	VERB	prétendre
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Quelle	DET	quel
+folie	NOUN	folie
+!	PUNCT	!
+il	PRON	il
+y	PRON	y
+a	VERB	avoir
+plus	ADV	plus
+de	ADP	de
+huit	NUM	huit
+jours	NOUN	jour
+que	SCONJ	que
+je	PRON	je
+suis	VERB	suivre
+ici	ADV	ici
+:	PUNCT	:
+ils	PRON	il
+y	PRON	y
+sont	VERB	être
+eux	PRON	lui
+d'	ADP	de
+avant-hier	ADV	avant-hier
+;	PUNCT	;
+elles	PRON	lui
+y	PRON	y
+sont	VERB	être
+d'	ADP	de
+aujourd'hui	ADV	aujourd'hui
+,	PUNCT	,
+et	CCONJ	et
+il	PRON	il
+me	PRON	me
+paraît	VERB	paraître
+à	ADP	à
+cet	DET	ce
+arrangement	NOUN	arrangement
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+pouvez	VERB	pouvoir
+pas	ADV	pas
+plus	ADV	plus
+les	PRON	le
+accuser	VERB	accuser
+d'	ADP	de
+être	AUX	être
+venues	VERB	venir
+pour	ADP	pour
+moi	PRON	moi
+,	PUNCT	,
+que	SCONJ	que
+vous	PRON	vous
+flatter	VERB	flatter
+de	ADP	de
+ne	ADV	ne
+les	PRON	le
+y	PRON	y
+voir	VERB	voir
+que	ADV	que
+pour	ADP	pour
+vous	PRON	vous
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Vous	PRON	vous
+ne	ADV	ne
+me	PRON	me
+croyez	VERB	croire
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+assez	ADV	assez
+imbécille	ADJ	imbécill
+pour	ADP	pour
+m'	PRON	me
+en	PRON	en
+flatter	VERB	flatter
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Vous	PRON	vous
+auriez	VERB	avoir
+tort	NOUN	tort
+au	ADP	au
+reste	NOUN	reste
+de	ADP	de
+vous	PRON	vous
+plaindre	VERB	plaindre
+de	ADP	de
+Valere	PROPN	Valere
+,	PUNCT	,
+d'	ADP	de
+Éraste	PROPN	Éraste
+et	CCONJ	et
+de	ADP	de
+Cléon	PROPN	Cléon
+.	PUNCT	.
+Ils	PRON	il
+sont	AUX	être
+arrivés	VERB	arriver
+deux	NUM	deux
+jours	NOUN	jour
+avant	ADP	avant
+les	DET	le
+femmes	NOUN	femme
+qu'	PRON	qu'
+ils	PRON	il
+y	PRON	y
+attendaient	VERB	attendre
+:	PUNCT	:
+ils	PRON	il
+sont	VERB	être
+dans	ADP	dans
+les	DET	le
+grandes	ADJ	grand
+règles	NOUN	règle
+;	PUNCT	;
+et	CCONJ	et
+je	PRON	je
+parierois	VERB	parierois
+qu'	SCONJ	que
+ils	PRON	il
+n'	ADV	n'
+en	PRON	en
+font	VERB	faire
+pas	ADV	pas
+autant	ADV	autant
+pour	ADP	pour
+tout	ADJ	tout
+le	DET	le
+monde	NOUN	monde
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+sens	VERB	sentir
+toute	ADJ	tout
+la	DET	le
+politesse	NOUN	politesse
+de	ADP	de
+leur	DET	leur
+procédé	NOUN	procédé
+;	PUNCT	;
+mais	CCONJ	mais
+,	PUNCT	,
+Clitandre	PROPN	Clitandre
+,	PUNCT	,
+il	PRON	il
+est	AUX	être
+donc	ADV	donc
+bien	ADV	bien
+vrai	ADJ	vrai
+que	SCONJ	que
+ce	PRON	ce
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+vous	PRON	vous
+qu'	PRON	qu'
+elles	PRON	lui
+cherchent	VERB	chercher
+ici	ADV	ici
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Vous	PRON	vous
+savez	VERB	savoir
+ce	PRON	ce
+qu'	PRON	qu'
+elles	PRON	lui
+font	VERB	faire
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+En	PRON	en
+sais	VERB	savoir
+-je	PRON	je
+plus	ADV	plus
+ce	PRON	ce
+qu'	PRON	qu'
+elles	PRON	lui
+voudraient	VERB	vouloir
+faire	VERB	faire
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Ah	INTJ	Ah
+,	PUNCT	,
+Madame	NOUN	monsieur
+!	PUNCT	!
+ce	PRON	ce
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+,	PUNCT	,
+permettez	VERB	permettre
+moi	PRON	moi
+de	ADP	de
+vous	PRON	vous
+le	PRON	le
+dire	VERB	dire
+,	PUNCT	,
+sur	ADP	sur
+des	DET	un
+femmes	NOUN	femme
+,	PUNCT	,
+qui	PRON	qui
+pensent	VERB	penser
+aussi	ADV	aussi
+-	ADV	-
+bien	ADV	bien
+que	SCONJ	que
+celles	PRON	celui
+-là	PRON	-là
+,	PUNCT	,
+qu'	PRON	qu'
+on	PRON	on
+peut	VERB	pouvoir
+avoir	VERB	avoir
+de	DET	de
+pareilles	ADJ	pareil
+idées	NOUN	idée
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+En	ADP	en
+vérité	NOUN	vérité
+,	PUNCT	,
+Clitandre	PROPN	Clitandre
+,	PUNCT	,
+vous	PRON	vous
+devenez	VERB	devenir
+bien	ADV	bien
+ridicule	ADJ	ridicule
+!	PUNCT	!
+Je	PRON	je
+ne	ADV	ne
+vous	PRON	vous
+presserai	VERB	presser
+pas	ADV	pas
+là	ADV	là
+-	ADV	-
+dessus	ADV	dessus
+,	PUNCT	,
+puisque	SCONJ	puisque
+j'	PRON	je
+ai	VERB	avoir
+lieu	NOUN	lieu
+de	ADP	de
+croire	VERB	croire
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+voulez	VERB	vouloir
+pas	ADV	pas
+l'	PRON	l'
+être	AUX	être
+;	PUNCT	;
+mais	CCONJ	mais
+je	PRON	je
+ne	ADV	ne
+pardonnerai	VERB	pardonner
+jamais	ADV	jamais
+à	ADP	à
+Éraste	PROPN	Éraste
+d'	ADP	de
+être	AUX	être
+venu	VERB	venir
+me	PRON	me
+gâter	VERB	gâter
+un	DET	un
+souper	NOUN	souper
+qui	PRON	qui
+devait	VERB	devoir
+être	AUX	être
+si	ADV	si
+délicieux	ADJ	délicieux
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+ne	ADV	ne
+me	PRON	me
+paraît	VERB	paraître
+pas	ADV	pas
+extraordinaire	ADJ	extraordinaire
+que	SCONJ	que
+vous	PRON	vous
+l'	PRON	l'
+y	PRON	y
+ayez	AUX	avoir
+trouvé	VERB	trouver
+de	ADP	de
+trop	ADV	trop
+:	PUNCT	:
+mais	CCONJ	mais
+je	PRON	je
+vous	PRON	vous
+avoüe	VERB	avoüe
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+vois	VERB	voir
+pas	ADV	pas
+pourquoi	ADV	pourquoi
+,	PUNCT	,
+s'	SCONJ	s'
+il	PRON	il
+n'	ADV	n'
+y	PRON	y
+eût	AUX	avoir
+pas	ADV	pas
+été	VERB	être
+,	PUNCT	,
+ce	DET	ce
+souper	NOUN	souper
+aurait	AUX	avoir
+été	AUX	être
+si	ADV	si
+agréable	ADJ	agréable
+pour	ADP	pour
+vous	PRON	vous
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Quoi	PRON	quoi
+!	PUNCT	!
+vous	PRON	vous
+ne	ADV	ne
+sentez	VERB	sentir
+pas	ADV	pas
+ce	PRON	ce
+que	SCONJ	que
+votre	DET	votre
+embarras	NOUN	embarras
+,	PUNCT	,
+au	ADP	au
+milieu	NOUN	milieu
+de	ADP	de
+quatre	NUM	quatre
+femmes	NOUN	femme
+que	PRON	que
+vous	PRON	vous
+avez	AUX	avoir
+eues	VERB	avoir
+,	PUNCT	,
+et	CCONJ	et
+qui	PRON	qui
+,	PUNCT	,
+sans	ADP	sans
+doute	NOUN	doute
+,	PUNCT	,
+conservent	VERB	conserver
+encore	ADV	encore
+des	DET	un
+prétentions	NOUN	prétention
+sur	ADP	sur
+vous	PRON	vous
+,	PUNCT	,
+aurait	AUX	avoir
+eu	VERB	avoir
+de	ADP	de
+réjoüissant	ADJ	réjoüissant
+pour	ADP	pour
+moi	PRON	moi
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+y	PRON	y
+aurait	VERB	avoir
+à	ADP	à
+moi	PRON	moi
+de	DET	de
+la	DET	le
+sottise	NOUN	sottise
+à	ADP	à
+vous	PRON	vous
+soutenir	VERB	soutenir
+que	SCONJ	que
+je	PRON	je
+n'	ADV	n'
+ai	AUX	avoir
+eu	VERB	avoir
+aucune	PRON	aucun
+d'	ADP	de
+elles	PRON	lui
+;	PUNCT	;
+mais	CCONJ	mais
+il	PRON	il
+y	PRON	y
+aurait	VERB	avoir
+assurément	ADV	assurément
+plus	ADV	plus
+que	SCONJ	que
+de	ADP	de
+l'	DET	le
+indiscrétion	NOUN	indiscrétion
+à	ADP	à
+dire	VERB	dire
+que	SCONJ	que
+je	PRON	je
+les	PRON	le
+eus	VERB	avoir
+toutes	ADJ	tout
+.	PUNCT	.
+D'	ADP	de
+ailleurs	ADV	ailleurs
+en	ADP	en
+supposant	VERB	supposer
+qu'	SCONJ	que
+elles	PRON	lui
+m'	PRON	me
+aient	AUX	avoir
+toutes	ADJ	tout
+honoré	VERB	honorer
+de	ADP	de
+quelque	DET	quelque
+bonté	NOUN	bonté
+,	PUNCT	,
+qu'	PRON	qu'
+est	AUX	être
+-ce	PRON	-ce
+que	SCONJ	que
+cela	PRON	cela
+importe	VERB	importe
+aujourd'hui	ADV	aujourd'hui
+à	ADP	à
+elles	PRON	lui
+,	PUNCT	,
+et	CCONJ	et
+à	ADP	à
+moi	PRON	moi
+?	PUNCT	?
+Comment	ADV	comment
+voulez	VERB	vouloir
+-vous	PRON	vous
+qu'	SCONJ	que
+avec	ADP	avec
+ce	PRON	ce
+qu'	PRON	qu'
+on	PRON	on
+a	VERB	avoir
+à	ADP	à
+faire	VERB	faire
+dans	ADP	dans
+le	DET	le
+monde	NOUN	monde
+,	PUNCT	,
+des	DET	un
+gens	NOUN	gens
+,	PUNCT	,
+que	SCONJ	que
+le	DET	le
+hasard	NOUN	hasard
+,	PUNCT	,
+le	DET	le
+caprice	NOUN	caprice
+,	PUNCT	,
+des	DET	un
+circonstances	NOUN	circonstance
+ont	AUX	avoir
+unis	VERB	unir
+quelques	DET	quelque
+moment	NOUN	moment
+,	PUNCT	,
+se	PRON	se
+souviennent	VERB	souvenir
+de	ADP	de
+ce	PRON	ce
+qui	PRON	qui
+les	PRON	le
+a	AUX	avoir
+intéressés	VERB	intéresser
+si	ADV	si
+peu	ADV	peu
+?	PUNCT	?
+Ce	PRON	ce
+que	PRON	que
+je	PRON	je
+vous	PRON	vous
+dis	VERB	dire
+,	PUNCT	,
+au	ADP	au
+reste	NOUN	reste
+,	PUNCT	,
+est	AUX	être
+si	ADV	si
+vrai	ADJ	vrai
+,	PUNCT	,
+que	SCONJ	que
+soupant	VERB	souper
+il	PRON	il
+y	PRON	y
+a	VERB	avoir
+quelque	DET	quelque
+temps	NOUN	temps
+avec	ADP	avec
+une	DET	un
+femme	NOUN	femme
+,	PUNCT	,
+je	PRON	je
+ne	ADV	ne
+me	PRON	me
+la	PRON	le
+rappellais	VERB	rappeller
+en	ADP	en
+aucune	DET	aucun
+façon	NOUN	façon
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+je	PRON	je
+l'	PRON	l'
+aurais	AUX	avoir
+quittée	VERB	quitter
+comme	ADP	comme
+m'	PRON	me
+étant	AUX	être
+inconnue	VERB	inconnue
+,	PUNCT	,
+si	SCONJ	si
+elle	PRON	lui
+ne	ADV	ne
+m'	PRON	me
+eût	AUX	avoir
+pas	ADV	pas
+fait	VERB	faire
+souvenir	VERB	souvenir
+que	SCONJ	que
+nous	PRON	nous
+nous	PRON	nous
+étions	AUX	être
+autrefois	ADV	autrefois
+fort	ADV	fort
+tendrement	ADV	tendrement
+aimés	VERB	aimer
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+m'	PRON	me
+étonne	VERB	étonne
+que	SCONJ	que
+ce	PRON	ce
+soit	AUX	être
+elle	PRON	lui
+qui	PRON	qui
+vous	PRON	vous
+ait	AUX	avoir
+reconnu	VERB	reconnaître
+.	PUNCT	.
+L'	PRON	l'
+on	PRON	on
+prétend	VERB	prétendre
+que	SCONJ	que
+nous	PRON	nous
+oublions	VERB	oublier
+beaucoup	ADV	beaucoup
+plus	ADV	plus
+que	SCONJ	que
+les	DET	le
+hommes	NOUN	homme
+ces	DET	ce
+sortes	NOUN	sorte
+d'	ADP	de
+aventures	NOUN	aventure
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+sais	VERB	savoir
+qu'	SCONJ	que
+on	PRON	on
+vous	PRON	vous
+en	PRON	en
+accuse	VERB	accuse
+;	PUNCT	;
+mais	CCONJ	mais
+il	PRON	il
+m'	PRON	me
+a	AUX	avoir
+paru	VERB	paraître
+qu'	SCONJ	que
+à	ADP	à
+cet	DET	ce
+égard	NOUN	égard
+le	DET	le
+manque	NOUN	manque
+de	ADP	de
+mémoire	NOUN	mémoire
+est	AUX	être
+égal	ADJ	égal
+dans	ADP	dans
+les	DET	le
+deux	NUM	deux
+sexes	NOUN	sexe
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+est	AUX	être
+cependant	ADV	cependant
+plus	ADV	plus
+singulier	ADJ	singulier
+dans	ADP	dans
+une	DET	un
+femme	NOUN	femme
+,	PUNCT	,
+que	SCONJ	que
+dans	ADP	dans
+un	DET	un
+homme	NOUN	homme
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+crois	VERB	croire
+,	PUNCT	,
+tout	DET	tout
+préjugé	NOUN	préjugé
+à	ADP	à
+part	NOUN	part
+,	PUNCT	,
+que	SCONJ	que
+cela	PRON	cela
+doit	VERB	devoir
+beaucoup	ADV	beaucoup
+dépendre	VERB	dépendre
+du	ADP	de
+plus	ADV	plus
+ou	CCONJ	ou
+du	ADP	de
+moins	ADV	moins
+que	PRON	que
+vous	PRON	vous
+avez	VERB	avoir
+à	ADP	à
+sacrifier	VERB	sacrifier
+.	PUNCT	.
+Si	SCONJ	si
+,	PUNCT	,
+par	ADP	par
+le	DET	le
+plus	ADV	plus
+grand	ADJ	grand
+hasard	NOUN	hasard
+du	ADP	de
+monde	NOUN	monde
+,	PUNCT	,
+il	PRON	il
+se	PRON	se
+trouvait	VERB	trouver
+qu'	SCONJ	que
+une	DET	un
+femme	NOUN	femme
+n'	ADV	n'
+eût	VERB	avoir
+pas	ADV	pas
+plus	ADV	plus
+de	ADP	de
+sacrifices	NOUN	sacrifice
+à	ADP	à
+faire	VERB	faire
+que	SCONJ	que
+nous	PRON	nous
+-	PRON	-
+mêmes	PRON	même
+,	PUNCT	,
+je	PRON	je
+ne	ADV	ne
+vois	VERB	voir
+pas	ADV	pas
+à	ADP	à
+propos	NOUN	propos
+de	ADP	de
+quoi	PRON	quoi
+l'	PRON	l'
+on	PRON	on
+voudrait	VERB	vouloir
+qu'	SCONJ	que
+elle	PRON	lui
+se	PRON	se
+rappellât	VERB	rappeller
+de	ADP	de
+certaines	DET	certain
+choses	NOUN	chose
+plus	ADV	plus
+que	SCONJ	que
+nous	PRON	nous
+.	PUNCT	.
+Il	PRON	il
+n'	ADV	n'
+est	AUX	être
+cependant	ADV	cependant
+pas	ADV	pas
+aussi	ADV	aussi
+commun	ADJ	commun
+qu'	SCONJ	que
+on	PRON	on
+l'	PRON	l'
+imagine	VERB	imagine
+peut-être	ADV	peut-être
+,	PUNCT	,
+que	SCONJ	que
+deux	NUM	deux
+personnes	NOUN	personne
+,	PUNCT	,
+qui	PRON	qui
+ont	AUX	avoir
+vécu	VERB	vivre
+un	DET	un
+peu	ADV	peu
+amicalement	ADV	amicalement
+l'	DET	le
+une	PRON	un
+avec	ADP	avec
+l'	DET	le
+autre	PRON	autre
+,	PUNCT	,
+quelque	ADV	quelque
+courte	ADJ	court
+qu'	PRON	qu'
+ait	AUX	avoir
+été	AUX	être
+leur	DET	leur
+liaison	NOUN	liaison
+,	PUNCT	,
+quelque	DET	quelque
+peu	ADV	peu
+de	ADP	de
+sentiment	NOUN	sentiment
+même	ADV	même
+qu'	SCONJ	que
+elles	PRON	lui
+y	PRON	y
+aient	AUX	avoir
+mis	VERB	mettre
+,	PUNCT	,
+s'	PRON	se
+en	PRON	en
+souviennent	VERB	souvenir
+si	ADV	si
+peu	ADV	peu
+;	PUNCT	;
+mais	CCONJ	mais
+en	ADP	en
+même	ADJ	même
+temps	NOUN	temps
+je	PRON	je
+ne	ADV	ne
+crois	VERB	croire
+pas	ADV	pas
+qu'	SCONJ	que
+un	DET	un
+oubli	NOUN	oubli
+total	ADJ	total
+de	ADP	de
+ces	DET	ce
+choses	NOUN	chose
+-là	PRON	-là
+soit	AUX	être
+absolument	ADV	absolument
+sans	ADP	sans
+exemple	NOUN	exemple
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Pour	ADP	pour
+moi	PRON	moi
+,	PUNCT	,
+j'	PRON	je
+aime	VERB	aime
+à	ADP	à
+penser	VERB	penser
+que	SCONJ	que
+cela	PRON	cela
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+possible	ADJ	possible
+.	PUNCT	.
+Vous	PRON	vous
+vous	PRON	vous
+souvenez	VERB	souvenir
+de	ADP	de
+Célimene	PROPN	Célimene
+,	PUNCT	,
+n'	ADV	n'
+est	VERB	être
+-ce	PRON	-ce
+pas	ADV	pas
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Cela	PRON	cela
+est	AUX	être
+fort	ADV	fort
+différent	ADJ	différent
+.	PUNCT	.
+Notre	DET	notre
+affaire	NOUN	affaire
+a	AUX	avoir
+été	AUX	être
+longue	ADJ	long
+,	PUNCT	,
+et	CCONJ	et
+je	PRON	je
+l'	PRON	l'
+ai	AUX	avoir
+trop	ADV	trop
+tendrement	ADV	tendrement
+aimée	VERB	aimer
+pour	ADP	pour
+avoir	AUX	avoir
+pu	VERB	pouvoir
+l'	PRON	l'
+oublier	VERB	oublier
+à	ADP	à
+ce	DET	ce
+point	NOUN	point
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Si	SCONJ	si
+vous	PRON	vous
+dites	VERB	dire
+vrai	ADJ	vrai
+,	PUNCT	,
+elle	PRON	lui
+est	AUX	être
+bien	ADV	bien
+heureuse	ADJ	heureux
+!	PUNCT	!
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+J'	PRON	je
+en	PRON	en
+doute	VERB	doute
+,	PUNCT	,
+puisque	SCONJ	puisque
+je	PRON	je
+ne	ADV	ne
+m'	PRON	me
+en	PRON	en
+souviens	VERB	souvenir
+que	ADV	que
+pour	ADP	pour
+la	PRON	le
+mépriser	VERB	mépriser
+au-delà	ADV	au-delà
+de	ADP	de
+tout	ADJ	tout
+ce	PRON	ce
+que	PRON	que
+je	PRON	je
+pourrais	VERB	pouvoir
+dire	VERB	dire
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Cruel	ADJ	cruel
+!	PUNCT	!
+J'	PRON	je
+ai	VERB	avoir
+pourtant	ADV	pourtant
+à	ADP	à
+vous	PRON	vous
+parler	VERB	parler
+de	ADP	de
+sa	DET	son
+part	NOUN	part
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+De	ADP	de
+sa	DET	son
+part	NOUN	part
+!	PUNCT	!
+à	ADP	à
+moi	PRON	moi
+!	PUNCT	!
+Après	ADP	après
+tout	ADV	tout
+,	PUNCT	,
+rien	PRON	rien
+ne	ADV	ne
+m'	PRON	me
+étonne	VERB	étonne
+d'	ADP	de
+elle	PRON	lui
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+prétend	VERB	prétendre
+que	SCONJ	que
+vous	PRON	vous
+lui	PRON	lui
+faites	VERB	faire
+les	DET	le
+injustices	NOUN	injustice
+du	ADP	de
+monde	NOUN	monde
+les	DET	le
+plus	ADV	plus
+criantes	ADJ	criant
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+vous	PRON	vous
+vous	PRON	vous
+obstinez	VERB	obstiner
+à	ADP	à
+la	PRON	le
+condamner	VERB	condamner
+sans	ADP	sans
+l'	PRON	l'
+entendre	VERB	entendre
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Vous	PRON	vous
+savez	VERB	savoir
+mon	DET	mon
+histoire	NOUN	histoire
+comme	ADP	comme
+moi	PRON	moi
+-	PRON	-
+même	PRON	même
+,	PUNCT	,
+Madame	PROPN	Madame
+,	PUNCT	,
+et	CCONJ	et
+puisque	SCONJ	puisque
+vous	PRON	vous
+ne	ADV	ne
+me	PRON	me
+trouvez	VERB	trouver
+aucun	DET	aucun
+tort	NOUN	tort
+,	PUNCT	,
+vous	PRON	vous
+voudrez	VERB	vouloir
+bien	ADV	bien
+que	SCONJ	que
+je	PRON	je
+m'	PRON	me
+inquiète	VERB	inquiéter
+peu	ADV	peu
+de	ADP	de
+tous	ADJ	tout
+ceux	PRON	celui
+dont	PRON	dont
+elle	PRON	lui
+me	PRON	me
+charge	VERB	charger
+.	PUNCT	.
+Je	PRON	je
+ne	ADV	ne
+pourrais	VERB	pouvoir
+même	ADV	même
+m'	PRON	me
+empêcher	VERB	empêcher
+d'	ADP	de
+être	AUX	être
+surpris	VERB	surprendre
+que	SCONJ	que
+sachant	VERB	savoir
+à	ADP	à
+quel	DET	quel
+point	NOUN	point
+vous	PRON	vous
+la	PRON	le
+connaissez	VERB	connaître
+,	PUNCT	,
+elle	PRON	lui
+eût	AUX	avoir
+osé	VERB	oser
+vous	PRON	vous
+prier	VERB	prier
+de	ADP	de
+me	PRON	me
+parler	VERB	parler
+pour	ADP	pour
+elle	PRON	lui
+,	PUNCT	,
+si	SCONJ	si
+Éraste	PROPN	Éraste
+,	PUNCT	,
+qui	PRON	qui
+a	AUX	avoir
+eu	VERB	avoir
+pour	ADP	pour
+vous	PRON	vous
+,	PUNCT	,
+et	CCONJ	et
+devant	ADP	devant
+moi	PRON	moi
+,	PUNCT	,
+les	DET	le
+plus	ADV	plus
+condamnables	ADJ	condamnable
+procedés	NOUN	procedé
+,	PUNCT	,
+ne	ADV	ne
+m'	PRON	me
+avait	AUX	avoir
+pas	ADV	pas
+prié	VERB	prier
+aussi	ADV	aussi
+de	ADP	de
+vous	PRON	vous
+parler	VERB	parler
+pour	ADP	pour
+lui	PRON	lui
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Sérieusement	ADV	sérieusement
+,	PUNCT	,
+Clitandre	PROPN	Clitandre
+,	PUNCT	,
+il	PRON	il
+vous	PRON	vous
+en	PRON	en
+a	AUX	avoir
+parlé	VERB	parler
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Oui	ADV	oui
+,	PUNCT	,
+Madame	NOUN	monsieur
+,	PUNCT	,
+et	CCONJ	et
+avec	ADP	avec
+une	DET	un
+vivacité	NOUN	vivacité
+dont	PRON	dont
+vous	PRON	vous
+auriez	AUX	avoir
+sans	ADP	sans
+doute	NOUN	doute
+été	AUX	être
+contente	VERB	contente
+,	PUNCT	,
+si	SCONJ	si
+vous	PRON	vous
+en	PRON	en
+aviez	AUX	avoir
+été	AUX	être
+témoin	NOUN	témoin
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Oh	INTJ	Oh
+!	PUNCT	!
+très	ADV	très
+contente	ADJ	content
+!	PUNCT	!
+cela	PRON	cela
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+douteux	ADJ	douteux
+!	PUNCT	!
+Et	CCONJ	et
+selon	ADP	selon
+toute	DET	tout
+apparence	NOUN	apparence
+,	PUNCT	,
+il	PRON	il
+me	PRON	me
+charge	VERB	charger
+de	ADP	de
+tous	ADJ	tout
+les	DET	le
+torts	NOUN	tort
+de	ADP	de
+notre	DET	notre
+rupture	NOUN	rupture
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+est	AUX	être
+naturel	ADJ	naturel
+qu'	SCONJ	que
+il	PRON	il
+vous	PRON	vous
+en	PRON	en
+donne	VERB	donne
+quelques-uns	PRON	quelques-uns
+;	PUNCT	;
+cependant	ADV	cependant
+,	PUNCT	,
+à	ADP	à
+ceux	PRON	celui
+qu'	PRON	qu'
+il	PRON	il
+a	VERB	avoir
+lui-même	PRON	lui-même
+,	PUNCT	,
+je	PRON	je
+le	PRON	le
+trouve	VERB	trouve
+assez	ADV	assez
+modéré	ADJ	modérer
+sur	ADP	sur
+cet	DET	ce
+article	NOUN	article
+;	PUNCT	;
+et	CCONJ	et
+à	ADP	à
+votre	DET	votre
+humeur	NOUN	humeur
+près	ADV	près
+,	PUNCT	,
+que	PRON	que
+vous	PRON	vous
+masquez	VERB	masquer
+,	PUNCT	,
+dit	VERB	dire
+-il	PRON	il
+,	PUNCT	,
+sous	ADP	sous
+le	DET	le
+nom	NOUN	nom
+de	ADP	de
+délicatesse	NOUN	délicatesse
+pour	ADP	pour
+pouvoir	VERB	pouvoir
+vous	PRON	vous
+y	PRON	y
+livrer	VERB	livrer
+avec	ADP	avec
+moins	ADV	moins
+de	ADP	de
+scrupule	NOUN	scrupule
+,	PUNCT	,
+il	PRON	il
+dit	VERB	dire
+que	SCONJ	que
+vous	PRON	vous
+êtes	AUX	être
+assez	ADV	assez
+bonne	ADJ	bon
+femme	NOUN	femme
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+manquez	VERB	manquer
+absolument	ADV	absolument
+pas	ADV	pas
+de	DET	de
+principes	NOUN	principe
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+L'	DET	le
+insolent	ADJ	insolent
+!	PUNCT	!
+je	PRON	je
+ne	ADV	ne
+dirai	VERB	dire
+sûrement	ADV	sûrement
+pas	ADV	pas
+de	ADP	de
+lui	PRON	lui
+la	DET	le
+même	ADJ	même
+chose	NOUN	chose
+:	PUNCT	:
+mais	CCONJ	mais
+n'	ADV	n'
+avez	AUX	avoir
+-vous	PRON	vous
+pas	ADV	pas
+été	AUX	être
+confondu	VERB	confondre
+de	ADP	de
+l'	DET	le
+air	NOUN	air
+léger	ADJ	léger
+dont	PRON	dont
+il	PRON	il
+est	AUX	être
+venu	VERB	venir
+s'	PRON	se
+établir	VERB	établir
+ici	ADV	ici
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+est	VERB	être
+vrai	ADJ	vrai
+que	SCONJ	que
+son	DET	son
+apparition	NOUN	apparition
+m'	PRON	me
+a	AUX	avoir
+un	DET	un
+peu	ADV	peu
+surpris	VERB	surprendre
+.	PUNCT	.
+Ce	PRON	ce
+n'	ADV	n'
+est	VERB	être
+pourtant	ADV	pourtant
+pas	ADV	pas
+que	SCONJ	que
+j'	PRON	je
+aie	AUX	avoir
+cru	VERB	croire
+qu'	SCONJ	que
+il	PRON	il
+vînt	VERB	venir
+ici	ADV	ici
+sans	ADP	sans
+être	AUX	être
+sûr	ADJ	sûr
+que	SCONJ	que
+vous	PRON	vous
+ne	ADV	ne
+le	PRON	le
+trouveriez	VERB	trouver
+pas	ADV	pas
+mauvais	ADJ	mauvais
+;	PUNCT	;
+c'	PRON	ce
+est	AUX	être
+le	DET	le
+moindre	ADJ	moindre
+des	ADP	de
+égards	NOUN	égard
+que	PRON	que
+l'	PRON	l'
+on	PRON	on
+doit	VERB	devoir
+à	ADP	à
+une	DET	un
+femme	NOUN	femme
+comme	ADP	comme
+vous	PRON	vous
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+De	ADP	de
+mon	DET	mon
+aveu	NOUN	aveu
+!	PUNCT	!
+pouvez	VERB	pouvoir
+-vous	PRON	vous
+le	PRON	le
+croire	VERB	croire
+?	PUNCT	?
+Sept	NUM	Sept
+ou	CCONJ	ou
+huit	NUM	huit
+jours	NOUN	jour
+avant	ADP	avant
+mon	DET	mon
+départ	NOUN	départ
+,	PUNCT	,
+je	PRON	je
+soupois	VERB	soupois
+avec	ADP	avec
+lui	PRON	lui
+chez	ADP	chez
+la	DET	le
+petite	ADJ	petit
+Comtesse	NOUN	comtesse
+.	PUNCT	.
+Il	PRON	il
+y	PRON	y
+fut	AUX	être
+question	NOUN	question
+du	ADP	de
+séjour	NOUN	séjour
+que	PRON	que
+je	PRON	je
+comptais	VERB	compter
+faire	VERB	faire
+ici	ADV	ici
+;	PUNCT	;
+il	PRON	il
+eut	VERB	avoir
+l'	DET	le
+audace	NOUN	audace
+de	ADP	de
+me	PRON	me
+dire	VERB	dire
+qu'	SCONJ	que
+il	PRON	il
+viendrait	VERB	venir
+m'	PRON	me
+y	PRON	y
+faire	VERB	faire
+sa	DET	son
+cour	NOUN	cour
+.	PUNCT	.
+Comme	SCONJ	comme
+je	PRON	je
+sais	VERB	savoir
+qu'	SCONJ	que
+il	PRON	il
+a	VERB	avoir
+des	DET	un
+projets	NOUN	projet
+sur	ADP	sur
+cette	DET	ce
+pauvre	ADJ	pauvre
+petite	ADJ	petit
+femme	NOUN	femme
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+jusques	ADP	jusques
+à	ADP	à
+présent	NOUN	présent
+elle	PRON	lui
+n'	ADV	n'
+entre	VERB	entre
+pas	ADV	pas
+dans	ADP	dans
+ses	DET	son
+vues	NOUN	vue
+,	PUNCT	,
+je	PRON	je
+crus	VERB	croire
+que	SCONJ	que
+pour	ADP	pour
+la	PRON	le
+déterminer	VERB	déterminer
+,	PUNCT	,
+il	PRON	il
+voulait	VERB	vouloir
+lui	PRON	lui
+donner	VERB	donner
+de	ADP	de
+la	DET	le
+jalousie	NOUN	jalousie
+,	PUNCT	,
+et	CCONJ	et
+qu'	SCONJ	que
+il	PRON	il
+me	PRON	me
+faisait	VERB	faire
+l'	DET	le
+honneur	NOUN	honneur
+de	ADP	de
+croire	VERB	croire
+que	SCONJ	que
+j'	PRON	je
+ai	VERB	avoir
+de	ADP	de
+quoi	NOUN	quoi
+l'	PRON	l'
+alarmer	VERB	alarmer
+;	PUNCT	;
+mais	CCONJ	mais
+j'	PRON	je
+avais	AUX	avoir
+reçu	VERB	recevoir
+si	ADV	si
+froidement	ADV	froidement
+sa	DET	son
+politesse	NOUN	politesse
+,	PUNCT	,
+que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+avoue	VERB	avoue
+que	SCONJ	que
+je	PRON	je
+me	PRON	me
+flattais	VERB	flatter
+qu'	SCONJ	que
+il	PRON	il
+n'	ADV	n'
+oserait	VERB	oser
+pas	ADV	pas
+venir	VERB	venir
+dans	ADP	dans
+un	DET	un
+lieu	NOUN	lieu
+où	PRON	où
+il	PRON	il
+doit	VERB	devoir
+être	AUX	être
+vu	VERB	voir
+avec	ADP	avec
+moins	ADV	moins
+de	ADP	de
+plaisir	NOUN	plaisir
+que	SCONJ	que
+personne	PRON	personne
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+rien	PRON	rien
+ne	ADV	ne
+peut	VERB	pouvoir
+égaler	VERB	égaler
+la	DET	le
+surprise	NOUN	surprise
+que	PRON	que
+j'	PRON	je
+ai	AUX	avoir
+eue	VERB	avoir
+en	ADP	en
+l'	PRON	l'
+y	PRON	y
+voyant	VERB	voir
+arriver	VERB	arriver
+.	PUNCT	.
+Aussi	ADV	aussi
+l'	PRON	l'
+ai	AUX	avoir
+-je	PRON	je
+traité	VERB	traiter
+comme	SCONJ	comme
+vous	PRON	vous
+avez	AUX	avoir
+fait	VERB	faire
+Araminte	PROPN	Araminte
+,	PUNCT	,
+à	ADP	à
+qui	PRON	qui
+il	PRON	il
+me	PRON	me
+semble	VERB	semble
+que	SCONJ	que
+vous	PRON	vous
+en	PRON	en
+voulez	VERB	vouloir
+encore	ADV	encore
+plus	ADV	plus
+qu'	SCONJ	que
+à	ADP	à
+Célimene	PROPN	Célimene
+même	ADV	même
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Ma	DET	mon
+foi	NOUN	foi
+!	PUNCT	!
+en	ADP	en
+cas	NOUN	cas
+,	PUNCT	,
+comme	SCONJ	comme
+je	PRON	je
+vous	PRON	vous
+en	PRON	en
+soupçonne	VERB	soupçonne
+,	PUNCT	,
+que	SCONJ	que
+ce	PRON	ce
+soit	VERB	être
+pour	ADP	pour
+vous	PRON	vous
+procurer	VERB	procurer
+quelques	DET	quelque
+scènes	NOUN	scène
+agréables	ADJ	agréable
+que	PRON	que
+vous	PRON	vous
+avez	AUX	avoir
+voulu	VERB	vouloir
+avoir	VERB	avoir
+cette	DET	ce
+femme	NOUN	femme
+,	PUNCT	,
+il	PRON	il
+faut	VERB	falloir
+convenir	VERB	convenir
+que	SCONJ	que
+vous	PRON	vous
+avez	AUX	avoir
+bien	ADV	bien
+réussi	VERB	réussir
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+le	DET	le
+souper	NOUN	souper
+a	AUX	avoir
+été	AUX	être
+d'	ADP	de
+une	DET	un
+gaieté	NOUN	gaieté
+merveilleuse	ADJ	merveilleux
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+ne	ADV	ne
+crois	VERB	croire
+pas	ADV	pas
+de	ADP	de
+mes	DET	mon
+jours	NOUN	jour
+en	PRON	en
+avoir	AUX	avoir
+fait	VERB	faire
+un	PRON	un
+plus	ADV	plus
+embarrassant	ADJ	embarrassant
+et	CCONJ	et
+plus	ADV	plus
+triste	ADJ	triste
+.	PUNCT	.
+Vous	PRON	vous
+,	PUNCT	,
+entre	ADP	entre
+deux	NUM	deux
+femmes	NOUN	femme
+de	ADP	de
+qui	PRON	qui
+les	DET	le
+prétentions	NOUN	prétention
+vous	PRON	vous
+gênaient	VERB	gêner
+,	PUNCT	,
+(	PUNCT	(
+car	CCONJ	car
+vous	PRON	vous
+ne	ADV	ne
+pouvez	VERB	pouvoir
+pas	ADV	pas
+disconvenir	VERB	disconvenir
+qu'	SCONJ	que
+il	PRON	il
+n'	ADV	n'
+y	PRON	y
+en	PRON	en
+eût	VERB	avoir
+au	ADP	au
+moins	ADV	moins
+deux	PRON	deux
+qui	PRON	qui
+en	PRON	en
+avaient	VERB	avoir
+sur	ADP	sur
+vous	PRON	vous
+.	PUNCT	.
+)	PUNCT	)
+Moi	PRON	moi
+,	PUNCT	,
+en	ADP	en
+face	NOUN	face
+d'	ADP	de
+Éraste	PROPN	Éraste
+,	PUNCT	,
+impatientée	VERB	impatienter
+,	PUNCT	,
+plus	ADV	plus
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+puis	VERB	pouvoir
+l'	PRON	l'
+exprimer	VERB	exprimer
+,	PUNCT	,
+de	ADP	de
+ses	DET	son
+prétentions	NOUN	prétention
+,	PUNCT	,
+de	ADP	de
+ses	DET	son
+regards	NOUN	regard
+et	CCONJ	et
+de	ADP	de
+ses	DET	son
+propos	NOUN	propos
+;	PUNCT	;
+non	ADV	non
+!	PUNCT	!
+en	ADP	en
+vérité	NOUN	vérité
+!	PUNCT	!
+j'	PRON	je
+ai	AUX	avoir
+cru	VERB	croire
+que	SCONJ	que
+j'	PRON	je
+en	PRON	en
+mourrais	VERB	mourir
+d'	ADP	de
+ennui	NOUN	ennui
+et	CCONJ	et
+de	ADP	de
+fureur	NOUN	fureur
+!	PUNCT	!
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+On	PRON	on
+en	PRON	en
+meurt	VERB	mourir
+à	ADP	à
+moins	ADV	moins
+tous	ADJ	tout
+les	DET	le
+jours	NOUN	jour
+,	PUNCT	,
+et	CCONJ	et
+je	PRON	je
+n'	ADV	n'
+étais	VERB	être
+pas	ADV	pas
+,	PUNCT	,
+je	PRON	je
+vous	PRON	vous
+jure	VERB	jure
+,	PUNCT	,
+plus	ADV	plus
+à	ADP	à
+mon	DET	mon
+aise	NOUN	aise
+que	SCONJ	que
+vous	PRON	vous
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Pour	ADP	pour
+votre	DET	votre
+sécheresse	NOUN	sécheresse
+avec	ADP	avec
+Célimene	PROPN	Célimene
+,	PUNCT	,
+je	PRON	je
+n'	ADV	n'
+en	PRON	en
+ai	AUX	avoir
+pas	ADV	pas
+été	AUX	être
+bien	ADV	bien
+surprise	VERB	surprendre
+;	PUNCT	;
+mais	CCONJ	mais
+à	ADP	à
+l'	DET	le
+égard	NOUN	égard
+d'	ADP	de
+Araminte	PROPN	Araminte
+que	PRON	que
+vous	PRON	vous
+avez	VERB	avoir
+...	PUNCT	...
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Moi	PRON	moi
+!	PUNCT	!
+j'	PRON	je
+ai	VERB	avoir
+Araminte	PROPN	Araminte
+!	PUNCT	!
+voilà	VERB	voilà
+bien	ADV	bien
+la	DET	le
+plus	ADV	plus
+abominable	ADJ	abominable
+calomnie	NOUN	calomnie
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Mon	DET	mon
+dieu	NOUN	dieu
+!	PUNCT	!
+Ne	ADV	ne
+vous	PRON	vous
+fâchez	VERB	fâcher
+pas	ADV	pas
+tant	ADV	tant
+contre	ADP	contre
+moi	PRON	moi
+!	PUNCT	!
+Est	AUX	être
+-ce	PRON	-ce
+ma	DET	mon
+faute	NOUN	faute
+,	PUNCT	,
+si	SCONJ	si
+le	DET	le
+Public	NOUN	public
+vous	PRON	vous
+la	PRON	le
+donne	VERB	donne
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Le	DET	le
+Public	NOUN	public
+!	PUNCT	!
+Le	DET	le
+Public	NOUN	public
+,	PUNCT	,
+avec	ADP	avec
+sa	DET	son
+permission	NOUN	permission
+,	PUNCT	,
+ferait	VERB	faire
+mieux	ADV	mieux
+de	ADP	de
+la	PRON	le
+garder	VERB	garder
+,	PUNCT	,
+que	SCONJ	que
+de	ADP	de
+me	PRON	me
+la	PRON	le
+donner	VERB	donner
+comme	SCONJ	comme
+il	PRON	il
+fait	VERB	faire
+.	PUNCT	.
+Il	PRON	il
+est	AUX	être
+encore	ADV	encore
+plaisant	ADJ	plaisant
+le	DET	le
+Public	NOUN	public
+!	PUNCT	!
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Clitandre	PROPN	Clitandre
+!	PUNCT	!
+Vous	PRON	vous
+n'	ADV	n'
+êtes	VERB	être
+pas	ADV	pas
+de	ADP	de
+bonne	ADJ	bon
+foi	NOUN	foi
+!	PUNCT	!
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+,	PUNCT	,
+Lui	PRON	lui
+répond	VERB	répondre
+fort	ADV	fort
+bas	ADV	bas
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+est	AUX	être
+sûr	ADJ	sûr
+que	SCONJ	que
+si	SCONJ	si
+vous	PRON	vous
+continuez	VERB	continuer
+à	ADP	à
+me	PRON	me
+parler	VERB	parler
+de	ADP	de
+ce	DET	ce
+ton	NOUN	ton
+-là	PROPN	-là
+,	PUNCT	,
+il	PRON	il
+ne	ADV	ne
+me	PRON	me
+sera	AUX	être
+pas	ADV	pas
+aisé	ADJ	aisé
+de	ADP	de
+vous	PRON	vous
+entendre	VERB	entendre
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+La	DET	le
+belle	ADJ	bel
+fantaisie	NOUN	fantaisie
+!	PUNCT	!
+à	ADP	à
+propos	NOUN	propos
+de	ADP	de
+quoi	PRON	quoi
+donc	ADV	donc
+cet	DET	ce
+air	NOUN	air
+de	ADP	de
+mystère	NOUN	mystère
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+,	PUNCT	,
+Toujours	ADV	toujours
+fort	ADV	fort
+bas	ADJ	bas
+.	PUNCT	.
+
+	SPACE	
+
+Eh	INTJ	Eh
+!	PUNCT	!
+Justine	PROPN	Justine
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Eh	INTJ	Eh
+bien	ADV	bien
+!	PUNCT	!
+Que	PRON	que
+vous	PRON	vous
+fait	VERB	faire
+-elle	PRON	lui
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Oh	INTJ	Oh
+!	PUNCT	!
+rien	PRON	rien
+!	PUNCT	!
+c'	PRON	ce
+est	AUX	être
+seulement	ADV	seulement
+que	SCONJ	que
+je	PRON	je
+n'	ADV	n'
+ai	AUX	avoir
+pas	ADV	pas
+déterminé	VERB	déterminer
+de	ADP	de
+la	PRON	le
+mettre	VERB	mettre
+dans	ADP	dans
+la	DET	le
+confidence	NOUN	confidence
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+puis	VERB	pouvoir
+,	PUNCT	,
+tant	ADV	tant
+qu'	SCONJ	que
+elle	PRON	lui
+restera	VERB	rester
+dans	ADP	dans
+votre	DET	votre
+chambre	NOUN	chambre
+,	PUNCT	,
+m'	PRON	me
+expliquer	VERB	expliquer
+librement	ADV	librement
+sur	ADP	sur
+certains	DET	certain
+articles	NOUN	article
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+ne	ADV	ne
+vois	VERB	voir
+pas	ADV	pas
+pourquoi	ADV	pourquoi
+vous	PRON	vous
+voulez	VERB	vouloir
+l'	PRON	l'
+en	PRON	en
+bannir	VERB	bannir
+aujourd'hui	ADV	aujourd'hui
+:	PUNCT	:
+tous	ADJ	tout
+ces	DET	ce
+jours	NOUN	jour
+derniers	ADJ	dernier
+elle	PRON	lui
+ne	ADV	ne
+vous	PRON	vous
+y	PRON	y
+a	AUX	avoir
+point	ADV	point
+paru	VERB	paraître
+de	ADP	de
+trop	ADV	trop
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Cela	PRON	cela
+se	PRON	se
+peut	VERB	pouvoir
+;	PUNCT	;
+mais	CCONJ	mais
+en	ADP	en
+le	PRON	le
+supposant	VERB	supposer
+comme	ADP	comme
+vous	PRON	vous
+,	PUNCT	,
+je	PRON	je
+n'	ADV	n'
+avais	VERB	avoir
+pas	ADV	pas
+les	DET	le
+mêmes	ADJ	même
+choses	NOUN	chose
+à	ADP	à
+vous	PRON	vous
+dire	VERB	dire
+.	PUNCT	.
+Vous	PRON	vous
+en	PRON	en
+ferez	VERB	faire
+ce	PRON	ce
+que	PRON	que
+vous	PRON	vous
+voudrez	VERB	vouloir
+;	PUNCT	;
+mais	CCONJ	mais
+il	PRON	il
+me	PRON	me
+semble	VERB	semble
+que	SCONJ	que
+si	SCONJ	si
+vous	PRON	vous
+vouliez	VERB	vouloir
+bien	ADV	bien
+que	SCONJ	que
+nous	PRON	nous
+fussions	VERB	être
+seuls	ADJ	seul
+,	PUNCT	,
+cela	PRON	cela
+n'	ADV	n'
+en	PRON	en
+serait	AUX	être
+que	ADV	que
+mieux	ADV	mieux
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Voilà	VERB	voilà
+une	DET	un
+singulière	ADJ	singulier
+idée	NOUN	idée
+!	PUNCT	!
+Justine	PROPN	Justine
+est	AUX	être
+une	DET	un
+petite	ADJ	petit
+fille	NOUN	fille
+fort	ADV	fort
+sûre	ADJ	sûr
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+n'	ADV	n'
+attaque	VERB	attaque
+point	ADV	point
+sa	DET	son
+discrétion	NOUN	discrétion
+,	PUNCT	,
+et	CCONJ	et
+je	PRON	je
+ne	ADV	ne
+doute	VERB	doute
+point	ADV	point
+que	SCONJ	que
+vos	DET	votre
+secrets	NOUN	secret
+ne	ADV	ne
+saient	VERB	saier
+fort	ADV	fort
+bien	ADV	bien
+entre	ADP	entre
+ses	DET	son
+mains	NOUN	main
+;	PUNCT	;
+mais	CCONJ	mais
+vous	PRON	vous
+ne	ADV	ne
+devez	VERB	devoir
+pas	ADV	pas
+trouver	VERB	trouver
+extraordinaire	ADJ	extraordinaire
+que	SCONJ	que
+je	PRON	je
+ne	ADV	ne
+veuille	VERB	vouloir
+mettre	VERB	mettre
+les	DET	le
+miens	NOUN	mien
+qu'	ADV	qu'
+entre	ADP	entre
+les	DET	le
+vôtres	NOUN	vôtre
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+dort	VERB	dormir
+,	PUNCT	,
+et	CCONJ	et
+sûrement	ADV	sûrement
+elle	PRON	lui
+ne	ADV	ne
+vous	PRON	vous
+entend	VERB	entendre
+pas	ADV	pas
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+peut	VERB	pouvoir
+le	PRON	le
+feindre	VERB	feindre
+,	PUNCT	,
+et	CCONJ	et
+m'	PRON	me
+entendre	VERB	entendre
+:	PUNCT	:
+enfin	ADV	enfin
+,	PUNCT	,
+madame	NOUN	monsieur
+,	PUNCT	,
+qu'	SCONJ	que
+elle	PRON	lui
+soit	AUX	être
+ou	CCONJ	ou
+non	ADV	non
+endormie	VERB	endormir
+,	PUNCT	,
+sa	DET	son
+présence	NOUN	présence
+m'	PRON	me
+inquiète	VERB	inquiéter
+et	CCONJ	et
+me	PRON	me
+gêne	VERB	gêne
+.	PUNCT	.
+Ou	CCONJ	ou
+permettez	VERB	permettre
+-moi	PRON	moi
+de	ADP	de
+me	PRON	me
+taire	VERB	taire
+sur	ADP	sur
+ce	PRON	ce
+que	PRON	que
+vous	PRON	vous
+me	PRON	me
+demandez	VERB	demander
+,	PUNCT	,
+ou	CCONJ	ou
+consentez	VERB	consentir
+que	SCONJ	que
+nous	PRON	nous
+soyons	AUX	être
+seuls	ADJ	seul
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Seuls	ADJ	seul
+!	PUNCT	!
+...	PUNCT	...
+Mais	CCONJ	mais
+pourquoi	ADV	pourquoi
+?	PUNCT	?
+...	PUNCT	...
+en	ADP	en
+vérité	NOUN	vérité
+!	PUNCT	!
+cela	PRON	cela
+est	AUX	être
+ridicule	ADJ	ridicule
+!	PUNCT	!
+Non	ADV	non
+,	PUNCT	,
+toutes	DET	tout
+réflexions	NOUN	réflexion
+faites	VERB	faire
+,	PUNCT	,
+je	PRON	je
+n'	ADV	n'
+y	PRON	y
+consentirai	VERB	consentir
+jamais	ADV	jamais
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Comme	SCONJ	comme
+il	PRON	il
+vous	PRON	vous
+plaira	VERB	plaire
+,	PUNCT	,
+au	ADP	au
+reste	NOUN	reste
+;	PUNCT	;
+mais	CCONJ	mais
+je	PRON	je
+vous	PRON	vous
+avoue	VERB	avoue
+que	SCONJ	que
+j'	PRON	je
+ai	VERB	avoir
+peine	NOUN	peine
+à	ADP	à
+comprendre	VERB	comprendre
+votre	DET	votre
+répugnance	NOUN	répugnance
+sur	ADP	sur
+une	DET	un
+chose	NOUN	chose
+si	ADV	si
+simple	ADJ	simple
+,	PUNCT	,
+qui	PRON	qui
+me	PRON	me
+paraît	VERB	paraître
+tirer	VERB	tirer
+si	ADV	si
+peu	ADV	peu
+à	ADP	à
+conséquence	NOUN	conséquence
+pour	ADP	pour
+vous	PRON	vous
+,	PUNCT	,
+et	CCONJ	et
+qui	PRON	qui
+m'	PRON	me
+est	AUX	être
+à	ADP	à
+moi	PRON	moi
+si	ADV	si
+nécessaire	ADJ	nécessaire
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+,	PUNCT	,
+D'	ADP	de
+un	DET	un
+ton	NOUN	ton
+piqué	VERB	piquer
+.	PUNCT	.
+
+	SPACE	
+
+Enfin	ADV	enfin
+,	PUNCT	,
+il	PRON	il
+faut	VERB	falloir
+donc	ADV	donc
+faire	VERB	faire
+ce	PRON	ce
+qui	PRON	qui
+vous	PRON	vous
+plaît	VERB	plaire
+;	PUNCT	;
+mais	CCONJ	mais
+assurément	ADV	assurément
+vous	PRON	vous
+me	PRON	me
+ménagez	VERB	ménager
+peu	ADV	peu
+!	PUNCT	!
+Justine	PROPN	Justine
+,	PUNCT	,
+Justine	PROPN	Justine
+!	PUNCT	!
+Voyez	VERB	voir
+comme	SCONJ	comme
+elle	PRON	lui
+ne	ADV	ne
+dormait	VERB	dormir
+pas	ADV	pas
+!	PUNCT	!
+Justine	PROPN	Justine
+!	PUNCT	!
+vous	PRON	vous
+pouvez	VERB	pouvoir
+vous	PRON	vous
+coucher	VERB	coucher
+.	PUNCT	.
+
+	SPACE	
+
+JUSTINE	NOUN	justine
+.	PUNCT	.
+
+	SPACE	
+
+À	ADP	à
+quelle	DET	quel
+heure	NOUN	heure
+,	PUNCT	,
+Madame	NOUN	monsieur
+veut	VERB	vouloir
+-elle	PRON	lui
+qu'	SCONJ	que
+on	PRON	on
+entre	VERB	entre
+demain	ADV	demain
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Embarrassée	NOUN	embarrassée
+.	PUNCT	.
+
+	SPACE	
+
+Mais	CCONJ	mais
+voilà	VERB	voilà
+une	DET	un
+singulière	ADJ	singulier
+question	NOUN	question
+!	PUNCT	!
+À	ADP	à
+l'	DET	le
+heure	NOUN	heure
+ordinaire	ADJ	ordinaire
+,	PUNCT	,
+apparemment	ADV	apparemment
+?	PUNCT	?
+
+	SPACE	
+
+JUSTINE	PROPN	JUSTINE
+.	PUNCT	.
+
+	SPACE	
+
+On	PRON	on
+attendra	VERB	attendre
+que	SCONJ	que
+Madame	NOUN	monsieur
+sonne	VERB	sonne
+.	PUNCT	.
+
+	SPACE	
+
+(	PUNCT	(
+Elle	PRON	lui
+sort	VERB	sortir
+.	PUNCT	.
+)	PUNCT	)
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Eh	INTJ	Eh
+bien	ADV	bien
+!	PUNCT	!
+Monsieur	NOUN	Monsieur
+,	PUNCT	,
+vous	PRON	vous
+venez	VERB	venir
+de	ADP	de
+l'	PRON	l'
+entendre	VERB	entendre
+!	PUNCT	!
+elle	PRON	lui
+vient	VERB	venir
+de	ADP	de
+me	PRON	me
+tenir	VERB	tenir
+un	DET	un
+joli	ADJ	joli
+propos	NOUN	propos
+!	PUNCT	!
+Voilà	VERB	voilà
+pourtant	ADV	pourtant
+à	ADP	à
+quoi	PRON	quoi
+vous	PRON	vous
+m'	PRON	me
+exposez	VERB	exposer
+!	PUNCT	!
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Mais	CCONJ	mais
+,	PUNCT	,
+Madame	NOUN	monsieur
+,	PUNCT	,
+daignez	VERB	daigner
+donc	ADV	donc
+vous	PRON	vous
+mettre	VERB	mettre
+à	ADP	à
+ma	DET	mon
+place	NOUN	place
+...	PUNCT	...
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Mettez	VERB	mettre
+-vous	PRON	vous
+vous	PRON	vous
+-	PRON	-
+même	PRON	même
+à	ADP	à
+la	DET	le
+mienne	PRON	mienne
+,	PUNCT	,
+Monsieur	NOUN	Monsieur
+.	PUNCT	.
+Croyez	VERB	croire
+-vous	PRON	vous
+de	ADP	de
+bonne	ADJ	bon
+foi	NOUN	foi
+qu'	SCONJ	que
+elle	PRON	lui
+sorte	VERB	sortir
+de	ADP	de
+ma	DET	mon
+chambre	NOUN	chambre
+sans	ADP	sans
+la	DET	le
+plus	ADV	plus
+forte	ADJ	fort
+persuasion	NOUN	persuasion
+qu'	SCONJ	que
+elle	PRON	lui
+nous	PRON	nous
+y	PRON	y
+gênait	VERB	gêner
+beaucoup	ADV	beaucoup
+;	PUNCT	;
+que	SCONJ	que
+nous	PRON	nous
+sommes	AUX	être
+arrangés	VERB	arranger
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+ceci	PRON	ceci
+,	PUNCT	,
+qui	PRON	qui
+n'	ADV	n'
+est	AUX	être
+bien	ADV	bien
+assurément	ADV	assurément
+qu'	SCONJ	que
+une	DET	un
+chose	NOUN	chose
+de	ADP	de
+hasard	NOUN	hasard
+à	ADP	à
+laquelle	PRON	lequel
+nous	PRON	nous
+n'	ADV	n'
+avons	AUX	avoir
+pensé	VERB	penser
+ni	CCONJ	ni
+vous	PRON	vous
+ni	CCONJ	ni
+moi	PRON	moi
+,	PUNCT	,
+ne	ADV	ne
+soit	AUX	être
+un	DET	un
+rendez-vous	NOUN	rendez-vous
+très	ADV	très
+décidé	VERB	décider
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+a	VERB	avoir
+donc	ADV	donc
+l'	DET	le
+esprit	NOUN	esprit
+bien	ADV	bien
+mal	ADV	mal
+fait	VERB	faire
+,	PUNCT	,
+votre	DET	votre
+Justine	PROPN	Justine
+!	PUNCT	!
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+D'	ADP	de
+un	DET	un
+ton	NOUN	ton
+un	DET	un
+peu	ADV	peu
+brusque	ADJ	brusque
+.	PUNCT	.
+
+	SPACE	
+
+Elle	PRON	lui
+l'	PRON	l'
+a	VERB	avoir
+comme	ADP	comme
+tous	ADJ	tout
+les	DET	le
+gens	NOUN	gens
+de	ADP	de
+son	DET	son
+espèce	NOUN	espèce
+;	PUNCT	;
+cela	PRON	cela
+ne	ADV	ne
+suffit	VERB	suffire
+-il	PRON	il
+pas	ADV	pas
+?	PUNCT	?
+Vous	PRON	vous
+-	PRON	-
+même	ADV	même
+,	PUNCT	,
+que	PRON	que
+penseriez	VERB	penser
+-vous	PRON	vous
+si	SCONJ	si
+vous	PRON	vous
+appreniez	VERB	apprendre
+demain	ADV	demain
+qu'	SCONJ	que
+un	PRON	un
+des	ADP	de
+hommes	NOUN	homme
+,	PUNCT	,
+qui	PRON	qui
+sont	VERB	être
+ici	ADV	ici
+,	PUNCT	,
+a	AUX	avoir
+passé	VERB	passer
+la	DET	le
+plus	ADV	plus
+grande	ADJ	grand
+partie	NOUN	partie
+de	ADP	de
+la	DET	le
+nuit	NOUN	nuit
+dans	ADP	dans
+ma	DET	mon
+chambre	NOUN	chambre
+?	PUNCT	?
+Auriez	VERB	avoir
+-vous	PRON	vous
+la	DET	le
+bonté	NOUN	bonté
+de	ADP	de
+croire	VERB	croire
+qu'	SCONJ	que
+il	PRON	il
+ne	ADV	ne
+l'	PRON	l'
+aurait	AUX	avoir
+employée	VERB	employer
+qu'	ADV	qu'
+à	ADP	à
+me	PRON	me
+raconter	VERB	raconter
+des	DET	un
+histoires	NOUN	histoire
+?	PUNCT	?
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Il	PRON	il
+est	AUX	être
+certain	ADJ	certain
+que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+croirais	VERB	croire
+pour	ADP	pour
+cela	PRON	cela
+quelque	DET	quelque
+raison	NOUN	raison
+particulière	ADJ	particulier
+;	PUNCT	;
+mais	CCONJ	mais
+Justine	PROPN	Justine
+,	PUNCT	,
+qui	PRON	qui
+est	AUX	être
+votre	DET	votre
+confidente	NOUN	confident
+,	PUNCT	,
+et	CCONJ	et
+qui	PRON	qui
+sait	VERB	savoir
+qu'	SCONJ	que
+il	PRON	il
+n'	ADV	n'
+y	PRON	y
+a	VERB	avoir
+rien	PRON	rien
+entre	ADP	entre
+vous	PRON	vous
+et	CCONJ	et
+moi	PRON	moi
+,	PUNCT	,
+ne	ADV	ne
+doit	VERB	devoir
+pas	ADV	pas
+penser	VERB	penser
+là	ADV	là
+-	ADV	-
+dessus	ADV	dessus
+comme	SCONJ	comme
+je	PRON	je
+pourrais	VERB	pouvoir
+faire	VERB	faire
+.	PUNCT	.
+Eh	INTJ	Eh
+!	PUNCT	!
+plût	VERB	pleuvoir
+au	ADP	au
+ciel	NOUN	ciel
+qu'	SCONJ	que
+elle	PRON	lui
+pût	VERB	pouvoir
+me	PRON	me
+croire	VERB	croire
+l'	DET	le
+homme	NOUN	homme
+du	ADP	de
+monde	NOUN	monde
+le	DET	le
+plus	ADV	plus
+heureux	ADJ	heureux
+,	PUNCT	,
+et	CCONJ	et
+que	SCONJ	que
+je	PRON	je
+le	PRON	le
+fusse	VERB	être
+autant	ADV	autant
+qu'	SCONJ	que
+elle	PRON	lui
+me	PRON	me
+ferait	VERB	faire
+l'	DET	le
+honneur	NOUN	honneur
+de	ADP	de
+le	PRON	le
+croire	VERB	croire
+!	PUNCT	!
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Son	DET	son
+absence	NOUN	absence
+vous	PRON	vous
+a	AUX	avoir
+rendu	VERB	rendre
+bien	ADV	bien
+galant	ADJ	galant
+!	PUNCT	!
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Non	ADV	non
+,	PUNCT	,
+mais	CCONJ	mais
+il	PRON	il
+est	AUX	être
+assez	ADV	assez
+simple	ADJ	simple
+qu'	SCONJ	que
+elle	PRON	lui
+m'	PRON	me
+ait	AUX	avoir
+rendu	VERB	rendre
+plus	ADV	plus
+libre	ADJ	libre
+.	PUNCT	.
+Si	SCONJ	si
+je	PRON	je
+n'	ADV	n'
+avais	AUX	avoir
+dû	VERB	devoir
+rien	PRON	rien
+gagner	VERB	gagner
+à	ADP	à
+son	DET	son
+départ	NOUN	départ
+,	PUNCT	,
+que	PRON	que
+m'	PRON	me
+aurait	AUX	avoir
+fait	VERB	faire
+qu'	SCONJ	que
+elle	PRON	lui
+fût	AUX	être
+partie	VERB	partir
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+D'	ADP	de
+un	DET	un
+ton	NOUN	ton
+fort	ADV	fort
+sérieux	ADJ	sérieux
+et	CCONJ	et
+d'	ADP	de
+un	DET	un
+air	NOUN	air
+un	DET	un
+peu	ADV	peu
+alarmé	VERB	alarmer
+.	PUNCT	.
+
+	SPACE	
+
+Au	ADP	au
+moins	ADV	moins
+,	PUNCT	,
+monsieur	NOUN	Monsieur
+...	PUNCT	...
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Eh	INTJ	Eh
+!	PUNCT	!
+Madame	NOUN	monsieur
+,	PUNCT	,
+vous	PRON	vous
+me	PRON	me
+connaissez	VERB	connaître
+.	PUNCT	.
+D'	ADP	de
+ailleurs	ADV	ailleurs
+que	PRON	que
+gagnerois	VERB	gagnerois
+-je	PRON	je
+à	ADP	à
+vous	PRON	vous
+manquer	VERB	manquer
+,	PUNCT	,
+quand	SCONJ	quand
+vous	PRON	vous
+ne	ADV	ne
+m'	PRON	me
+accorderiez	VERB	accorder
+rien	PRON	rien
+de	ADP	de
+tout	ADJ	tout
+ce	PRON	ce
+que	PRON	que
+je	PRON	je
+pourrais	VERB	pouvoir
+vous	PRON	vous
+demander	VERB	demander
+,	PUNCT	,
+ou	CCONJ	ou
+que	SCONJ	que
+je	PRON	je
+vous	PRON	vous
+offenserois	VERB	offenserois
+,	PUNCT	,
+si	SCONJ	si
+je	PRON	je
+voulais	VERB	vouloir
+tenter	VERB	tenter
+quelque	DET	quelque
+chose	NOUN	chose
+?	PUNCT	?
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Au	ADP	au
+vrai	ADJ	vrai
+,	PUNCT	,
+Clitandre	PROPN	Clitandre
+,	PUNCT	,
+vous	PRON	vous
+n'	ADV	n'
+aimez	VERB	aimer
+donc	ADV	donc
+pas	ADV	pas
+Araminte	PROPN	Araminte
+?	PUNCT	?
+
+	SPACE	
+
+(	PUNCT	(
+Clitandre	PROPN	Clitandre
+hausse	VERB	hausse
+les	DET	le
+épaules	NOUN	épaule
+.	PUNCT	.
+)	PUNCT	)
+
+	SPACE	
+
+Mais	CCONJ	mais
+pourtant	ADV	pourtant
+vous	PRON	vous
+l'	PRON	l'
+avez	AUX	avoir
+eue	VERB	avoir
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Ah	INTJ	Ah
+!	PUNCT	!
+c'	PRON	ce
+est	AUX	être
+autre	ADJ	autre
+chose	NOUN	chose
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+En	ADP	en
+effet	NOUN	effet
+,	PUNCT	,
+on	PRON	on
+dit	VERB	dire
+qu'	SCONJ	que
+aujourd'hui	ADV	aujourd'hui
+cela	PRON	cela
+fait	VERB	faire
+une	DET	un
+différence	NOUN	différence
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Et	CCONJ	et
+je	PRON	je
+crois	VERB	croire
+de	ADP	de
+plus	ADV	plus
+que	SCONJ	que
+ce	PRON	ce
+n'	ADV	n'
+est	AUX	être
+pas	ADV	pas
+d'	ADP	de
+aujourd'hui	ADV	aujourd'hui
+que	SCONJ	que
+cela	PRON	cela
+en	PRON	en
+fait	VERB	faire
+une	DET	un
+.	PUNCT	.
+
+	SPACE	
+
+CIDALISE	PROPN	CIDALISE
+.	PUNCT	.
+
+	SPACE	
+
+Vous	PRON	vous
+m'	PRON	me
+étonnez	VERB	étonner
+.	PUNCT	.
+Je	PRON	je
+croyais	VERB	croire
+que	SCONJ	que
+c'	PRON	ce
+était	AUX	être
+une	DET	un
+obligation	NOUN	obligation
+que	PRON	que
+l'	PRON	l'
+on	PRON	on
+avait	VERB	avoir
+à	ADP	à
+la	DET	le
+Philosophie	NOUN	philosophie
+moderne	ADJ	moderne
+.	PUNCT	.
+
+	SPACE	
+
+CLITANDRE	PROPN	CLITANDRE
+.	PUNCT	.
+
+	SPACE	
+
+Je	PRON	je
+croirais	VERB	croire
+bien	ADV	bien
+aussi	ADV	aussi
+qu'	SCONJ	que
+en	ADP	en
+cela	PRON	cela
+,	PUNCT	,
+comme	ADP	comme
+en	ADP	en
+beaucoup	ADV	beaucoup
+d'	ADP	de
+autres	ADJ	autre
+choses	NOUN	chose
+,	PUNCT	,
+elle	PRON	lui
+a	AUX	avoir
+rectifié	VERB	rectifier
+nos	DET	notre
+idées	NOUN	idée
+;	PUNCT	;
+mais	CCONJ	mais
+qu'	SCONJ	que
+elle	PRON	lui
+nous	PRON	nous
+a	AUX	avoir
+plus	ADV	plus
+appris	VERB	apprendre
+à	ADP	à
+connaître	VERB	connaître
+les	DET	le
+motifs	NOUN	motif
+de	ADP	de
+nos	DET	notre
+actions	NOUN	action
+,	PUNCT	,
+et	CCONJ	et
+à	ADP	à
+ne	ADV	ne
+plus	ADV	plus
+croire	VERB	croire
+que	SCONJ	que
+nous	PRON	nous
+agissons	VERB	agir
+au	ADP	au
+hasard	NOUN	hasard
+,	PUNCT	,
+qu'	SCONJ	que
+elle	PRON	lui
+ne	ADV	ne
+les	PRON	le
+a	AUX	avoir
+déterminées	VERB	déterminer
+.	PUNCT	.
+Avant	ADP	avant
+,	PUNCT	,
+par	ADP	par
+exemple	NOUN	exemple
+,	PUNCT	,
+que	SCONJ	que
+nous	PRON	nous
+sçussions	VERB	sçussier
+raisonner	VERB	raisonner
+si	ADV	si
+bien	ADV	bien
+,	PUNCT	,
+nous	PRON	nous
+faisions	VERB	faire
+sûrement	ADV	sûrement
+tout	ADJ	tout
+ce	PRON	ce
+que	PRON	que
+nous	PRON	nous
+faisons	VERB	faire
+aujourd'hui	ADV	aujourd'hui
+;	PUNCT	;
+mais	CCONJ	mais
+nous	PRON	nous
+le	PRON	le
+faisions	VERB	faire
+,	PUNCT	,
+entraînés	VERB	entraîner
+par	ADP	par
+le	DET	le
+torrent	NOUN	torrent
+,	PUNCT	,
+sans	ADP	sans
+connaissance	NOUN	connaissance
+de	ADP	de
+cause	NOUN	cause
+,	PUNCT	,
+et	CCONJ	et
+avec	ADP	avec
+cette	DET	ce
+timidité	NOUN	timidité
+que	PRON	que
+donnent	VERB	donner
+les	DET	le
+préjugés	NOUN	préjugé
+.	PUNCT	.
+Nous	PRON	nous
+n'	ADV	n'
+étions	VERB	être
+pas	ADV	pas
+plus	ADV	plus
+estimables	ADJ	estimable
+qu'	SCONJ	que
+aujourd'hui	ADV	aujourd'hui
+;	PUNCT	;
+mais	CCONJ	mais
+nous	PRON	nous
+voulions	VERB	vouloir
+le	PRON	le
+paraître	VERB	paraître
+,	PUNCT	,
+et	CCONJ	et
+il	PRON	il
+ne	ADV	ne
+se	PRON	se
+pouvait	VERB	pouvoir
+pas	ADV	pas
+qu'	SCONJ	que
+une	DET	un
+prétention	NOUN	prétention
+si	ADV	si
+absurde	ADJ	absurde
+ne	ADV	ne
+gênât	VERB	gêner
+beaucoup	ADV	beaucoup
+les	DET	le
+plaisirs	NOUN	plaisir
+.	PUNCT	.
+Enfin	ADV	enfin
+,	PUNCT	,
+nous	PRON	nous
+avons	AUX	avoir
+eu	VERB	avoir
+le	DET	le
+bonheur	NOUN	bonheur
+d'	ADP	de
+arriver	VERB	arriver
+au	ADP	au
+vrai	ADJ	vrai
+:	PUNCT	:
+eh	INTJ	eh
+!	PUNCT	!
+que	PRON	que
+n'	ADV	n'
+en	PRON	en
+résulte	VERB	résulte
+-t	PRON	-t
+-il	PRON	il
+pas	ADV	pas
+pour	ADP	pour
+nous	PRON	nous
+?	PUNCT	?
+Jamais	ADV	jamais
+les	DET	le
+femmes	NOUN	femme
+n'	ADV	n'
+ont	AUX	avoir
+mis	VERB	mettre
+moins	ADV	moins
+de	ADP	de
+grimaces	NOUN	grimace
+dans	ADP	dans
+la	DET	le
+société	NOUN	société
+;	PUNCT	;
+jamais	ADV	jamais
+l'	PRON	l'
+on	PRON	on
+n'	ADV	n'
+a	AUX	avoir
+moins	ADV	moins
+affecté	VERB	affecter
+la	DET	le
+vertu	NOUN	vertu
+.	PUNCT	.
+On	PRON	on
+se	PRON	se
+plaît	VERB	plaire
+,	PUNCT	,
+on	PRON	on
+se	PRON	se
+prend	VERB	prendre
+.	PUNCT	.
+S'	PRON	se
+ennuye	VERB	ennuye
+-	PRON	-
+t'	PRON	te
+on	PRON	on
+l'	DET	le
+un	PRON	un
+avec	ADP	avec
+l'	DET	le
+autre	PRON	autre
+?	PUNCT	?
+on	PRON	on
+se	PRON	se
+quitte	VERB	quitte
+avec	ADP	avec
+tout	ADV	tout
+aussi	ADV	aussi
+peu	ADV	peu
+de	ADP	de
+cérémonie	NOUN	cérémonie
+que	SCONJ	que
+l'	PRON	l'
+on	PRON	on
+s'	PRON	se
+est	AUX	être
+pris	VERB	prendre
+.	PUNCT	.
+Revient	VERB	revenir
+-on	PRON	on
+à	ADP	à
+se	PRON	se
+plaire	VERB	plaire
+?	PUNCT	?
+on	PRON	on
+se	PRON	se
+reprend	VERB	reprendre
+avec	ADP	avec
+autant	ADV	autant
+de	ADP	de
+vivacité	NOUN	vivacité
+que	SCONJ	que
+si	SCONJ	si
+c'	PRON	ce
+était	AUX	être
+la	DET	le
+première	ADJ	premier
+fois	NOUN	fois
+qu'	SCONJ	que
+on	PRON	on
+s'	PRON	se
+engageât	VERB	engager
+ensemble	ADV	ensemble
+.	PUNCT	.
+On	PRON	on
+se	PRON	se
+quitte	VERB	quitte
+encore	ADV	encore
+,	PUNCT	,
+et	CCONJ	et
+jamais	ADV	jamais
+on	PRON	on
+ne	ADV	ne
+se	PRON	se
+brouille	VERB	brouille
+.	PUNCT	.
+Il	PRON	il
+est	VERB	être
+vrai	ADJ	vrai
+que	SCONJ	que
+l'	DET	le
+amour	NOUN	amour
+n'	ADV	n'
+est	AUX	être
+entré	VERB	entrer
+pour	ADP	pour
+rien	PRON	rien
+dans	ADP	dans
+tout	ADJ	tout
+cela	PRON	cela
+;	PUNCT	;
+mais	CCONJ	mais
+l'	DET	le
+amour	NOUN	amour
+,	PUNCT	,
