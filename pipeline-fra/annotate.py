@@ -1,7 +1,5 @@
 """
-Script to count verbs of "inner life" in collections of unannotated files. 
-Uses spacy for annotation. (Optimization: use TreeTagger with PRESTO model for 18th century.)
-Outputs verb count information in the same style as Lou's and/or Diana's scripts, for compatibility. 
+Script to annotate plain text with spacy for annotation. 
 
 Script written by Christof Schöch (Trier), January 2023. 
 """
@@ -28,13 +26,10 @@ import fr_dep_news_trf
 
 # === Global variables ===
 
-# Files outside the innerlife repository
-#textfolder = join("/", "media", "christof", "Data", "Github", "mimotext", "roman18", "plain", "files", "*.txt") #roman18
-textfolder = join("/", "media", "christof", "Data", "Github", "eltec", "ELTeC-fra", "plain1", "*.txt") #ELTeC-fra
-
 # Local data
-workdir = join(os.path.realpath(os.path.dirname(__file__)), "..")
-annotatedfolder = join(workdir, "data", "fra19", "annotated", "")
+workdir = join("/", "media", "christof", "Data", "Drive", "03_Academic", "03_Aktionen", "1-Aktuell", "2023_innerlife")
+textfolder = join(workdir, "data", "plain", "19b", "*.txt") 
+annotatedfolder = join(workdir, "data", "annotated", "19b", "")
 
 
 # === Functions === 
@@ -47,11 +42,8 @@ def read_textfile(file):
     """
     with open(file, "r", encoding="utf8") as infile: 
         text = infile.read()
-    #if len(text) > 50000: 
-    #    text = text[0:(int(len(text)/10))]
-    #elif len(text) > 20000: 
-    #    text = text[0:(int(len(text)/5))]
-    text = text[0:1000]
+    text = re.sub("\t", "", text)
+    #text = text[0:2000] # for testing
     return text
 
 
@@ -62,13 +54,14 @@ def annotate_text(text, nlp):
     """
     nlp.max_length = len(text) + 1000
     annotated = nlp(text)
-    print([(w.text, w.pos_, w.lemma_, w.tag_, w.dep_, w.morph, w.ent_type) for w in annotated[0:25]])
+    #print([(w.text, w.pos_, w.lemma_, w.tag_, w.dep_, w.morph) for w in annotated[0:25]])
     return annotated
 
 
 def save_annotated(basename, annotated): 
-    serialized = [t.text + "\t" + t.pos_ + "\t" + t.lemma_ for t in annotated]
+    serialized = [t.text + "\t" + t.pos_ + "\t" + t.lemma_ + "\t" + t.dep_ + "\t" + str(t.morph) for t in annotated if t.pos_ != "SPACE" and t.text != " "]
     serialized = "\n".join(serialized)
+    serialized = "wordform\tpos\tlemma\tdep\tmorph\n" + serialized
     annotatedfile = join(annotatedfolder, basename + ".csv")
     with open(annotatedfile, "w", encoding="utf8") as outfile: 
         outfile.write(serialized)
@@ -82,15 +75,21 @@ def main():
     Loads nlp model from spacy. 
     Then loops over each text to annotate, and saves annotation to disk. 
     """
-    nlp = spacy.load("fr_dep_news_trf")
+    nlp = spacy.load("fr_dep_news_trf", disable=["ner"])
     spacy.prefer_gpu()
     progress = 0
-    for file in glob.glob(textfolder)[0:5]: 
+    plain_files = [os.path.basename(file).split(".")[0] for file in glob.glob(join(textfolder))]
+    already_annotated = [os.path.basename(file).split(".")[0] for file in glob.glob(join(annotatedfolder, "*.csv"))]
+    print("Total plain files:", len(plain_files), "| already annotated:", len(already_annotated))
+    for file in glob.glob(textfolder): 
         basename, ext = os.path.basename(file).split(".")
-        text = read_textfile(file)
-        annotated = annotate_text(text, nlp)
-        save_annotated(basename, annotated)
-        print(progress, basename, str(len(text)) + ": done.")
+        if basename not in already_annotated: 
+            text = read_textfile(file)
+            annotated = annotate_text(text, nlp)
+            save_annotated(basename, annotated)
+            print(progress, basename, str(len(re.split("\W+", text))) + ": done.")
+        else: 
+            print(progress, basename, ": already annotated.")
         progress +=1
 
 main()
